@@ -1,0 +1,2001 @@
+commission_year,unitId,codeLine,owner_operator,id_depot,serviceHours,serialNumber,class_duty,installRegion
+2017,1,L4,Williams-Nicholson,34,25682.30000,HS-6251-99692,normal,Serpa
+2023,2,L6,"Fields, Castillo and Gibson",10,5238.90000,XA-1366-57511,1,Wernigerode
+2020,3,L6,Holzapfel,109,16148.70000,DU-5060-76112,heavy,Vila Nova de Foz Côa
+2022,4,L4,Pinheiro Lda.,58,8415.50000,VD-3905-80163,N,Ludwigsburg
+2023,5,L1,"Fields, Castillo and Gibson",13,6489.00000,ZX-0053-79363,L,Eddiemouth
+2020,6,L4,Borges Mendes S/A,95,17302.00000,DQ-6151-90626,H,Roberthaven
+2022,7,L6,Fritsch e.G.,17,,BW-6860-14267,light,Königs Wusterhausen
+2020,8,L4,Long-Washington,2,14224.60000,KJ-6150-57705,1,Mangualde
+2021,9,L4,Borges Mendes S/A,85,12292.10000,OW-4964-35015,med,Säckingen
+2022,10,L4,Stumpf GbR,30,8718.50000,HC-2206-40731,1,Mangualde
+2016,11,L5,Sá Figueiredo Lda.,25,31070.70000,JK-4851-93745,1,Guben
+2021,12,L3,Rogner Hölzenbecher e.G.,94,11298.00000,CE-0274-03409, heavy ,Barreiro
+2023,13,L4,Stumpf GbR,68,,WF-1114-03531,N,Santa Comba Dão
+2022,14,L4,Seip Pölitz GbR,77,9997.40000,WP-5783-08097,N,Monicabury
+2020,15,L6,Rocha,41,14019.90000,RS-4897-01836,N,Lewisfurt
+2021,16,L3,Sá Valente Lda.,9,13890.70000,JW-3553-10426,3,Euskirchen
+2023,17,L2,Moreira,77,6464.20000,FQ-0150-29877,med,Lamego
+2022,18,L2,Carson and Sons,6,9198.40000,PG-2586-60850,L,Mariafort
+2022,19,L6,"Fields, Castillo and Gibson",109,8239.60000,BY-8792-92103,H,Póvoa de Santa Iria
+2023,20,L6,Carson and Sons,72,6388.40000,PR-1904-72711,normal,Fiães
+2019,21,L4,Monteiro,33,18529.30000,GE-2717-15616,1,Mühlhausen
+2022,22,L5,Pinheiro Lda.,18,9050.10000,ZZ-6253-94661,L,Weißenfels
+2024,23,L4,Trupp Eigenwillig Stiftung & Co. KG,69,2785.30000,JY-1545-04659,2,Lüdinghausen
+2022,24,L2,"Mcclure, Mullen and Bernard",71,8552.00000,KA-0247-37730,normal,Hofgeismar
+2022,25,L3,Eberhardt GmbH & Co. KG,13,9774.40000,XK-8368-68462,H,Mangualde
+2021,26,L6,Gnatz Hermann AG,60,13820.90000,IB-3420-55604,N,Jessen
+2022,27,L4,Weinhage Davids GbR,96,,HI-1331-97539,1,New Cathyville
+2021,28,L5,Long-Washington,83,13371.10000,YO-0656-57429,L,Portimão
+2023,29,L1,Pinheiro Lda.,54,3798.20000,HW-0608-00897,med,Eichstätt
+2023,30,L3,Atzler KG,86,5426.20000,FU-0389-05181, heavy ,Eddiemouth
+2022,31,L4,Monteiro,101,7007.20000,LU-7023-14698,H,New Cathyville
+2021,32,L3,Martin Neureuther Stiftung & Co. KG,24,10997.30000,CJ-9941-00004,1,Felgueiras
+2016,33,L4,Monteiro,101,31003.00000,RP-7924-32627,H,Monicabury
+2018,34,L6,Barros Faria Lda.,30,21989.20000,PJ-7091-16447,1,Monicabury
+2018,35,L2,Martin Neureuther Stiftung & Co. KG,99,23245.90000,LH-3158-52642, 3 ,Felgueiras
+2021,36,L4,Hoffmann,89,11976.10000,LN-4437-74325,H,New Michelleborough
+2018,37,L5,Monteiro,98,22516.10000,GN-2417-16158,heavy,Guben
+2023,38,L5,Long-Washington,111,5138.70000,SE-4767-74705,heavy,Lake Michael
+2021,39,L3,Long-Washington,83,13484.60000,WV-2389-21475, L ,Serpa
+2022,40,L4,"Bennett, Wood and Bell",3,8058.80000,HS-0467-86402,L,Fiães
+2023,41,L1,Nguyen Ltd,68,4746.40000,HE-2956-92278,2,Jeffreychester
+2021,42,L2,Maia,88,11258.00000,ZE-5470-30071, H ,Queluz
+2022,43,L1,Weinhage Martin GmbH & Co. KGaA,59,9351.90000,FK-6214-31380,normal,Portimão
+2017,44,L4,Santos,71,26370.30000,TP-6649-53728,L,Eddiemouth
+2020,45,L2,Martin Neureuther Stiftung & Co. KG,94,16573.70000,NT-3913-67031,heavy,East Shaneview
+2021,46,L1,Borges Mendes S/A,114,12833.40000,UI-8526-37853,3,Luckenwalde
+2022,47,L3,Fritsch e.G.,26,7140.10000,JB-7897-51808,light,Paigemouth
+2022,48,L3,"Mcclure, Mullen and Bernard",69,7302.60000,XV-9687-99512, med ,Luckenwalde
+2020,49,L6,Atzler KG,40,16689.60000,WR-0827-41772,1,Guben
+2015,50,L5,"Green, Nichols and Robbins",27,33550.30000,LS-8308-09325,1,Jamesberg
+2023,51,L3,Seip Pölitz GbR,4,3991.60000,WK-1885-25598,1,Eddiemouth
+2022,52,L2,"Green, Nichols and Robbins",72,9463.90000,UG-0151-43399,med,Jeffreychester
+2020,53,L5,Schroeder PLC,25,14322.20000,XD-2260-88115,1,Witzenhausen
+2023,54,L6,Hoffmann,44,5706.20000,MK-2427-83484,light,Wernigerode
+2022,55,L5,Mans Schmidtke GmbH,88,,IZ-0241-39457,N,Felgueiras
+2014,56,L4,Mans Schmidtke GmbH,70,37169.10000,JY-9172-57888,heavy,Eichstätt
+2019,57,L6,Gnatz Hermann AG,11,,DA-4668-73222,light,Euskirchen
+2020,58,L6,"Fields, Castillo and Gibson",3,16191.80000,NF-1748-03347,med,Lake Philipville
+2018,59,L1,Santos,94,24473.40000,CF-8077-72123,normal,Mariafort
+2023,60,L6,Martin Neureuther Stiftung & Co. KG,19,5864.70000,PU-8962-17787,light,Kemnath
+2022,61,L6,Döring GbR,5,10181.90000,TY-2984-88040,1,Hofgeismar
+2020,62,L2,Seip Pölitz GbR,102,16690.20000,BD-2711-68246,med,Lake Michael
+2022,63,L1,Barros Faria Lda.,14,9518.40000,NX-9263-76400,1,Seelow
+2022,64,L3,Sá Figueiredo Lda.,16,7735.30000,BX-4042-91147,N,Póvoa de Santa Iria
+2020,65,L1,Maia,23,15714.20000,CY-3170-83996,1,Lake Jesus
+2022,66,L5,Schroeder PLC,3,,KN-9856-87827, light ,Lewisfurt
+2023,67,L3,Brooks-Lopez,55,4954.90000,QZ-6388-54519,N,Weißwasser
+2020,68,L6,Pinheiro Lda.,20,17484.80000,CS-3154-88114,L,Jamesberg
+2022,69,L2,Weinhage Martin GmbH & Co. KGaA,96,10174.00000,NF-8316-19256,med,Vila Nova de Foz Côa
+2022,70,L5,Atzler KG,52,9066.70000,YM-1147-85358,med,Ludwigsburg
+2020,71,L1,Moreira,97,14093.60000,RS-9533-81058,3,Hollandborough
+2023,72,L3,Santos,69,4190.80000,OS-9542-56047,N,Jessen
+2023,73,L4,Rogner Hölzenbecher e.G.,98,3600.70000,CB-3851-38094,3,Schongau
+2018,74,L3,Gnatz Hermann AG,15,23914.30000,OO-9134-55994,light,Port Cherylview
+2020,75,L5,Hoffmann,30,,BA-4070-91700,light,Jessen
+2019,76,L2,Eberhardt GmbH & Co. KG,53,20542.90000,EN-1555-17903,normal,New Michelleborough
+2015,77,L2,Sá Valente Lda.,94,34954.30000,UH-7216-30881,heavy,Hofgeismar
+2019,78,L5,Hoffmann,13,17696.60000,XY-1950-12261,L,Seelow
+2022,79,L1,Borges Mendes S/A,39,9818.80000,RO-7236-89819,1,Fiães
+2022,80,L5,Fritsch e.G.,0,8708.90000,EN-2331-24885,1,Säckingen
+2023,81,L1,Sá Valente Lda.,33,4633.70000,RB-9048-27460, L ,East Shaneview
+2023,82,L5,Brooks-Lopez,90,5738.80000,PH-8748-91184,light,Póvoa de Santa Iria
+2020,83,L5,Eberhardt GmbH & Co. KG,73,16433.00000,DJ-0868-41611,heavy,New Michelleborough
+2019,84,L3,Sá Valente Lda.,100,18775.70000,LE-7983-36045,light,West Erinmouth
+2022,85,L2,Weinhage Martin GmbH & Co. KGaA,117,10035.60000,VB-3544-93603,N,Portimão
+2020,86,L3,Eberhardt GmbH & Co. KG,96,17363.30000,QZ-6176-57939, 3 ,Lewisfurt
+2020,87,L3,Williams-Nicholson,73,15933.60000,ZQ-5306-12103,N,Felgueiras
+2022,88,L2,"Mcclure, Mullen and Bernard",58,10050.90000,OV-9994-68342,N,Lake Jesus
+2017,89,L1,Rogner Hölzenbecher e.G.,27,24597.30000,AH-2853-93323,1,São Salvador de Lordelo
+2021,90,L3,Schroeder PLC,58,10542.40000,LN-5774-49280,light,Póvoa de Santa Iria
+2021,91,L5,Martin Neureuther Stiftung & Co. KG,91,11611.00000,UT-4426-89701,1,Felgueiras
+2023,92,L6,Rocha,75,4688.50000,MG-8326-45140,med,Lake Jesus
+2017,93,L4,Seip Pölitz GbR,14,27879.10000,OH-7089-07592,1,East Lisafurt
+2019,94,L3,"Fields, Castillo and Gibson",20,19860.00000,LR-1305-67776,L,Felgueiras
+2021,95,L4,Ferreira e Filhos,30,13821.80000,XM-0036-12940,1,Lewisfurt
+2020,96,L5,Holzapfel,20,17197.30000,ZZ-6443-80376,1,Witzenhausen
+2012,97,L4,Wende Schulz AG,57,43765.50000,JC-5378-38895,2,Fiães
+2021,98,L3,Nguyen Ltd,63,11582.90000,RW-6216-45199,N,Felgueiras
+2020,99,L4,Brooks-Lopez,71,15340.80000,UG-6755-12141,2,New Michelleborough
+2023,100,L2,Barros Faria Lda.,35,5382.50000,FY-1838-35681,1,Fürstenwalde
+2020,101,L6,Gnatz Hermann AG,95,14471.30000,ZP-0973-61046,H,Vila Nova de Foz Côa
+2020,102,L1,Maia,80,,BS-9503-40904,H,Ludwigsburg
+2020,103,L6,Schroeder PLC,119,16396.60000,WX-2322-46659,3,Roberthaven
+2024,104,L3,Sá Figueiredo Lda.,43,2191.60000,JB-9209-82689,light,Gloriaberg
+2021,105,L1,Sá Figueiredo Lda.,108,13821.80000,LN-0177-35189,heavy,São Salvador de Lordelo
+2017,106,L6,Döring GbR,11,25943.00000,WD-3975-74212,L,Jamesberg
+2021,107,L3,Barros Faria Lda.,11,12275.20000,FW-1423-21808,light,Königs Wusterhausen
+2018,108,L5,Moreira,54,24106.80000,CR-7442-27176,med,Silves
+2021,109,L1,"Campbell, Martinez and Brown",7,12956.70000,LW-0457-65580,light,New Cathyville
+2023,110,L5,"Green, Nichols and Robbins",2,6774.50000,XB-3222-84168,1,West Erinmouth
+2021,111,L1,Eberhardt GmbH & Co. KG,39,13352.80000,SC-4350-66043,1,Silves
+2017,112,L3,Schroeder PLC,100,24633.30000,LB-0048-64891,H,Fiães
+2013,113,L5,Stumpf GbR,62,41972.20000,JW-3614-54074,L,Mühlhausen
+2013,114,L5,Fritsch e.G.,63,39582.20000,ST-6560-64846,2,Lake Shanemouth
+2019,115,L5,Wende Schulz AG,10,19687.10000,GU-4727-13911,1,Eddiemouth
+2023,116,L6,"Campbell, Martinez and Brown",16,4626.00000,WS-1857-08446,1,Monicabury
+2021,117,L5,Weinhage Davids GbR,45,11201.80000,NJ-6994-96789,normal,Queluz
+2020,118,L4,"Bennett, Wood and Bell",117,14051.00000,ZT-4653-58306,H,Póvoa de Santa Iria
+2021,119,L6,Maia,1,13962.50000,XD-6151-36143, light ,Queluz
+2019,120,L4,Trupp Eigenwillig Stiftung & Co. KG,50,18286.50000,AF-6013-95708,2,Barreiro
+2022,121,L3,Mans Schmidtke GmbH,43,8095.90000,MC-2223-47444,med,Luckenwalde
+2023,122,L5,"Bennett, Wood and Bell",33,,GO-8738-20969,H,Wernigerode
+2023,123,L5,"Green, Nichols and Robbins",70,3827.40000,SP-1490-98486,normal,Lake Philipville
+2017,124,L5,Fritsch e.G.,2,24852.90000,CH-4409-63540,light,Lake Jesus
+2023,125,L2,Maia,58,6878.00000,IQ-6344-24579,2,Königs Wusterhausen
+2022,126,L2,Sá Figueiredo Lda.,12,10361.50000,YB-6082-62299, L ,Mariafort
+2022,127,L4,Döring GbR,92,10215.80000,WA-5183-64568,H,Königs Wusterhausen
+2023,128,L6,Santos,105,6318.90000,SF-3898-07175,L,Hollandborough
+2020,129,L4,Stumpf GbR,76,,HW-6240-28253, normal ,East Shaneview
+2023,130,L2,Williams-Nicholson,32,5962.60000,QA-7741-16863,N,Apolda
+2023,131,L5,Hoffmann,88,6609.30000,LA-0383-02586,1,Seelow
+2024,132,L5,Sá Valente Lda.,16,3265.90000,XA-5725-17433,1,Santa Comba Dão
+2022,133,L3,Rogner Hölzenbecher e.G.,12,,ZB-3011-94733,light,Lake Michael
+2024,134,L6,Mans Schmidtke GmbH,51,2869.60000,WB-0499-79391,normal,Port Cherylview
+2021,135,L1,Seip Pölitz GbR,44,11520.90000,PL-3710-02982,light,Freising
+2020,136,L2,"Bennett, Wood and Bell",36,14104.00000,RP-3236-79746,normal,Thompsonfurt
+2018,137,L5,"Campbell, Martinez and Brown",50,21805.50000,FX-3982-67186,2,Rio Tinto
+2020,138,L1,Atzler KG,76,14833.60000,UQ-3399-72076, 1 ,Portimão
+2021,139,L3,Monteiro,35,10600.30000,IN-7366-91482,light,Mangualde
+2017,140,L6,"Campbell, Martinez and Brown",39,24910.90000,ON-9929-89685,1,North Theresaborough
+2023,141,L6,"Green, Nichols and Robbins",70,4679.30000,QW-4591-73840,N,Lüdinghausen
+2023,142,L6,Eberhardt GmbH & Co. KG,40,3859.90000,PX-1212-54888,med,Felgueiras
+2017,143,L6,Martin Neureuther Stiftung & Co. KG,21,24534.20000,SW-7338-26701,light,Eichstätt
+2022,144,L3,Williams-Nicholson,41,8357.80000,ZY-3614-18643,N,Weißenfels
+2023,145,L6,"Campbell, Martinez and Brown",61,5419.00000,VM-8437-19767,med,Santa Comba Dão
+2019,146,L6,Brooks-Lopez,88,18773.70000,JJ-7070-85475,1,Lake Jesus
+2015,147,L4,"Green, Nichols and Robbins",39,32060.60000,JU-0608-57859,med,Freising
+2023,148,L1,Schroeder PLC,39,,QF-1120-43877,heavy,Santa Comba Dão
+2023,149,L6,Ferreira e Filhos,77,6405.20000,QI-8693-94861,2,Felgueiras
+2012,150,L3,Weinhage Martin GmbH & Co. KGaA,56,45000.00000,ZM-2846-93284,normal,Felgueiras
+2017,151,L5,Reis Lda.,51,25926.20000,SK-6867-43107, normal ,Queluz
+2023,152,L1,Reising Trupp AG & Co. KGaA,12,4568.80000,OV-0983-68190,L,Lake Philipville
+2020,153,L6,Reising Trupp AG & Co. KGaA,101,14751.60000,MZ-7653-96760,light,Weißwasser
+2021,154,L4,Weinhage Davids GbR,25,13582.20000,JU-5313-61954,L,Felgueiras
+2024,155,L4,Santos,97,2936.70000,DC-1816-52017,heavy,Lake Shanemouth
+2015,156,L5,Döring GbR,109,32793.60000,TB-1081-52265,med,Schongau
+2016,157,L1,Mans Schmidtke GmbH,7,28138.00000,UY-1570-22959,L,Vila Nova de Foz Côa
+2022,158,L3,"Mcclure, Mullen and Bernard",24,10068.80000,PN-7092-29019,2,Monicabury
+2022,159,L3,Atzler KG,24,7281.10000,UM-1341-97539,light,Thompsonfurt
+2022,160,L1,Reis Lda.,77,10403.50000,CP-0445-52209,L,Port Cherylview
+2020,161,L1,Brooks-Lopez,80,15119.20000,BV-1187-60092,N,Lewisfurt
+2018,162,L1,Reis Lda.,15,23275.50000,XR-7984-00919,light,Póvoa de Santa Iria
+2021,163,L4,Carson and Sons,42,10704.10000,RU-8608-00235,normal,Lüdinghausen
+2022,164,L4,Williams-Nicholson,45,7390.90000,OI-8490-92918,N,Eddiemouth
+2019,165,L3,Barros Faria Lda.,48,19212.00000,UL-3946-78648,normal,Witzenhausen
+2022,166,L3,Weinhage Martin GmbH & Co. KGaA,13,7589.10000,ZY-8757-46669, 1 ,Lamego
+2023,167,L2,Nguyen Ltd,119,6950.20000,KZ-9397-76072,H,North Theresaborough
+2024,168,L6,Moreira,6,3000.00000,ST-9424-27649,1,Felgueiras
+2021,169,L4,Reis Lda.,102,12027.80000,AD-5769-55338,H,Jessen
+2016,170,L3,Weinhage Martin GmbH & Co. KGaA,37,28034.70000,GC-6287-86620,1,Fiães
+2023,171,L3,Long-Washington,3,6288.70000,BE-9552-99927,1,Lake Jesus
+2022,172,L2,Eberhardt GmbH & Co. KG,60,10398.80000,CC-2219-20169,1,Queluz
+2023,173,L6,Pinheiro Lda.,11,6785.50000,LS-6199-20396, L ,Lewisfurt
+2021,174,L6,"Green, Nichols and Robbins",72,10586.20000,ZW-7290-17398,H,Lüdinghausen
+2012,175,L5,Carson and Sons,11,45000.00000,DB-5382-24431,1,Witzenhausen
+2022,176,L6,Seip Pölitz GbR,4,9989.60000,XM-8899-38414,L,Lake Shanemouth
+2020,177,L2,Brooks-Lopez,74,16222.20000,FW-2964-06912,light,Paigemouth
+2020,178,L2,Schroeder PLC,67,14220.60000,BT-9821-54696, med ,Euskirchen
+2019,179,L3,Stumpf GbR,98,18836.70000,OY-1836-18001, 3 ,Portimão
+2022,180,L1,Nguyen Ltd,42,9459.30000,FD-6570-76905,N,Vila Nova de Foz Côa
+2020,181,L1,"Campbell, Martinez and Brown",27,15311.30000,XD-3448-81330,1,Fürstenwalde
+2019,182,L3,Moreira,15,18964.80000,ZP-6587-20044, light ,Luckenwalde
+2017,183,L6,Moreira,51,25595.70000,CA-7283-48382,heavy,Felgueiras
+2014,184,L4,Borges Mendes S/A,18,35888.60000,WP-5112-16523,1,Queluz
+2020,185,L6,Barros Faria Lda.,85,15923.40000,HI-5075-29391,3,Port Cherylview
+2022,186,L1,"Mcclure, Mullen and Bernard",53,9506.50000,BR-9663-09721,2,New Michelleborough
+2018,187,L2,Döring GbR,85,23059.20000,FJ-7704-75795,3,Lake Philipville
+2023,188,L2,Schroeder PLC,17,5114.80000,LS-4363-28036,L,Portimão
+2021,189,L4,Wende Schulz AG,20,12740.30000,FL-6775-04614, heavy ,New Cathyville
+2023,190,L4,Williams-Nicholson,0,,XG-9523-76457,light,Wanzleben
+2023,191,L1,Carson and Sons,108,4843.10000,AS-9188-30654, light ,New Cathyville
+2022,192,L1,Sá Figueiredo Lda.,33,10031.30000,DX-8898-71394,light,Jamesberg
+2014,193,L1,Stumpf GbR,90,37654.50000,LG-5604-82507,3,East Shaneview
+2021,194,L4,Brooks-Lopez,18,13426.40000,GF-8180-94859,normal,Mangualde
+2021,195,L2,Sá Valente Lda.,2,11095.10000,NX-5322-21118,L,Jeffreychester
+2021,196,L3,Trupp Eigenwillig Stiftung & Co. KG,11,11432.30000,QR-0532-79847,N,Póvoa de Santa Iria
+2021,197,L6,"Campbell, Martinez and Brown",107,,AQ-2985-94298,H,Gloriaberg
+2019,198,L2,Brooks-Lopez,28,,SZ-4989-95634,1,Rio Tinto
+2021,199,L2,Fritsch e.G.,107,10649.30000,AG-1692-18847,heavy,Lake Michael
+2018,200,L1,Maia,48,21086.70000,UG-2508-74602,light,Fürstenwalde
+2018,201,L6,Barros Faria Lda.,65,23568.30000,GZ-3570-35630,N,Jessen
+2023,202,L3,Martin Neureuther Stiftung & Co. KG,15,4400.20000,VV-5798-29635,L,Fürstenwalde
+2021,203,L3,Ferreira e Filhos,1,10944.20000,KC-3821-34328, light ,Roberthaven
+2021,204,L6,Wende Schulz AG,85,12045.10000,QT-4465-94361, heavy ,Säckingen
+2018,205,L4,Schroeder PLC,0,21788.40000,AC-4139-98509,1,Penafiel
+2021,206,L3,Monteiro,77,12058.60000,XC-3056-37156,N,Wernigerode
+2014,207,L3,Weinhage Martin GmbH & Co. KGaA,58,,WR-6427-65461,L,Póvoa de Santa Iria
+2020,208,L1,Wende Schulz AG,114,15930.20000,JZ-6750-73723, H ,Serpa
+2021,209,L1,"Mcclure, Mullen and Bernard",12,12097.30000,YL-2015-36618,light,Wernigerode
+2020,210,L1,Trupp Eigenwillig Stiftung & Co. KG,48,16932.30000,BE-2749-88524,med,Portimão
+2023,211,L3,Long-Washington,27,6058.10000,QJ-0064-65616,L,Gloriaberg
+2020,212,L4,Moreira,31,16837.30000,HW-8315-56645,1,West Erinmouth
+2017,213,L6,Döring GbR,111,26547.30000,TT-3380-07163,L,Euskirchen
+2021,214,L5,Sá Figueiredo Lda.,91,12086.70000,NG-0043-25122,H,Paigemouth
+2022,215,L6,Santos,116,10283.90000,KI-6178-83903,3,Hofgeismar
+2022,216,L4,Sá Figueiredo Lda.,43,10217.60000,PG-1331-83445,2,Ludwigsburg
+2023,217,L6,Monteiro,5,6762.30000,XZ-4141-64962,light,Lüdinghausen
+2022,218,L1,"Fields, Castillo and Gibson",79,9505.50000,NA-4873-74702,normal,Lüdinghausen
+2021,219,L4,Santos,47,11751.60000,ZG-9390-95684,normal,Lewisfurt
+2019,220,L4,Borges Mendes S/A,81,17996.50000,AR-0096-18602,H,Lake Philipville
+2023,221,L6,"Bennett, Wood and Bell",65,6309.20000,EL-3007-53546,normal,Säckingen
+2022,222,L3,Barros Faria Lda.,112,8465.00000,YP-2494-60470,N,Silves
+2022,223,L5,"Green, Nichols and Robbins",79,9501.00000,PU-7356-45804,med,Serpa
+2023,224,L2,Borges Mendes S/A,28,5521.50000,HN-4697-17232,light,Roberthaven
+2020,225,L1,"Campbell, Martinez and Brown",82,14814.00000,JC-0549-32215,3,Lake Michael
+2020,226,L5,Holzapfel,8,16619.00000,HZ-9118-03180, 1 ,Weißwasser
+2019,227,L5,Moreira,4,18653.20000,CY-6914-06555,1,Weißwasser
+2018,228,L3,Trupp Eigenwillig Stiftung & Co. KG,80,23637.80000,OT-5379-37758,3,Jeffreychester
+2021,229,L4,Eberhardt GmbH & Co. KG,67,12774.20000,DW-8601-62164,H,Silves
+2021,230,L2,Santos,112,13403.90000,QC-6998-09976, heavy ,Schongau
+2021,231,L2,Sá Valente Lda.,17,11466.40000,OM-3068-71162,1,Rio Tinto
+2023,232,L4,Rocha,43,6202.90000,DM-6836-54448,2,East Shaneview
+2022,233,L4,Rocha,12,7100.10000,MP-6853-89175,L,Port Cherylview
+2021,234,L3,Weinhage Martin GmbH & Co. KGaA,105,11931.40000,BM-4102-79766,heavy,Mangualde
+2021,235,L3,Trupp Eigenwillig Stiftung & Co. KG,71,10604.40000,VT-7647-27534,med,Lake Jesus
+2022,236,L6,Ferreira e Filhos,2,8320.90000,DS-5639-78647,heavy,Queluz
+2023,237,L5,Borges Mendes S/A,107,5996.00000,YV-0110-90056,1,Wernigerode
+2020,238,L6,Sá Figueiredo Lda.,58,15437.80000,AP-1495-41626,N,Eichstätt
+2018,239,L5,Döring GbR,2,21675.50000,KU-8982-07588, 1 ,Mühlhausen
+2022,240,L4,Trupp Eigenwillig Stiftung & Co. KG,32,7967.20000,XW-6422-80068,L,Rio Tinto
+2021,241,L4,Sá Figueiredo Lda.,38,12825.00000,VB-9314-57133,light,New Michelleborough
+2019,242,L3,"Green, Nichols and Robbins",58,18366.90000,XF-9805-06729,N,Eddiemouth
+2017,243,L3,Mans Schmidtke GmbH,48,26461.60000,YW-1284-80346,normal,Lüdinghausen
+2019,244,L2,"Campbell, Martinez and Brown",71,17837.10000,KY-3214-76611,2,Lake Jesus
+2023,245,L2,Barros Faria Lda.,28,6520.10000,DH-9985-57998,light,Lake Michael
+2023,246,L4,Maia,31,5404.90000,YR-1967-76977,light,Euskirchen
+2012,247,L4,Ferreira e Filhos,3,45000.00000,ES-3055-97466,1,Serpa
+2017,248,L4,Reising Trupp AG & Co. KGaA,33,26074.10000,LT-2817-87474, heavy ,East Shaneview
+2018,249,L1,Sá Valente Lda.,19,22080.80000,EW-8725-15263,1,Lamego
+2020,250,L6,Hoffmann,44,15770.30000,DK-7610-14113,2,Jamesberg
+2019,251,L1,Atzler KG,119,18794.00000,TD-1315-49149,H,Jeffreychester
+2022,252,L2,Atzler KG,116,7877.40000,TR-0764-90054,H,Jamesberg
+2022,253,L4,Martin Neureuther Stiftung & Co. KG,14,,IM-4859-71524,heavy,Witzenhausen
+2012,254,L2,Döring GbR,41,42462.00000,AO-6059-89537,2,Kemnath
+2022,255,L6,Holzapfel,22,9065.20000,WI-3830-56581,light,Mangualde
+2019,256,L3,"Bennett, Wood and Bell",22,20995.40000,AS-6049-60448, L ,Silves
+2021,257,L5,Borges Mendes S/A,10,11736.30000,NH-7328-22967,1,Hofgeismar
+2020,258,L5,Ferreira e Filhos,5,14382.60000,LK-5091-94996,L,Kemnath
+2022,259,L4,Fritsch e.G.,42,8058.30000,SC-3840-07953,2,Wanzleben
+2022,260,L6,"Campbell, Martinez and Brown",34,9903.70000,GV-8969-61121,1,Hofgeismar
+2022,261,L3,Stumpf GbR,21,7619.80000,CQ-4431-53526,1,Eichstätt
+2012,262,L2,"Fields, Castillo and Gibson",3,45000.00000,MO-5198-88615,1,West Erinmouth
+2022,263,L3,Fritsch e.G.,58,8846.80000,WN-9013-26062,N,Queluz
+2016,264,L6,Pinheiro Lda.,59,29580.10000,TH-5256-04328,med,Fiães
+2020,265,L3,Eberhardt GmbH & Co. KG,6,14381.00000,GM-7728-30065,L,Weißenfels
+2021,266,L5,Santos,78,13231.30000,PF-9630-67909,N,Wanzleben
+2021,267,L5,Nguyen Ltd,65,11176.30000,ZP-6930-09700,2,Euskirchen
+2018,268,L2,Rogner Hölzenbecher e.G.,37,23716.20000,IL-7775-79208,H,Säckingen
+2022,269,L4,Weinhage Martin GmbH & Co. KGaA,20,,QC-2230-35807,light,São Salvador de Lordelo
+2023,270,L3,Döring GbR,7,5824.30000,KK-5185-28348,H,Wernigerode
+2020,271,L5,Rogner Hölzenbecher e.G.,24,14054.90000,SL-3073-34705,light,Serpa
+2021,272,L3,"Campbell, Martinez and Brown",44,,MD-2751-26494,N,Penafiel
+2021,273,L5,Weinhage Martin GmbH & Co. KGaA,39,11810.10000,YE-2820-26022,light,Portimão
+2021,274,L6,Reising Trupp AG & Co. KGaA,101,10925.90000,XI-2960-05954,light,Königs Wusterhausen
+2020,275,L1,Nguyen Ltd,58,15932.50000,EP-2845-00283, normal ,Weißenfels
+2020,276,L1,Seip Pölitz GbR,8,17071.60000,YR-5894-08042, light ,Felgueiras
+2020,277,L2,"Green, Nichols and Robbins",88,14499.80000,DB-0936-41784,N,Ludwigsburg
+2015,278,L5,Borges Mendes S/A,36,31723.80000,SJ-1219-16297,1,Lake Michael
+2022,279,L5,Barros Faria Lda.,110,9540.80000,PR-6124-65208,N,Penafiel
+2021,280,L4,Moreira,112,10534.90000,HN-8693-87741,heavy,Portimão
+2019,281,L2,Borges Mendes S/A,93,18895.30000,SU-3460-13111,heavy,Barreiro
+2021,282,L4,Maia,5,12362.10000,PE-4682-11024,light,East Lisafurt
+2022,283,L6,Hoffmann,64,10356.10000,QI-2570-50876,normal,Lamego
+2022,284,L4,"Green, Nichols and Robbins",26,9007.90000,FR-5540-27958,L,New Michelleborough
+2019,285,L1,Brooks-Lopez,65,19858.80000,OE-5530-33640,med,Jamesberg
+2018,286,L4,Weinhage Martin GmbH & Co. KGaA,38,21542.90000,AJ-8741-44460,1,Weißwasser
+2022,287,L1,"Mcclure, Mullen and Bernard",87,10139.00000,VG-7940-09242,3,West Erinmouth
+2020,288,L6,"Campbell, Martinez and Brown",49,14810.10000,EK-6507-97056, N ,Lake Jesus
+2021,289,L5,Wende Schulz AG,90,13585.40000,VW-9924-13566,2,Kemnath
+2020,290,L6,Martin Neureuther Stiftung & Co. KG,44,14032.90000,EI-3291-69617, normal ,Weißenfels
+2018,291,L1,Rocha,25,22070.10000,ZB-3165-83275,light,Paigemouth
+2019,292,L1,Seip Pölitz GbR,35,18134.50000,JU-2079-59041, 1 ,Paigemouth
+2023,293,L5,Trupp Eigenwillig Stiftung & Co. KG,9,5479.00000,SP-2660-62128,L,Lake Michael
+2021,294,L3,Martin Neureuther Stiftung & Co. KG,98,13190.60000,GU-5883-09260,H,Apolda
+2022,295,L3,Weinhage Martin GmbH & Co. KGaA,24,8997.60000,JZ-6249-87713,H,Hofgeismar
+2023,296,L5,Maia,114,5164.60000,HM-8147-22002,3,Weißwasser
+2022,297,L6,"Campbell, Martinez and Brown",13,7416.00000,HJ-0377-54445,light,Wernigerode
+2016,298,L6,Nguyen Ltd,50,28323.70000,BX-3973-17848,N,Jeffreychester
+2019,299,L6,Ferreira e Filhos,93,19086.80000,AJ-3121-45948,N,Weißwasser
+2023,300,L4,Moreira,38,5252.90000,WF-4832-82027,L,Fiães
+2022,301,L4,Wende Schulz AG,64,9642.90000,VD-7116-62423,normal,Schongau
+2020,302,L1,Seip Pölitz GbR,11,15871.60000,LS-0962-41128,med,Hofgeismar
+2023,303,L3,Barros Faria Lda.,47,5049.90000,XJ-3944-57086,3,East Lisafurt
+2016,304,L2,"Green, Nichols and Robbins",115,28103.60000,HA-2474-20431,med,Luckenwalde
+2016,305,L6,"Bennett, Wood and Bell",58,31487.40000,UT-9026-56615,N,Santa Comba Dão
+2020,306,L1,Brooks-Lopez,108,15985.40000,WD-8765-68968,3,Kemnath
+2022,307,L1,Seip Pölitz GbR,104,8666.00000,LC-1374-84574,3,Monicabury
+2021,308,L5,Weinhage Davids GbR,89,13186.60000,EK-8257-15508,H,Weißwasser
+2021,309,L1,Sá Figueiredo Lda.,68,12998.30000,RY-5223-25342,med,Eddiemouth
+2021,310,L3,Nguyen Ltd,65,13815.50000,FG-7120-13783,med,Seelow
+2020,311,L3,Ferreira e Filhos,56,14409.30000,VA-3029-07342,med,Port Cherylview
+2021,312,L5,Stumpf GbR,5,11916.60000,US-5678-40864,1,New Cathyville
+2023,313,L1,Holzapfel,99,6001.90000,NE-7994-04067, 3 ,Lewisfurt
+2019,314,L6,Sá Figueiredo Lda.,55,,HZ-1485-31391,1,Jessen
+2024,315,L3,Williams-Nicholson,3,3475.50000,UR-3081-86377, normal ,New Cathyville
+2022,316,L5,"Green, Nichols and Robbins",26,7490.20000,PZ-7523-46409,L,Wernigerode
+2020,317,L3,Schroeder PLC,107,16891.40000,SM-9350-60105,heavy,Kemnath
+2021,318,L1,Weinhage Martin GmbH & Co. KGaA,34,12042.50000,ZW-2822-44221,L,Jeffreychester
+2020,319,L6,Gnatz Hermann AG,4,17058.20000,PL-5621-04400,light,Euskirchen
+2022,320,L6,Nguyen Ltd,113,,HE-5570-36420,3,Monicabury
+2023,321,L2,Weinhage Davids GbR,46,5919.60000,JH-3607-43971,2,Hofgeismar
+2022,322,L3,Borges Mendes S/A,51,7092.80000,OY-7448-63187, N ,East Lisafurt
+2019,323,L2,Atzler KG,60,19041.20000,HC-2973-75119,1,Mangualde
+2021,324,L1,"Bennett, Wood and Bell",107,11609.70000,BC-5803-11068,heavy,Hofgeismar
+2021,325,L1,Gnatz Hermann AG,8,13154.60000,YO-8793-68238,light,Thompsonfurt
+2019,326,L4,Wende Schulz AG,2,19438.40000,PJ-5028-63591,1,Lake Michael
+2018,327,L4,Döring GbR,23,21138.10000,FJ-6923-81822,1,Freising
+2021,328,L4,"Campbell, Martinez and Brown",0,,HD-1000-27620,1,Gloriaberg
+2022,329,L4,"Fields, Castillo and Gibson",86,9411.90000,WR-5672-34984,2,West Erinmouth
+2021,330,L3,Reising Trupp AG & Co. KGaA,114,11455.50000,TQ-9179-23766,normal,Mangualde
+2023,331,L2,Weinhage Davids GbR,119,5743.30000,YZ-1958-77058,H,Felgueiras
+2022,332,L4,Döring GbR,24,8472.40000,GZ-8050-19774,L,Rio Tinto
+2017,333,L4,Barros Faria Lda.,21,26569.80000,NV-9847-43228,1,Thompsonfurt
+2017,334,L6,Pinheiro Lda.,31,,AT-7190-03770,1,Santa Comba Dão
+2021,335,L1,Nguyen Ltd,75,11761.20000,QN-2779-51908,3,Silves
+2019,336,L2,Hoffmann,116,19447.30000,JY-8895-82777,light,Euskirchen
+2023,337,L4,Eberhardt GmbH & Co. KG,3,5897.00000,HN-5726-65229,L,Königs Wusterhausen
+2021,338,L1,Döring GbR,9,,OI-0840-51634,1,Monicabury
+2016,339,L4,Rogner Hölzenbecher e.G.,11,29077.70000,IB-2397-26838,1,New Cathyville
+2020,340,L2,Sá Valente Lda.,96,16371.00000,DN-4647-38282,H,Barreiro
+2020,341,L3,Seip Pölitz GbR,70,14279.00000,GA-6414-03643,L,Eichstätt
+2012,342,L6,Ferreira e Filhos,67,45000.00000,UY-3483-30733, 2 ,Felgueiras
+2024,343,L3,Maia,59,2691.30000,EV-5597-67939,med,Lüdinghausen
+2020,344,L4,Gnatz Hermann AG,28,,FM-4227-54746,L,Weißwasser
+2022,345,L2,Nguyen Ltd,94,7814.90000,RQ-9274-89686,H,Vila Nova de Foz Côa
+2016,346,L2,"Fields, Castillo and Gibson",24,29614.00000,SW-1764-40486,light,Mühlhausen
+2020,347,L3,Seip Pölitz GbR,58,14612.80000,LP-2792-21998, normal ,Lake Jesus
+2019,348,L2,Ferreira e Filhos,99,19519.60000,RO-1798-66114,heavy,Mühlhausen
+2021,349,L3,Brooks-Lopez,102,13122.10000,KY-2780-51025,3,Lüdinghausen
+2023,350,L3,Barros Faria Lda.,49,6665.70000,QS-2496-99807,H,Apolda
+2021,351,L4,Moreira,12,10721.50000,YK-6961-17731,light,Fürstenwalde
+2020,352,L1,Long-Washington,44,14301.90000,EV-3003-05426,2,Santa Comba Dão
+2020,353,L2,Trupp Eigenwillig Stiftung & Co. KG,25,16286.20000,QC-6964-61491,2,Silves
+2020,354,L5,Long-Washington,51,15325.20000,IQ-9618-86294, med ,Roberthaven
+2023,355,L3,Reising Trupp AG & Co. KGaA,87,4976.30000,ZV-0696-26806, light ,Lake Shanemouth
+2021,356,L4,Gnatz Hermann AG,92,13524.60000,YC-0242-00835,heavy,Serpa
+2014,357,L1,Maia,20,35507.40000,AP-0284-08362,light,Schongau
+2021,358,L5,Barros Faria Lda.,107,13783.50000,LY-2482-86918,H,Wernigerode
+2019,359,L5,"Bennett, Wood and Bell",18,18183.10000,XS-7688-92305,light,New Michelleborough
+2020,360,L4,Schroeder PLC,61,16143.00000,NH-7473-25553,H,Barreiro
+2023,361,L4,Gnatz Hermann AG,60,6487.10000,QN-4321-63028,H,Freising
+2023,362,L6,Maia,24,5016.50000,EE-2773-99232,L,Seelow
+2017,363,L2,Barros Faria Lda.,43,24678.10000,EO-5941-38661, med ,Roberthaven
+2016,364,L2,Long-Washington,24,29644.90000,GT-7955-83129,1,Jeffreychester
+2021,365,L4,"Campbell, Martinez and Brown",64,10534.90000,FC-5728-98328,normal,Lake Jesus
+2021,366,L3,Nguyen Ltd,5,11297.20000,CF-7933-65914,light,Lake Michael
+2016,367,L3,Barros Faria Lda.,24,29769.70000,QU-7051-24763,N,Lamego
+2022,368,L3,Seip Pölitz GbR,6,,AE-7688-21844, L ,Wanzleben
+2021,369,L6,Mans Schmidtke GmbH,1,13083.20000,SS-3936-34347,light,Apolda
+2023,370,L6,"Mcclure, Mullen and Bernard",42,6252.00000,VU-1991-95788,L,Apolda
+2018,371,L1,Weinhage Davids GbR,6,21980.20000,MB-8372-42034,1,Thompsonfurt
+2014,372,L5,Rocha,4,36105.10000,TT-0347-30976,light,Weißenfels
+2021,373,L4,Sá Figueiredo Lda.,66,11565.40000,PR-9952-19020,med,Port Cherylview
+2022,374,L6,Brooks-Lopez,70,8634.80000,YY-1842-13387,2,Port Cherylview
+2021,375,L5,Moreira,26,11767.40000,TY-1776-61174,light,Fürstenwalde
+2023,376,L2,Hoffmann,4,4073.40000,MP-2727-26716, light ,Rio Tinto
+2020,377,L4,Santos,46,14250.60000,PE-0602-16706,med,Säckingen
+2020,378,L2,Fritsch e.G.,47,16568.30000,HC-9252-56172,normal,São Salvador de Lordelo
+2021,379,L1,Atzler KG,52,11532.30000,HS-7805-38878,1,Santa Comba Dão
+2022,380,L6,Carson and Sons,13,9072.60000,XZ-5568-42967,light,West Erinmouth
+2021,381,L2,Eberhardt GmbH & Co. KG,37,13304.30000,YT-5996-99312,med,Schongau
+2021,382,L2,"Bennett, Wood and Bell",63,12071.70000,EJ-5093-82371,normal,West Erinmouth
+2022,383,L5,Weinhage Martin GmbH & Co. KGaA,71,10390.00000,SQ-3785-24068,L,Roberthaven
+2022,384,L2,Borges Mendes S/A,110,7039.60000,NJ-8689-97999,3,Schongau
+2024,385,L2,Eberhardt GmbH & Co. KG,33,2503.20000,HZ-2530-03802,1,Luckenwalde
+2022,386,L6,"Fields, Castillo and Gibson",8,10313.70000,ZP-7974-17632,L,Mühlhausen
+2021,387,L4,Holzapfel,25,10613.20000,AO-1100-50195,med,Santa Comba Dão
+2020,388,L5,Sá Valente Lda.,36,15549.20000,ZB-4644-96570,light,Guben
+2020,389,L1,Mans Schmidtke GmbH,104,15837.80000,DG-4998-94593,3,Lake Michael
+2022,390,L6,Atzler KG,31,7703.30000,BF-7673-89536, L ,Paigemouth
+2012,391,L5,Mans Schmidtke GmbH,84,45000.00000,HG-4936-42661,heavy,Eichstätt
+2013,392,L2,"Mcclure, Mullen and Bernard",102,41047.30000,IJ-2476-10943,H,Thompsonfurt
+2014,393,L4,Nguyen Ltd,99,,DB-4754-00582,heavy,Eichstätt
+2019,394,L5,Long-Washington,87,19078.40000,DJ-9989-18979,3,Ludwigsburg
+2023,395,L5,Weinhage Martin GmbH & Co. KGaA,26,4661.50000,GA-7795-96988,L,Eichstätt
+2019,396,L3,Rocha,0,18205.40000,II-0954-75010,med,Witzenhausen
+2022,397,L1,Trupp Eigenwillig Stiftung & Co. KG,101,7920.90000,ZV-4099-62004,med,Silves
+2018,398,L4,Rocha,54,21377.40000,NA-6935-49916,med,New Michelleborough
+2022,399,L3,Long-Washington,101,9972.90000,JX-8385-79870,L,Póvoa de Santa Iria
+2022,400,L1,Atzler KG,39,8988.80000,RT-2957-25233,1,Lake Michael
+2020,401,L6,"Bennett, Wood and Bell",86,14394.30000,VV-9049-95704,heavy,Hofgeismar
+2023,402,L2,Weinhage Davids GbR,10,4693.80000,UA-8240-88475,normal,Portimão
+2022,403,L2,Rogner Hölzenbecher e.G.,32,8110.90000,AG-5006-93312,light,Apolda
+2023,404,L1,Sá Figueiredo Lda.,0,6273.10000,JM-4626-27038, light ,Thompsonfurt
+2021,405,L6,Sá Figueiredo Lda.,22,12195.50000,KL-4519-43849,light,Mariafort
+2021,406,L6,Wende Schulz AG,30,10637.30000,WQ-1991-28522,1,Schongau
+2012,407,L2,Atzler KG,15,45000.00000,MJ-9706-91582,L,West Erinmouth
+2023,408,L6,Rogner Hölzenbecher e.G.,114,4138.50000,FD-2631-00803,1,North Theresaborough
+2020,409,L6,Monteiro,42,14322.80000,MR-9020-91901, N ,Vila Nova de Foz Côa
+2023,410,L2,Reis Lda.,111,6271.30000,EG-5808-38197,H,Barreiro
+2022,411,L6,Schroeder PLC,37,8465.40000,OB-2311-89133,L,Felgueiras
+2023,412,L1,Mans Schmidtke GmbH,11,6503.10000,DA-2920-61866,1,Lake Shanemouth
+2022,413,L4,Gnatz Hermann AG,47,7041.40000,DN-6875-67746,L,Fiães
+2020,414,L3,Seip Pölitz GbR,24,15625.30000,BC-9992-15094,L,Lüdinghausen
+2012,415,L3,Maia,39,42014.00000,SF-0057-28579,light,Eddiemouth
+2022,416,L3,Mans Schmidtke GmbH,35,7515.80000,NT-9040-35007,1,Ludwigsburg
+2019,417,L2,Mans Schmidtke GmbH,66,18299.80000,YU-8858-34905,med,Apolda
+2023,418,L2,"Green, Nichols and Robbins",32,4495.40000,FD-7826-50975,1,Lake Philipville
+2020,419,L1,Mans Schmidtke GmbH,93,14322.10000,AH-3492-60670,H,Póvoa de Santa Iria
+2019,420,L3,Eberhardt GmbH & Co. KG,119,17626.60000,GN-8379-03566,heavy,Felgueiras
+2014,421,L2,"Mcclure, Mullen and Bernard",41,37106.90000,OS-9222-03689,L,Póvoa de Santa Iria
+2023,422,L5,"Campbell, Martinez and Brown",84,3909.60000,YG-8774-01807,2,Schongau
+2022,423,L4,Eberhardt GmbH & Co. KG,56,10390.10000,ZZ-5888-73247,1,West Erinmouth
+2022,424,L2,Monteiro,80,7690.60000,LG-8114-39827,heavy,Apolda
+2021,425,L6,Borges Mendes S/A,50,13989.10000,DR-5071-40298,normal,Säckingen
+2022,426,L5,Nguyen Ltd,92,9987.30000,GI-5689-95506,3,Luckenwalde
+2019,427,L2,Weinhage Davids GbR,113,18997.80000,OW-1454-05954,3,Lüdinghausen
+2019,428,L2,Brooks-Lopez,2,19470.60000,PX-6189-91199, med ,Santa Comba Dão
+2023,429,L6,"Fields, Castillo and Gibson",84,4742.50000,FM-7312-23865,3,Guben
+2022,430,L2,Mans Schmidtke GmbH,45,9658.20000,YU-9239-06171,normal,Hofgeismar
+2012,431,L2,Monteiro,21,45000.00000,OK-3114-74816,1,Barreiro
+2020,432,L2,Hoffmann,58,15071.80000,FG-5654-00657,normal,Wanzleben
+2021,433,L4,Eberhardt GmbH & Co. KG,67,12720.00000,AQ-4618-57758,N,Ludwigsburg
+2022,434,L3,Santos,42,7184.20000,GH-9602-84799,2,Lake Philipville
+2023,435,L5,Monteiro,70,6469.90000,PZ-1128-76587,med,East Lisafurt
+2022,436,L6,Monteiro,110,9403.00000,VI-3946-49940,H,Königs Wusterhausen
+2023,437,L1,Wende Schulz AG,64,4752.70000,JU-6570-29889,med,Weißenfels
+2020,438,L3,Sá Valente Lda.,73,15760.30000,YY-7742-96892, normal ,West Erinmouth
+2024,439,L5,Hoffmann,67,2053.50000,XZ-0101-69080,normal,Felgueiras
+2021,440,L4,Weinhage Martin GmbH & Co. KGaA,14,,WZ-3943-77805,1,Mariafort
+2020,441,L4,Weinhage Davids GbR,66,14446.80000,YL-7771-97729,normal,Penafiel
+2024,442,L2,Gnatz Hermann AG,27,3148.40000,LR-2425-43481,1,Lewisfurt
+2022,443,L1,Williams-Nicholson,32,8485.40000,VZ-1256-59517,L,Mühlhausen
+2021,444,L6,Döring GbR,20,13667.50000,IC-4250-36471,H,Weißenfels
+2020,445,L1,Santos,30,14530.40000,VF-1764-93694,L,Lüdinghausen
+2018,446,L6,Santos,27,24007.70000,CF-7264-12815,1,New Cathyville
+2021,447,L4,Seip Pölitz GbR,112,11354.10000,ZF-2485-63225,heavy,Mühlhausen
+2020,448,L4,Rocha,12,15742.50000,RY-6251-70973,1,Silves
+2017,449,L2,Mans Schmidtke GmbH,101,26922.30000,IC-3311-04208,3,North Theresaborough
+2023,450,L3,Döring GbR,79,6901.80000,WW-8958-38470,N,Hofgeismar
+2023,451,L5,Reis Lda.,28,5339.60000,ER-8705-41136,light,Mühlhausen
+2018,452,L4,Maia,105,22569.30000,DA-6908-69254,H,Fiães
+2012,453,L2,Rocha,34,45000.00000,IZ-0857-68316,L,Wernigerode
+2020,454,L3,Moreira,101,14640.00000,KH-5971-39248,3,Fiães
+2022,455,L1,Holzapfel,60,7117.40000,YR-9426-80678,med,Santa Comba Dão
+2023,456,L6,Fritsch e.G.,62,,EZ-8099-58534,normal,Portimão
+2022,457,L6,"Campbell, Martinez and Brown",72,9002.50000,NC-7744-44795,normal,Ludwigsburg
+2020,458,L1,Seip Pölitz GbR,45,14306.80000,BC-5846-07939,med,Lamego
+2019,459,L5,"Campbell, Martinez and Brown",75,20327.30000,HT-7732-28798,normal,Königs Wusterhausen
+2022,460,L6,Eberhardt GmbH & Co. KG,43,9323.50000,LD-7828-53500,normal,Ludwigsburg
+2023,461,L5,Long-Washington,98,4652.90000,YM-6972-95120,3,New Michelleborough
+2022,462,L3,Sá Figueiredo Lda.,17,8385.20000,XM-3755-84314,1,Apolda
+2020,463,L1,Moreira,92,16723.50000,AO-0556-60612,H,Kemnath
+2019,464,L4,"Mcclure, Mullen and Bernard",10,19373.90000,SX-1682-06178,light,Eddiemouth
+2022,465,L6,Rocha,8,8902.00000,TB-8355-54346,L,New Michelleborough
+2023,466,L2,Hoffmann,54,5309.40000,WW-5578-02513,1,East Lisafurt
+2018,467,L4,Atzler KG,78,24038.80000,JG-1390-98596,2,Monicabury
+2023,468,L2,Sá Figueiredo Lda.,16,5820.30000,UI-1204-21503,L,New Cathyville
+2022,469,L5,Reising Trupp AG & Co. KGaA,38,8344.30000,AW-1460-73722,light,New Michelleborough
+2019,470,L6,Trupp Eigenwillig Stiftung & Co. KG,93,,TJ-7680-86893,H,Barreiro
+2020,471,L4,Barros Faria Lda.,18,16891.00000,OW-2903-68516, 1 ,Seelow
+2021,472,L3,Mans Schmidtke GmbH,79,11563.40000,NO-4112-95453,heavy,Lüdinghausen
+2018,473,L2,Sá Figueiredo Lda.,51,23541.10000,KH-0265-14857,N,Witzenhausen
+2022,474,L2,Schroeder PLC,49,9743.30000,AV-6625-69605,med,Weißenfels
+2012,475,L5,Reising Trupp AG & Co. KGaA,48,44601.30000,CQ-4728-45810,med,New Cathyville
+2016,476,L1,Trupp Eigenwillig Stiftung & Co. KG,4,29896.60000,KB-2366-08692,1,Lake Philipville
+2022,477,L2,Santos,19,7160.80000,TX-9251-87931,2,Monicabury
+2022,478,L1,Schroeder PLC,103,7011.90000,XL-2021-09628, H ,New Cathyville
+2022,479,L3,Döring GbR,81,9648.00000,UW-0892-89922,N,Jamesberg
+2022,480,L3,Williams-Nicholson,27,8615.90000,ZH-3169-20899,L,Santa Comba Dão
+2022,481,L5,Holzapfel,32,9211.70000,BM-1519-69405,H,Póvoa de Santa Iria
+2023,482,L5,Schroeder PLC,51,6553.90000,IZ-3234-80503,2,Port Cherylview
+2023,483,L1,Atzler KG,46,4367.90000,XJ-6901-54738,2,Hofgeismar
+2019,484,L2,Martin Neureuther Stiftung & Co. KG,100,20708.60000,AR-1344-81099,heavy,Port Cherylview
+2022,485,L6,Santos,37,,KV-5941-46090,2,Roberthaven
+2022,486,L5,Holzapfel,95,7764.30000,RT-6326-67313,3,Lake Shanemouth
+2021,487,L6,Nguyen Ltd,119,13297.00000,DZ-0657-24367,L,Lamego
+2023,488,L3,Maia,45,6761.90000,KQ-5471-37683,normal,Thompsonfurt
+2023,489,L2,"Mcclure, Mullen and Bernard",84,5644.60000,VB-1417-15928,2,Jamesberg
+2022,490,L6,"Green, Nichols and Robbins",57,8393.90000,YI-3421-77963,1,Eichstätt
+2023,491,L1,Santos,52,5157.20000,NA-2008-57930,L,Wanzleben
+2023,492,L5,Martin Neureuther Stiftung & Co. KG,62,5759.70000,OH-0420-89062,L,Monicabury
+2022,493,L2,Rogner Hölzenbecher e.G.,2,9877.40000,PN-9180-34287,L,Felgueiras
+2024,494,L1,Stumpf GbR,10,3314.30000,WQ-2689-78171,normal,Euskirchen
+2023,495,L2,Williams-Nicholson,17,3803.00000,GJ-0504-78365, 1 ,Lüdinghausen
+2022,496,L5,Moreira,93,9475.40000,GL-5410-70138,H,Säckingen
+2023,497,L3,Maia,68,4359.10000,GB-6988-08139,N,Weißenfels
+2018,498,L2,Brooks-Lopez,102,22202.60000,BN-2339-04084,3,Eichstätt
+2016,499,L6,Martin Neureuther Stiftung & Co. KG,116,30671.30000,QI-0515-54720,heavy,Felgueiras
+2014,500,L2,Holzapfel,52,35796.50000,NR-6537-00035,normal,Apolda
+2020,501,L4,Wende Schulz AG,67,16044.40000,UR-5453-30743,1,Mangualde
+2017,502,L5,Gnatz Hermann AG,27,27241.80000,KX-4660-22758,light,Vila Nova de Foz Côa
+2024,503,L4,Barros Faria Lda.,86,3231.10000,RK-6232-24937, heavy ,Witzenhausen
+2018,504,L5,Rocha,57,23783.50000,QM-4701-22028,H,Apolda
+2023,505,L6,Reis Lda.,37,5646.40000,WO-3392-75332, heavy ,Seelow
+2023,506,L6,Brooks-Lopez,57,5245.50000,BW-8938-42577,light,Hollandborough
+2016,507,L1,Fritsch e.G.,100,28016.10000,WU-9070-08234,2,New Michelleborough
+2022,508,L6,Nguyen Ltd,0,8349.30000,IB-0841-20556,1,West Erinmouth
+2022,509,L4,Borges Mendes S/A,88,8497.20000,LT-4977-50862,H,Mangualde
+2023,510,L6,Weinhage Martin GmbH & Co. KGaA,47,5347.60000,BP-7728-10468,med,Monicabury
+2018,511,L4,"Green, Nichols and Robbins",68,22990.00000,KT-0894-20253,med,Kemnath
+2021,512,L2,Fritsch e.G.,113,12459.90000,UQ-3974-55301,H,Wanzleben
+2021,513,L6,Weinhage Martin GmbH & Co. KGaA,62,,VL-0634-96564,heavy,New Cathyville
+2022,514,L1,Rocha,61,7635.10000,HC-9323-99981,med,New Michelleborough
+2020,515,L5,Barros Faria Lda.,19,17131.60000,SU-0163-24454,L,Santa Comba Dão
+2020,516,L5,Stumpf GbR,113,17478.90000,YA-1070-69375,H,Port Cherylview
+2020,517,L1,Hoffmann,55,17306.50000,RF-5988-53114,normal,Roberthaven
+2023,518,L5,Brooks-Lopez,95,6483.40000,AM-8228-52266,H,Hollandborough
+2020,519,L5,Seip Pölitz GbR,65,15363.80000,AH-2807-74528,N,Witzenhausen
+2021,520,L6,Eberhardt GmbH & Co. KG,43,,BR-3406-00349, med ,Wanzleben
+2021,521,L4,Monteiro,82,11488.80000,TO-8939-25403,H,Lake Shanemouth
+2022,522,L5,Sá Figueiredo Lda.,43,8086.40000,JO-9816-23612, normal ,Vila Nova de Foz Côa
+2017,523,L1,Martin Neureuther Stiftung & Co. KG,35,26131.00000,KP-8707-19605,N,Säckingen
+2022,524,L3,Sá Figueiredo Lda.,27,7538.90000,FE-0231-91296,L,Felgueiras
+2018,525,L4,Carson and Sons,71,22969.30000,SY-4356-09458,N,Jeffreychester
+2020,526,L6,"Campbell, Martinez and Brown",87,14228.60000,PO-9456-54689, H ,Witzenhausen
+2023,527,L1,"Green, Nichols and Robbins",6,6245.60000,II-5308-92304,L,Fürstenwalde
+2021,528,L6,Stumpf GbR,72,12043.50000,ZP-7549-49106,med,Wanzleben
+2021,529,L3,Rocha,97,13447.30000,EO-7050-86810,N,West Erinmouth
+2020,530,L1,"Mcclure, Mullen and Bernard",21,,RA-9388-73995,L,Serpa
+2019,531,L1,Carson and Sons,118,18948.70000,CH-9679-40810,3,Apolda
+2022,532,L3,Weinhage Martin GmbH & Co. KGaA,92,9916.40000,TP-7611-53953,3,Port Cherylview
+2023,533,L2,Reising Trupp AG & Co. KGaA,46,6728.20000,EL-6597-21852,med,Jeffreychester
+2022,534,L5,"Campbell, Martinez and Brown",40,9474.50000,ON-2111-93516, normal ,Fiães
+2021,535,L1,Reising Trupp AG & Co. KGaA,40,11973.40000,FQ-7009-22099,L,Lake Philipville
+2015,536,L1,Brooks-Lopez,0,34202.40000,XF-7601-78058,L,Lake Philipville
+2022,537,L5,Gnatz Hermann AG,101,7303.30000,TX-7730-04742,heavy,Säckingen
+2023,538,L4,Rogner Hölzenbecher e.G.,29,4701.10000,EJ-9560-78215,1,Rio Tinto
+2021,539,L4,"Mcclure, Mullen and Bernard",99,11259.00000,DB-4498-48191,2,Mangualde
+2019,540,L2,Reising Trupp AG & Co. KGaA,112,18726.10000,IV-6947-16363,1,Lake Jesus
+2021,541,L6,Schroeder PLC,21,12765.30000,BZ-7481-39186,L,Hollandborough
+2022,542,L3,Carson and Sons,23,8411.80000,XI-3416-45286, L ,Fiães
+2017,543,L2,Mans Schmidtke GmbH,23,24524.60000,OB-4053-70077,1,New Cathyville
+2023,544,L1,Martin Neureuther Stiftung & Co. KG,56,3505.90000,WD-4981-66185,2,Jessen
+2018,545,L6,"Campbell, Martinez and Brown",45,22333.00000,TG-6298-63220,1,Säckingen
+2021,546,L2,Mans Schmidtke GmbH,4,11530.00000,PY-2594-76377,H,Euskirchen
+2023,547,L3,Trupp Eigenwillig Stiftung & Co. KG,74,5963.10000,GB-0768-98287,normal,Gloriaberg
+2019,548,L6,"Green, Nichols and Robbins",1,18381.70000,OH-5419-91357,1,Monicabury
+2012,549,L1,"Campbell, Martinez and Brown",96,45000.00000,LY-3585-94790,heavy,Póvoa de Santa Iria
+2018,550,L5,Sá Figueiredo Lda.,54,22350.50000,WS-8650-71246,med,Santa Comba Dão
+2020,551,L3,"Green, Nichols and Robbins",113,15301.60000,UM-5799-73778, 3 ,Wernigerode
+2019,552,L6,Maia,89,18342.00000,WM-4838-11189,N,Mariafort
+2023,553,L6,Rocha,38,4206.10000,II-2629-31259,light,Säckingen
+2020,554,L3,Wende Schulz AG,48,17416.30000,RQ-3939-79556,3,Weißenfels
+2020,555,L3,Trupp Eigenwillig Stiftung & Co. KG,95,14644.60000,PL-2224-26157,heavy,Apolda
+2023,556,L5,Döring GbR,77,6278.70000,WW-7106-91435,L,Santa Comba Dão
+2020,557,L2,Weinhage Martin GmbH & Co. KGaA,56,15439.50000,PI-2867-88737, N ,Portimão
+2012,558,L3,"Green, Nichols and Robbins",91,45000.00000,OY-0106-12422,N,Roberthaven
+2023,559,L3,"Bennett, Wood and Bell",88,6601.80000,MI-8871-13243,3,Witzenhausen
+2019,560,L1,Rogner Hölzenbecher e.G.,85,19278.20000,IM-6713-18534,med,Luckenwalde
+2023,561,L2,Barros Faria Lda.,119,5668.00000,DE-3568-43576,heavy,Euskirchen
+2021,562,L3,Nguyen Ltd,55,11331.70000,NU-5101-66736,med,Apolda
+2018,563,L2,Sá Valente Lda.,98,21825.60000,BH-2865-37626,1,Jessen
+2022,564,L5,Pinheiro Lda.,27,10349.20000,RW-4550-28059,med,Lake Jesus
+2021,565,L4,"Campbell, Martinez and Brown",116,12473.50000,KO-4117-13635,heavy,Port Cherylview
+2023,566,L1,Williams-Nicholson,62,5979.70000,BF-3611-35629,med,Kemnath
+2013,567,L4,Reis Lda.,53,41676.40000,GZ-8065-82930,N,Hollandborough
+2020,568,L3,Atzler KG,52,14361.50000,QY-2167-91423,H,Hofgeismar
+2023,569,L2,Borges Mendes S/A,58,3672.20000,GQ-7129-14861,N,Guben
+2020,570,L4,"Fields, Castillo and Gibson",93,14330.90000,ZT-5813-38709,2,Seelow
+2012,571,L6,Weinhage Martin GmbH & Co. KGaA,17,45000.00000,AQ-7283-68881,1,Königs Wusterhausen
+2019,572,L5,Sá Figueiredo Lda.,63,18047.30000,GP-0063-49739,N,Säckingen
+2019,573,L4,Mans Schmidtke GmbH,50,18062.50000,QF-1702-68352,2,Barreiro
+2023,574,L4,"Fields, Castillo and Gibson",103,6961.10000,KM-0114-51580,N,Thompsonfurt
+2012,575,L1,Reising Trupp AG & Co. KGaA,104,42915.10000,XG-9474-43196, N ,Kemnath
+2022,576,L2,Wende Schulz AG,16,8574.30000,BC-8661-45522,2,Ludwigsburg
+2021,577,L2,Weinhage Davids GbR,13,12952.10000,ZT-5828-45012, 1 ,Póvoa de Santa Iria
+2022,578,L5,"Campbell, Martinez and Brown",5,10292.40000,YM-5936-12861,light,São Salvador de Lordelo
+2021,579,L2,Carson and Sons,103,12687.10000,YU-3635-88610,3,Ludwigsburg
+2022,580,L4,Seip Pölitz GbR,114,7542.90000,RG-4927-38273,3,Fürstenwalde
+2021,581,L2,"Campbell, Martinez and Brown",61,11551.90000,IA-3522-52705, 2 ,Lüdinghausen
+2022,582,L1,Atzler KG,11,7929.70000,SV-3545-70600,light,Vila Nova de Foz Côa
+2020,583,L3,Wende Schulz AG,54,14638.60000,UF-0783-52243,med,Port Cherylview
+2021,584,L4,Döring GbR,39,11884.50000,RR-6844-53671,1,Paigemouth
+2022,585,L3,Nguyen Ltd,68,9102.80000,KQ-9291-28173,2,Hollandborough
+2023,586,L6,Moreira,47,6352.30000,XW-1988-44133,1,Silves
+2019,587,L4,Santos,13,20419.50000,VX-3504-81189,light,Fürstenwalde
+2018,588,L2,Long-Washington,58,21563.20000,SL-4016-41367,2,Roberthaven
+2015,589,L1,Brooks-Lopez,47,32603.10000,OW-2444-70642,2,Lewisfurt
+2020,590,L4,Mans Schmidtke GmbH,115,17420.80000,OZ-6934-10699,H,Lake Jesus
+2022,591,L3,Fritsch e.G.,25,8854.80000,MN-4111-35395,light,Thompsonfurt
+2023,592,L3,Maia,74,5899.10000,BC-6217-06111,N,Felgueiras
+2023,593,L1,"Fields, Castillo and Gibson",115,6070.00000,HK-3869-54010, 1 ,Roberthaven
+2023,594,L6,Hoffmann,53,6311.70000,CQ-3677-65493,2,Hofgeismar
+2022,595,L2,Long-Washington,26,9544.40000,TO-3229-68400,L,Lake Jesus
+2021,596,L5,Holzapfel,76,11693.50000,IB-2515-58820, N ,Weißenfels
+2023,597,L5,"Fields, Castillo and Gibson",117,6592.10000,IH-8403-15325,heavy,Euskirchen
+2018,598,L1,Ferreira e Filhos,26,24271.80000,XC-0693-61524,light,Weißenfels
+2021,599,L5,Ferreira e Filhos,97,12187.10000,UM-9413-43772,3,Felgueiras
+2018,600,L2,Ferreira e Filhos,106,23119.90000,JN-0058-77590,1,Serpa
+2022,601,L1,Reising Trupp AG & Co. KGaA,84,7108.00000,GR-3280-55072,H,Lake Michael
+2021,602,L5,"Campbell, Martinez and Brown",33,13422.10000,JG-0343-04521,L,Ludwigsburg
+2023,603,L5,Rocha,31,6283.00000,SB-3174-06079,1,East Shaneview
+2021,604,L2,Wende Schulz AG,15,13569.80000,CM-7547-18786,1,Freising
+2022,605,L6,Reising Trupp AG & Co. KGaA,102,8817.40000,DT-1467-28440,H,Kemnath
+2022,606,L6,Mans Schmidtke GmbH,54,,JS-4789-06552,normal,Portimão
+2023,607,L6,Stumpf GbR,23,5992.30000,FL-2487-51396,H,Felgueiras
+2022,608,L2,Williams-Nicholson,5,7669.60000,IG-1156-11890,2,Seelow
+2013,609,L1,Moreira,88,38501.90000,EW-7876-87638,2,Mangualde
+2021,610,L4,Wende Schulz AG,10,11425.30000,JJ-3994-54893, N ,Lake Michael
+2023,611,L2,Santos,57,5999.20000,AZ-8833-90902,2,Roberthaven
+2023,612,L2,Reising Trupp AG & Co. KGaA,21,6665.20000,JD-2066-42522,L,Königs Wusterhausen
+2021,613,L5,Eberhardt GmbH & Co. KG,73,10627.10000,HT-7811-79189, N ,East Shaneview
+2020,614,L1,Eberhardt GmbH & Co. KG,94,17114.90000,OG-6047-98013,3,Hollandborough
+2021,615,L1,Seip Pölitz GbR,54,11578.80000,GO-8755-51309,H,Guben
+2016,616,L3,Martin Neureuther Stiftung & Co. KG,30,30198.70000,SN-2057-92537,L,Rio Tinto
+2024,617,L3,Santos,15,,JH-8551-01624,light,Port Cherylview
+2023,618,L5,Ferreira e Filhos,100,6978.10000,UC-5752-76191,3,Schongau
+2019,619,L2,Seip Pölitz GbR,46,19575.90000,MO-2459-57065,1,Felgueiras
+2021,620,L2,Wende Schulz AG,17,11985.10000,BE-9718-96043,light,Serpa
+2017,621,L2,Eberhardt GmbH & Co. KG,29,25536.50000,WY-7689-74199,L,Schongau
+2022,622,L6,Hoffmann,90,10086.60000,ML-1079-13626,1,Gloriaberg
+2017,623,L4,"Bennett, Wood and Bell",56,27589.00000,NH-2384-00005, med ,New Cathyville
+2023,624,L5,Gnatz Hermann AG,13,5001.70000,BS-9257-22137,L,Lamego
+2020,625,L6,Hoffmann,92,14818.40000,QH-7877-51753,H,Ludwigsburg
+2022,626,L4,Barros Faria Lda.,105,8581.10000,PL-3710-75403,heavy,Witzenhausen
+2023,627,L3,Brooks-Lopez,62,3652.40000,SW-0540-34639, 1 ,West Erinmouth
+2018,628,L3,Wende Schulz AG,12,21226.20000,YD-6010-07055,1,Apolda
+2022,629,L2,Maia,46,8684.60000,MT-4852-37143,light,Lake Shanemouth
+2022,630,L3,Long-Washington,102,7939.30000,EN-7685-67686,3,Mangualde
+2017,631,L4,Trupp Eigenwillig Stiftung & Co. KG,36,25649.90000,HW-0673-49911,L,Serpa
+2017,632,L3,Weinhage Davids GbR,81,24966.90000,WF-1913-41678,heavy,Paigemouth
+2023,633,L6,"Mcclure, Mullen and Bernard",6,6691.40000,YS-9487-61480, L ,Eichstätt
+2021,634,L5,Carson and Sons,81,13496.60000,EX-9824-37643,3,Lake Jesus
+2023,635,L5,Williams-Nicholson,106,5716.10000,FN-6635-66960,H,Mariafort
+2019,636,L3,Williams-Nicholson,71,19486.70000,FP-1859-28076,N,Witzenhausen
+2023,637,L6,Stumpf GbR,16,3556.90000,WY-9110-51527,1,Felgueiras
+2023,638,L6,"Bennett, Wood and Bell",118,5257.70000,CB-0624-07240, heavy ,Hollandborough
+2022,639,L5,Mans Schmidtke GmbH,32,8424.00000,HZ-1020-24998,L,Wanzleben
+2020,640,L6,Borges Mendes S/A,107,14612.20000,VN-7352-61918,heavy,Wernigerode
+2022,641,L4,Wende Schulz AG,68,7439.30000,OJ-8950-08740, H ,Säckingen
+2022,642,L2,Nguyen Ltd,14,9356.50000,VH-9036-25965,med,Apolda
+2022,643,L2,Borges Mendes S/A,34,10139.60000,ID-8499-35405,1,Mühlhausen
+2022,644,L2,Reis Lda.,37,8251.30000,GZ-9328-42038,1,Eddiemouth
+2022,645,L6,"Campbell, Martinez and Brown",53,9351.90000,OB-1728-61103,3,Weißenfels
+2021,646,L1,"Mcclure, Mullen and Bernard",77,,HG-1309-30251,light,East Lisafurt
+2022,647,L2,Borges Mendes S/A,7,7020.20000,TV-0304-52245,1,Póvoa de Santa Iria
+2022,648,L3,Rocha,8,8878.40000,RB-4427-72758, 1 ,Felgueiras
+2017,649,L6,Stumpf GbR,29,25101.80000,HC-9114-48252,L,Mangualde
+2023,650,L5,Mans Schmidtke GmbH,105,5902.50000,IF-0478-11746,H,Vila Nova de Foz Côa
+2021,651,L3,Santos,11,13996.20000,FB-4112-00809,light,Guben
+2022,652,L1,Reising Trupp AG & Co. KGaA,71,10401.60000,NC-6280-29727,N,Hofgeismar
+2022,653,L5,Weinhage Martin GmbH & Co. KGaA,26,10255.10000,YJ-8665-61068,L,Hollandborough
+2020,654,L6,Mans Schmidtke GmbH,10,15236.70000,ED-7515-34911,1,Lake Philipville
+2021,655,L4,Santos,15,13900.10000,NF-0399-31394,L,Weißwasser
+2021,656,L1,Seip Pölitz GbR,20,10986.40000,FW-4997-75681, 1 ,Eddiemouth
+2017,657,L1,"Fields, Castillo and Gibson",5,27328.40000,OO-6099-86467,3,Thompsonfurt
+2023,658,L2,Reising Trupp AG & Co. KGaA,105,5056.60000,YG-9325-44391,light,Port Cherylview
+2023,659,L1,Schroeder PLC,76,4614.00000,RV-8314-10834,med,East Lisafurt
+2012,660,L1,Martin Neureuther Stiftung & Co. KG,5,45000.00000,GB-1099-25045,L,Apolda
+2019,661,L5,Weinhage Martin GmbH & Co. KGaA,12,18586.40000,PI-4393-66990,1,Eichstätt
+2023,662,L3,Stumpf GbR,77,3931.90000,JL-0939-45881,med,Penafiel
+2019,663,L4,Monteiro,63,18953.00000,PZ-9136-29171,med,Weißwasser
+2023,664,L4,Seip Pölitz GbR,2,6687.40000,YS-4112-96736,L,Weißwasser
+2023,665,L3,Hoffmann,30,6349.20000,UN-4554-91956,H,Mariafort
+2017,666,L2,Ferreira e Filhos,89,25067.50000,HC-2626-40747,H,Portimão
+2021,667,L5,Monteiro,77,,NC-2998-27029,normal,Jessen
+2017,668,L5,Rogner Hölzenbecher e.G.,54,25756.60000,BJ-3285-02188,N,Portimão
+2016,669,L6,"Fields, Castillo and Gibson",34,28153.70000,QH-0594-72226,light,Fürstenwalde
+2018,670,L1,Moreira,76,23450.00000,HB-9513-45631,2,Euskirchen
+2018,671,L6,Martin Neureuther Stiftung & Co. KG,30,23562.90000,SW-0114-20221, L ,Wanzleben
+2022,672,L1,Monteiro,43,8470.20000,ZZ-8629-64000,2,Eddiemouth
+2018,673,L6,Pinheiro Lda.,55,22898.00000,AR-9877-81393,N,Lake Philipville
+2022,674,L6,Brooks-Lopez,78,10136.60000,NA-0890-21275,H,Ludwigsburg
+2023,675,L4,Gnatz Hermann AG,77,4337.70000,ZK-3502-74862,normal,Fürstenwalde
+2015,676,L3,Döring GbR,30,34919.70000,DB-4997-88537,L,Säckingen
+2021,677,L4,"Mcclure, Mullen and Bernard",19,13802.70000,SH-2649-89042, L ,Felgueiras
+2017,678,L3,Wende Schulz AG,74,27375.20000,HZ-1039-12046,1,Lake Michael
+2022,679,L4,Williams-Nicholson,56,7616.50000,UL-7636-61814,2,Mühlhausen
+2021,680,L1,Martin Neureuther Stiftung & Co. KG,109,11135.00000,GR-2999-21635,H,Guben
+2023,681,L4,Döring GbR,109,,FA-8487-53821,heavy,Luckenwalde
+2021,682,L5,Weinhage Martin GmbH & Co. KGaA,88,11042.70000,UY-7141-90634,3,Port Cherylview
+2021,683,L6,Moreira,53,12561.80000,YG-0680-78297,2,Serpa
+2021,684,L6,Gnatz Hermann AG,31,12759.00000,LY-9310-49272,L,Eddiemouth
+2022,685,L6,Long-Washington,45,8813.50000,XN-6653-40937,med,Barreiro
+2020,686,L2,Stumpf GbR,16,15661.10000,BB-0098-33779,light,Hofgeismar
+2023,687,L4,Reis Lda.,13,4878.30000,OO-4744-27973,1,Hofgeismar
+2013,688,L3,Weinhage Martin GmbH & Co. KGaA,115,38782.40000,UB-1815-11626,heavy,Fürstenwalde
+2022,689,L1,Moreira,117,9170.40000,UF-7835-06445,3,Roberthaven
+2021,690,L3,Ferreira e Filhos,62,11017.90000,VQ-9693-67451,2,Jessen
+2016,691,L2,Fritsch e.G.,27,28023.60000,PI-8417-28029,light,Jessen
+2020,692,L4,Maia,67,14093.90000,AL-0477-76212,normal,Lewisfurt
+2023,693,L5,Monteiro,70,6408.10000,YN-9554-82609,2,Lamego
+2022,694,L6,"Bennett, Wood and Bell",35,8122.30000,QC-3810-36861,1,Seelow
+2021,695,L6,"Bennett, Wood and Bell",64,10778.10000,QA-3617-10694,med,East Shaneview
+2018,696,L3,Sá Valente Lda.,86,23686.30000,UB-6919-78566, heavy ,Hofgeismar
+2023,697,L1,Long-Washington,13,5833.20000,OG-3398-03669,1,Hofgeismar
+2023,698,L1,Ferreira e Filhos,52,5665.20000,PR-5148-86275,med,Fiães
+2017,699,L1,Gnatz Hermann AG,97,25810.80000,HQ-1160-68535,3,Paigemouth
+2019,700,L6,Hoffmann,29,18827.30000,TI-2901-45774,light,Paigemouth
+2019,701,L2,Rogner Hölzenbecher e.G.,110,18147.80000,FG-7140-39961,heavy,Mühlhausen
+2020,702,L1,Pinheiro Lda.,83,14383.00000,JG-1150-33704,H,Port Cherylview
+2023,703,L5,Carson and Sons,62,6660.70000,XW-3171-77129,2,Lamego
+2021,704,L5,Döring GbR,108,13200.50000,XR-9728-87140,L,Luckenwalde
+2021,705,L3,Monteiro,76,10859.60000,HW-2075-25451,med,Seelow
+2023,706,L6,Mans Schmidtke GmbH,45,4778.90000,DI-8756-05044,2,New Cathyville
+2020,707,L4,Mans Schmidtke GmbH,56,15724.00000,YZ-5653-33332,light,Silves
+2020,708,L1,Eberhardt GmbH & Co. KG,71,16963.00000,YR-8361-23523,N,Rio Tinto
+2023,709,L1,Maia,4,6145.80000,NO-0970-74720,L,Apolda
+2018,710,L2,Long-Washington,106,21116.30000,XW-5050-48746, heavy ,Santa Comba Dão
+2022,711,L3,Weinhage Davids GbR,65,8835.70000,DE-1284-06976, med ,Säckingen
+2020,712,L2,Borges Mendes S/A,55,15460.30000,JK-4821-22899,1,Lake Michael
+2021,713,L2,"Green, Nichols and Robbins",22,13394.20000,XE-3248-85369,1,Serpa
+2023,714,L2,Döring GbR,17,6020.90000,KF-1471-52399,1,Lake Shanemouth
+2020,715,L6,Rocha,118,15011.40000,AU-8442-42436,N,Mühlhausen
+2019,716,L2,"Green, Nichols and Robbins",45,17767.90000,BO-5816-98953,normal,Fürstenwalde
+2021,717,L4,Fritsch e.G.,71,12533.30000,FU-9450-20065, med ,Fürstenwalde
+2016,718,L5,Santos,117,28270.50000,JH-3175-34274,1,Rio Tinto
+2020,719,L4,Holzapfel,73,16770.90000,PU-2081-03694, normal ,Felgueiras
+2021,720,L4,Mans Schmidtke GmbH,13,13155.60000,WQ-3064-97597,1,Lake Michael
+2018,721,L6,Schroeder PLC,30,22189.50000,TC-0979-69210,L,Gloriaberg
+2020,722,L3,Fritsch e.G.,22,14670.60000,CO-6084-17831,light,Santa Comba Dão
+2019,723,L6,Atzler KG,39,19077.50000,VQ-9509-86654,light,Lüdinghausen
+2023,724,L2,Schroeder PLC,117,5355.00000,KZ-3534-52025,3,Póvoa de Santa Iria
+2020,725,L4,"Mcclure, Mullen and Bernard",64,14425.70000,WF-9620-94775,med,Lake Jesus
+2023,726,L3,Reising Trupp AG & Co. KGaA,96,5296.10000,NQ-2266-23541,3,Säckingen
+2021,727,L4,Martin Neureuther Stiftung & Co. KG,13,11525.90000,WI-2600-05869,1,Wanzleben
+2019,728,L5,Reising Trupp AG & Co. KGaA,91,20033.20000,XT-6775-44038,H,New Cathyville
+2023,729,L6,Eberhardt GmbH & Co. KG,35,5693.70000,PE-7129-48127,L,Santa Comba Dão
+2021,730,L5,Rogner Hölzenbecher e.G.,63,10781.60000,TA-5676-91601,normal,Lewisfurt
+2020,731,L5,Holzapfel,86,14232.60000,VJ-0298-55192,normal,Hofgeismar
+2020,732,L3,Wende Schulz AG,31,14804.80000,WT-4542-55963,L,Lake Philipville
+2022,733,L2,Reising Trupp AG & Co. KGaA,13,8969.90000,LK-0729-11802,light,Penafiel
+2018,734,L4,Atzler KG,84,23526.50000,GG-9561-69236,3,Lake Jesus
+2022,735,L4,"Fields, Castillo and Gibson",40,7427.70000,ZO-4887-60078,med,Paigemouth
+2020,736,L4,Fritsch e.G.,50,17463.80000,XQ-1481-70155,N,Mariafort
+2023,737,L2,Schroeder PLC,2,,RO-4919-44609,L,Weißenfels
+2023,738,L2,Hoffmann,15,6021.70000,TS-8453-97275,L,Weißwasser
+2023,739,L4,Carson and Sons,63,6462.50000,VZ-4553-96131,normal,Hofgeismar
+2018,740,L1,Brooks-Lopez,30,24249.30000,YT-5558-67570,L,Weißenfels
+2024,741,L1,Holzapfel,116,3112.10000,BV-8087-36086,L,Eichstätt
+2020,742,L1,Santos,86,14529.40000,QA-5286-41307,3,Mariafort
+2021,743,L1,Santos,32,12073.10000,YP-4757-61069, light ,Barreiro
+2015,744,L1,Brooks-Lopez,0,32866.40000,WU-9918-20879,1,Ludwigsburg
+2020,745,L1,Gnatz Hermann AG,82,16786.40000,IE-2980-78930,heavy,Lüdinghausen
+2023,746,L6,Borges Mendes S/A,79,6598.90000,SP-9082-92762,med,Monicabury
+2020,747,L6,Brooks-Lopez,12,16278.40000,UU-5476-54167,light,Hollandborough
+2023,748,L4,Moreira,34,6918.40000,KY-0021-17287,light,Lake Shanemouth
+2016,749,L2,Mans Schmidtke GmbH,3,30934.20000,ZD-5821-63507,light,Lake Shanemouth
+2021,750,L2,Barros Faria Lda.,64,11711.40000,CB-6247-62535,normal,Lake Shanemouth
+2022,751,L5,Fritsch e.G.,119,8851.00000,LL-6357-53934,heavy,North Theresaborough
+2021,752,L4,Weinhage Davids GbR,4,13053.20000,QN-6755-26216,1,Lake Shanemouth
+2022,753,L1,Atzler KG,16,7196.90000,UI-1944-43848,1,West Erinmouth
+2016,754,L2,Pinheiro Lda.,15,29803.00000,ME-1273-39982,light,Lake Michael
+2023,755,L3,"Bennett, Wood and Bell",20,6893.20000,AT-6257-63839,light,Serpa
+2019,756,L3,Sá Figueiredo Lda.,53,19100.60000,OE-9432-03988,1,Fürstenwalde
+2023,757,L5,Barros Faria Lda.,11,3616.90000,HB-0351-30231,light,Penafiel
+2023,758,L6,Moreira,61,5155.80000,DU-3648-02554,heavy,East Shaneview
+2023,759,L6,Weinhage Davids GbR,28,5046.30000,EJ-4826-62139,light,Eichstätt
+2016,760,L1,Barros Faria Lda.,1,30684.40000,GS-8826-86802, L ,Witzenhausen
+2020,761,L5,Stumpf GbR,15,16490.90000,VF-8993-45805,1,East Lisafurt
+2022,762,L6,Rocha,12,8009.10000,XO-8382-20838,1,Jamesberg
+2022,763,L1,"Campbell, Martinez and Brown",46,8802.00000,UM-0437-53911, 3 ,New Michelleborough
+2022,764,L2,Weinhage Davids GbR,58,7729.10000,OS-2879-10052,normal,Felgueiras
+2017,765,L5,Borges Mendes S/A,81,24607.80000,WY-5341-49395,3,Wanzleben
+2017,766,L4,Sá Figueiredo Lda.,61,26880.30000,WT-3886-49034,2,Luckenwalde
+2017,767,L5,Rogner Hölzenbecher e.G.,15,24934.70000,XJ-3730-71793,1,Lewisfurt
+2021,768,L5,Rogner Hölzenbecher e.G.,87,12497.30000,QB-8062-29014,H,Lake Philipville
+2023,769,L5,Maia,102,4423.70000,FE-7198-24832, H ,Lewisfurt
+2014,770,L2,Maia,61,37423.00000,ER-4934-33712,med,East Lisafurt
+2022,771,L4,"Mcclure, Mullen and Bernard",52,9499.20000,CC-2121-22522,med,Mangualde
+2020,772,L1,Sá Valente Lda.,59,14889.80000,LZ-9148-20032,N,Freising
+2022,773,L2,Seip Pölitz GbR,7,7602.40000,CT-4834-63664,light,East Shaneview
+2016,774,L6,Eberhardt GmbH & Co. KG,117,28288.20000,MY-2744-43373,3,Eddiemouth
+2018,775,L4,Wende Schulz AG,24,21322.90000,DX-4469-89420, 1 ,Jeffreychester
+2022,776,L1,Gnatz Hermann AG,33,8820.20000,JD-9952-33563,2,Freising
+2021,777,L6,Seip Pölitz GbR,31,11508.40000,LF-0248-83199, 1 ,Ludwigsburg
+2017,778,L2,Moreira,51,24916.50000,LJ-6938-57703,2,West Erinmouth
+2019,779,L1,Martin Neureuther Stiftung & Co. KG,57,18713.20000,DY-5152-21541,normal,Eichstätt
+2021,780,L2,Fritsch e.G.,91,12720.40000,OD-3090-28990,3,Schongau
+2018,781,L2,Atzler KG,91,23043.70000,TJ-1618-15508,H,Penafiel
+2021,782,L6,Wende Schulz AG,49,11047.10000,UB-5840-44479,med,Guben
+2017,783,L1,Weinhage Davids GbR,9,25897.30000,YT-4720-34882,1,Ludwigsburg
+2019,784,L6,Stumpf GbR,56,17649.80000,CQ-1385-14685,med,Witzenhausen
+2022,785,L3,Fritsch e.G.,113,7545.00000,EX-0895-11788,3,North Theresaborough
+2021,786,L2,Mans Schmidtke GmbH,1,12346.60000,OD-6992-66822, light ,Säckingen
+2012,787,L3,Long-Washington,22,45000.00000,KZ-7516-11016,light,Euskirchen
+2021,788,L4,Weinhage Martin GmbH & Co. KGaA,4,12269.90000,RH-8685-46294,light,New Cathyville
+2022,789,L1,Barros Faria Lda.,74,10172.80000,ME-3678-99254,med,Seelow
+2021,790,L5,Fritsch e.G.,25,11826.40000,HA-0960-00058,L,Weißwasser
+2023,791,L1,Eberhardt GmbH & Co. KG,16,6108.00000,TU-4204-43436,3,Póvoa de Santa Iria
+2019,792,L4,Weinhage Davids GbR,90,18011.60000,AX-4779-83338,heavy,Hollandborough
+2023,793,L3,Moreira,2,6363.80000,MK-1128-64774,light,Monicabury
+2022,794,L6,Weinhage Davids GbR,26,10048.60000,QE-5718-08371,1,Vila Nova de Foz Côa
+2023,795,L3,Borges Mendes S/A,63,4494.60000,ZY-4605-74002,med,Lamego
+2023,796,L6,"Bennett, Wood and Bell",37,5756.00000,FP-8788-31237, L ,Santa Comba Dão
+2019,797,L5,Holzapfel,13,18433.60000,SU-5906-35444,L,New Cathyville
+2020,798,L4,Sá Valente Lda.,74,15918.70000,SK-2516-83770,N,Lake Jesus
+2019,799,L6,Maia,88,17878.50000,LS-4987-47128,heavy,Santa Comba Dão
+2021,800,L1,Borges Mendes S/A,27,13293.70000,JG-4164-22335,3,Jessen
+2018,801,L2,Seip Pölitz GbR,7,21176.20000,OJ-7221-14120,L,Lewisfurt
+2021,802,L2,Trupp Eigenwillig Stiftung & Co. KG,1,10731.90000,VC-3648-43943,2,Weißenfels
+2021,803,L3,Ferreira e Filhos,53,12059.20000,NY-8544-87084,normal,Schongau
+2020,804,L2,Reis Lda.,76,15860.00000,IF-2784-47384, med ,Mangualde
+2017,805,L1,Pinheiro Lda.,84,24993.00000,VQ-3583-57129,H,Rio Tinto
+2022,806,L5,Schroeder PLC,99,7355.60000,ZL-1175-91487,H,Fürstenwalde
+2018,807,L5,Eberhardt GmbH & Co. KG,85,22927.70000,GU-8108-73789,heavy,Gloriaberg
+2023,808,L2,Barros Faria Lda.,112,6599.70000,WS-0900-54195,H,Serpa
+2024,809,L1,Moreira,15,2824.20000,TD-7750-97467,light,Wanzleben
+2020,810,L5,Holzapfel,37,15861.30000,ND-9584-99633,1,Port Cherylview
+2021,811,L1,Döring GbR,29,10840.10000,HP-0040-05163,L,Felgueiras
+2022,812,L3,Long-Washington,54,8069.00000,YV-9615-04014,1,Silves
+2017,813,L2,Sá Valente Lda.,71,27560.00000,XV-4814-04373, N ,East Shaneview
+2022,814,L1,Fritsch e.G.,45,7899.90000,JR-3510-41896,N,Lake Jesus
+2016,815,L6,Carson and Sons,62,29769.80000,JG-3037-05040,normal,Mangualde
+2017,816,L4,"Bennett, Wood and Bell",18,24619.60000,SN-0018-42519,light,Weißenfels
+2018,817,L3,Gnatz Hermann AG,94,21332.10000,TF-9278-66611,L,Eichstätt
+2017,818,L5,Schroeder PLC,82,26756.10000,NF-4788-85714,L,Jeffreychester
+2021,819,L1,Rocha,11,10601.90000,IW-6115-44930,light,Gloriaberg
+2023,820,L4,Gnatz Hermann AG,57,3598.60000,AO-2701-05734,med,Thompsonfurt
+2023,821,L6,Stumpf GbR,115,5255.90000,IG-8812-40072,H,Weißenfels
+2021,822,L4,Brooks-Lopez,83,,PL-2679-42855,light,East Shaneview
+2023,823,L4,Long-Washington,59,6508.90000,CM-7410-17918,heavy,Portimão
+2018,824,L4,Wende Schulz AG,62,22380.80000,BB-6440-84916,2,Mariafort
+2022,825,L1,Rogner Hölzenbecher e.G.,50,7313.50000,ZD-8409-44186,N,Hofgeismar
+2021,826,L4,Atzler KG,47,13853.40000,RP-2598-76512,med,Wanzleben
+2023,827,L3,Ferreira e Filhos,53,4585.90000,SY-3931-18699,normal,Portimão
+2022,828,L2,Reising Trupp AG & Co. KGaA,96,8378.10000,HV-6060-02540, light ,Euskirchen
+2022,829,L2,Eberhardt GmbH & Co. KG,16,10171.90000,FZ-8319-39481,1,Säckingen
+2022,830,L5,Döring GbR,2,8171.40000,QH-7254-40393, 1 ,New Cathyville
+2023,831,L5,Mans Schmidtke GmbH,33,5313.40000,IP-9177-35746,light,Rio Tinto
+2023,832,L2,Fritsch e.G.,94,,NL-7239-98577,3,Felgueiras
+2013,833,L1,"Mcclure, Mullen and Bernard",76,41360.80000,BX-6217-39703,med,Thompsonfurt
+2019,834,L6,Weinhage Martin GmbH & Co. KGaA,109,20580.00000,GD-2912-46092,2,Eichstätt
+2016,835,L1,Maia,101,30132.00000,OX-9157-79186,L,Lake Michael
+2018,836,L1,Wende Schulz AG,21,22922.20000,PD-2322-84011,1,Königs Wusterhausen
+2022,837,L4,Nguyen Ltd,61,8287.40000,OX-0588-71898,med,Mühlhausen
+2022,838,L4,Long-Washington,13,7599.80000,LM-5912-95133,light,Eddiemouth
+2018,839,L5,Ferreira e Filhos,45,21211.50000,FF-3949-27995,L,Säckingen
+2015,840,L4,Hoffmann,64,33504.30000,TU-6000-76391, N ,Witzenhausen
+2017,841,L1,Santos,112,25540.60000,CP-6077-82338,light,Silves
+2019,842,L6,Weinhage Davids GbR,116,18370.90000,WA-9131-12605,2,Seelow
+2019,843,L4,Monteiro,29,18332.40000,TQ-6294-93115,1,Hollandborough
+2022,844,L5,Seip Pölitz GbR,96,9265.90000,NN-7454-66410,light,Roberthaven
+2020,845,L3,Ferreira e Filhos,6,15879.30000,MY-2047-65369,light,Lake Jesus
+2020,846,L6,Schroeder PLC,63,15774.30000,UT-6746-92252,med,Königs Wusterhausen
+2022,847,L6,Döring GbR,27,8240.60000,RR-3461-68875,1,Ludwigsburg
+2023,848,L1,Long-Washington,39,6898.80000,YL-7956-53085,light,New Michelleborough
+2021,849,L3,Hoffmann,18,12987.50000,MS-3080-55660,L,Seelow
+2022,850,L2,Long-Washington,74,9645.60000,CI-2856-53220,heavy,São Salvador de Lordelo
+2022,851,L5,Rocha,89,8187.70000,DI-2267-54269,H,Queluz
+2023,852,L5,Ferreira e Filhos,79,5453.60000,AR-3558-46170,N,New Cathyville
+2024,853,L2,Carson and Sons,24,3450.70000,YW-9517-82587,H,Thompsonfurt
+2020,854,L3,Barros Faria Lda.,50,15863.70000,CB-8137-57689,2,Monicabury
+2022,855,L3,Sá Valente Lda.,86,7678.80000,KJ-7578-40530,N,Lake Shanemouth
+2014,856,L4,"Fields, Castillo and Gibson",76,37508.50000,BH-8542-25255,2,Póvoa de Santa Iria
+2022,857,L3,Atzler KG,34,10091.20000,WK-9603-03594,1,Gloriaberg
+2022,858,L6,"Bennett, Wood and Bell",94,9510.80000,RS-4281-65697,H,Jeffreychester
+2015,859,L6,Fritsch e.G.,39,34953.80000,II-3057-37100,light,Portimão
+2020,860,L2,Eberhardt GmbH & Co. KG,56,14044.40000,IW-6428-22324,med,Guben
+2023,861,L5,Atzler KG,26,5384.70000,LB-3763-02998,2,Jamesberg
+2023,862,L5,Eberhardt GmbH & Co. KG,75,6296.00000,YF-2372-03594,2,Weißenfels
+2022,863,L2,Seip Pölitz GbR,5,7038.60000,AK-0671-55961,light,Silves
+2022,864,L5,Santos,107,9427.20000,HL-3513-30255,light,Witzenhausen
+2019,865,L4,Mans Schmidtke GmbH,20,19257.80000,TW-4076-01532,L,Hofgeismar
+2023,866,L6,Sá Valente Lda.,29,4023.60000,MX-9111-97570,light,Guben
+2020,867,L4,Martin Neureuther Stiftung & Co. KG,112,15706.00000,UL-5555-43711, normal ,Fürstenwalde
+2021,868,L2,Rogner Hölzenbecher e.G.,34,11509.30000,AV-5955-42633,L,Euskirchen
+2023,869,L1,Eberhardt GmbH & Co. KG,76,6565.50000,DD-8719-13846,L,Apolda
+2020,870,L5,Moreira,106,14992.90000,WQ-8475-99198,H,Silves
+2021,871,L5,Santos,44,10565.10000,GG-8391-56961, normal ,Mariafort
+2020,872,L3,Döring GbR,45,14987.90000,VO-4342-22331,N,Póvoa de Santa Iria
+2021,873,L6,Stumpf GbR,92,11100.10000,ON-8831-24037,H,Lake Jesus
+2020,874,L2,Pinheiro Lda.,12,14803.20000,VA-5132-88610,light,West Erinmouth
+2020,875,L2,Döring GbR,2,17230.40000,ZD-7062-87159,3,Mangualde
+2020,876,L4,Ferreira e Filhos,95,15703.80000,FX-6387-04926,med,Paigemouth
+2022,877,L3,Ferreira e Filhos,29,8238.50000,ZW-6418-23290,1,Fiães
+2014,878,L4,Moreira,96,35498.90000,LV-1317-61056,1,Jeffreychester
+2020,879,L6,Barros Faria Lda.,103,15198.30000,OP-0518-36148,heavy,Monicabury
+2020,880,L4,Holzapfel,10,,YL-8014-15832,L,Weißenfels
+2012,881,L2,Barros Faria Lda.,42,43196.90000,DM-8248-80648,med,Felgueiras
+2022,882,L6,Pinheiro Lda.,104,7685.00000,FL-0806-06008,heavy,Ludwigsburg
+2022,883,L3,Pinheiro Lda.,79,8209.20000,AN-0084-32303,2,Mariafort
+2023,884,L5,Gnatz Hermann AG,14,6659.50000,BT-7718-81104,2,Penafiel
+2022,885,L6,Reising Trupp AG & Co. KGaA,68,7131.90000,XH-7247-01940,2,New Michelleborough
+2019,886,L5,Monteiro,3,19101.70000,ZE-0157-45615,light,Königs Wusterhausen
+2021,887,L3,Martin Neureuther Stiftung & Co. KG,75,11982.10000,OV-3248-93627,normal,Luckenwalde
+2023,888,L6,Moreira,65,,JL-4775-08128, 2 ,East Shaneview
+2022,889,L2,"Bennett, Wood and Bell",2,8167.80000,IZ-4086-54917,L,Luckenwalde
+2018,890,L1,Barros Faria Lda.,72,23459.70000,CX-3433-86794,med,São Salvador de Lordelo
+2020,891,L5,Seip Pölitz GbR,5,17122.50000,KW-7867-75513,1,Felgueiras
+2021,892,L5,Rogner Hölzenbecher e.G.,88,13716.70000,FB-1077-77322,3,Roberthaven
+2020,893,L3,Williams-Nicholson,111,14035.20000,OA-1837-75793,H,Wanzleben
+2020,894,L4,Maia,15,15331.50000,UI-1089-43388,1,Monicabury
+2023,895,L4,Hoffmann,9,5728.00000,UR-3392-44440,L,Hofgeismar
+2022,896,L4,Weinhage Martin GmbH & Co. KGaA,36,9113.40000,AM-4853-87027,light,Lamego
+2020,897,L3,Monteiro,78,16399.90000,HR-1858-69456,2,Lake Jesus
+2017,898,L6,Pinheiro Lda.,25,25553.70000,MH-5778-57957,light,Eddiemouth
+2020,899,L3,"Campbell, Martinez and Brown",84,15940.00000,OP-3444-90517,heavy,Queluz
+2022,900,L5,"Mcclure, Mullen and Bernard",35,8736.50000,YB-3716-96817,light,Santa Comba Dão
+2021,901,L5,Atzler KG,9,12688.60000,IF-1302-77933,3,North Theresaborough
+2022,902,L4,Hoffmann,101,9317.40000,GS-2058-48079,H,Queluz
+2019,903,L2,Fritsch e.G.,116,20485.00000,HW-3139-94170,H,Ludwigsburg
+2019,904,L1,Borges Mendes S/A,34,17824.20000,IM-8586-42023,L,East Shaneview
+2022,905,L2,Wende Schulz AG,116,8801.20000,JI-9990-73711,3,Seelow
+2022,906,L1,Schroeder PLC,23,9134.80000,AY-3070-36506,1,Roberthaven
+2023,907,L5,Maia,6,4729.60000,QS-5228-52399,L,Eddiemouth
+2023,908,L3,Rocha,31,6808.30000,SM-8098-97741,L,Queluz
+2021,909,L1,Gnatz Hermann AG,8,11325.30000,WI-4814-39575,1,Guben
+2022,910,L6,Sá Figueiredo Lda.,97,10243.70000,DL-3578-51969,H,Fiães
+2020,911,L5,Sá Valente Lda.,85,15983.50000,RP-9575-77952,2,Barreiro
+2020,912,L2,"Fields, Castillo and Gibson",37,14859.00000,PI-8778-08158, light ,Silves
+2015,913,L5,Sá Valente Lda.,50,33737.60000,SA-9134-61930,normal,Luckenwalde
+2023,914,L6,Gnatz Hermann AG,105,6608.90000,WZ-3753-65824,heavy,Lamego
+2017,915,L6,"Campbell, Martinez and Brown",58,26680.40000,GX-0582-67854,med,Kemnath
+2021,916,L4,Barros Faria Lda.,16,11752.10000,YJ-2773-92932,L,Barreiro
+2022,917,L5,Nguyen Ltd,49,,QV-3462-78595, normal ,Euskirchen
+2012,918,L5,Moreira,107,45000.00000,NZ-1271-49801,L,Säckingen
+2018,919,L1,"Campbell, Martinez and Brown",25,21383.30000,AK-7776-54276,L,Lüdinghausen
+2019,920,L1,Martin Neureuther Stiftung & Co. KG,50,18347.80000,GY-6737-89460,med,Ludwigsburg
+2018,921,L1,Hoffmann,45,21778.60000,QR-4092-12231,N,West Erinmouth
+2024,922,L1,"Mcclure, Mullen and Bernard",35,3377.90000,ZW-4416-76329,N,Santa Comba Dão
+2022,923,L5,Maia,86,8666.50000,SX-1911-91673,heavy,Königs Wusterhausen
+2020,924,L2,Santos,87,,DN-8254-61613,H,Euskirchen
+2013,925,L6,Long-Washington,4,39342.00000,ZP-3762-31996,1,Gloriaberg
+2020,926,L5,Fritsch e.G.,101,14401.20000,GQ-5052-12131,1,New Cathyville
+2020,927,L2,Carson and Sons,72,14315.50000,PD-1333-02780,2,Wernigerode
+2021,928,L3,Reising Trupp AG & Co. KGaA,82,10738.50000,LQ-9427-76822,3,Ludwigsburg
+2022,929,L2,Mans Schmidtke GmbH,37,9821.30000,HS-8448-35456,L,Lake Shanemouth
+2023,930,L4,"Mcclure, Mullen and Bernard",74,5429.50000,IL-1089-25805,L,Jamesberg
+2021,931,L4,Nguyen Ltd,109,,QJ-2475-15553,3,Silves
+2018,932,L5,Carson and Sons,30,22585.30000,YY-3650-96500,1,Gloriaberg
+2023,933,L2,Reis Lda.,51,4795.40000,IU-0137-87387,normal,Weißenfels
+2021,934,L6,"Mcclure, Mullen and Bernard",115,10900.40000,PM-1508-97305,3,Queluz
+2016,935,L1,Ferreira e Filhos,11,28875.90000,WJ-9351-06253,L,Fürstenwalde
+2024,936,L5,Rogner Hölzenbecher e.G.,2,3389.10000,SG-0186-90969,H,Lewisfurt
+2021,937,L4,Williams-Nicholson,107,12124.20000,SN-2563-37131,heavy,Euskirchen
+2018,938,L5,Wende Schulz AG,28,23120.50000,JP-4916-35132,light,Freising
+2022,939,L5,"Mcclure, Mullen and Bernard",43,7190.90000,NM-0461-29485,normal,Silves
+2021,940,L3,Trupp Eigenwillig Stiftung & Co. KG,111,10610.70000,VO-5036-38336,N,Port Cherylview
+2023,941,L6,Maia,54,6473.20000,VG-9250-32269,normal,Fürstenwalde
+2019,942,L3,"Fields, Castillo and Gibson",88,19507.30000,CC-0655-81956,heavy,Felgueiras
+2022,943,L2,Hoffmann,40,9856.20000,OZ-3023-23539,med,Silves
+2021,944,L6,Carson and Sons,1,10748.00000,RN-1342-97386,L,New Cathyville
+2020,945,L5,Fritsch e.G.,23,15252.70000,DG-1911-90780,1,Ludwigsburg
+2021,946,L1,Schroeder PLC,84,12663.60000,IP-6232-13899,H,Hofgeismar
+2023,947,L6,"Campbell, Martinez and Brown",15,6532.50000,RZ-5206-41939,H,Felgueiras
+2020,948,L4,Barros Faria Lda.,60,14106.70000,BJ-6043-67652, normal ,Póvoa de Santa Iria
+2024,949,L5,Maia,65,1465.60000,SG-9065-12178,med,Fürstenwalde
+2022,950,L2,Hoffmann,28,8456.20000,BS-5415-88140,1,Lake Shanemouth
+2020,951,L2,Rocha,101,16425.90000,UI-8048-79035,3,Weißenfels
+2023,952,L4,"Fields, Castillo and Gibson",100,6803.60000,DD-2682-05596,L,Weißwasser
+2019,953,L5,Moreira,70,17502.10000,SR-1644-26921,normal,Lake Jesus
+2018,954,L3,Barros Faria Lda.,57,23601.80000,EH-0998-13756,normal,Hollandborough
+2022,955,L1,Ferreira e Filhos,44,7900.20000,LV-5947-43909,normal,Roberthaven
+2023,956,L6,Martin Neureuther Stiftung & Co. KG,93,6698.30000,AW-7546-15430,H,Seelow
+2023,957,L5,Sá Valente Lda.,70,4372.70000,XM-9376-06312,N,Portimão
+2021,958,L4,Gnatz Hermann AG,89,13959.10000,SR-9920-21756,light,Roberthaven
+2021,959,L3,Santos,103,13118.00000,GB-4322-91404,heavy,Mühlhausen
+2022,960,L2,"Bennett, Wood and Bell",10,10282.80000,JZ-3147-97849,heavy,Königs Wusterhausen
+2019,961,L6,Hoffmann,67,17706.80000,CF-3357-70368,normal,Schongau
+2021,962,L4,Barros Faria Lda.,24,10736.30000,WN-9511-13634,light,West Erinmouth
+2022,963,L6,Brooks-Lopez,98,9401.50000,MD-8189-47414,3,Fiães
+2019,964,L6,Wende Schulz AG,29,19289.00000,CZ-3897-80426,light,Königs Wusterhausen
+2022,965,L1,Eberhardt GmbH & Co. KG,4,8528.70000,BJ-6237-73029,L,Kemnath
+2018,966,L4,Hoffmann,75,23686.00000,BK-0502-90399,N,Lake Shanemouth
+2020,967,L2,"Bennett, Wood and Bell",19,15757.00000,VB-6522-86905,L,Wernigerode
+2021,968,L3,Stumpf GbR,90,12086.70000,SC-1978-29131,H,Serpa
+2022,969,L4,Brooks-Lopez,3,,KH-1773-60102,1,Vila Nova de Foz Côa
+2022,970,L3,Sá Figueiredo Lda.,118,9154.50000,FG-8158-12474,L,Königs Wusterhausen
+2024,971,L5,Carson and Sons,13,3361.90000,NL-3392-91929, 1 ,Santa Comba Dão
+2023,972,L1,Gnatz Hermann AG,26,5324.50000,TP-9000-10960,L,Lamego
+2023,973,L5,Williams-Nicholson,45,5571.40000,EL-3945-98322,N,Lüdinghausen
+2016,974,L2,"Bennett, Wood and Bell",53,30807.40000,LV-7052-92010,N,Lake Philipville
+2021,975,L5,Hoffmann,27,10526.60000,TK-6255-71543,3,Lake Jesus
+2019,976,L6,Sá Valente Lda.,26,17836.90000,AN-1457-57352,normal,West Erinmouth
+2023,977,L4,Rogner Hölzenbecher e.G.,110,5180.00000,CO-5940-61602,1,Ludwigsburg
+2021,978,L2,Santos,19,12774.80000,NT-2255-06420,light,Gloriaberg
+2021,979,L3,Döring GbR,88,11577.50000,AH-4192-49285,light,Thompsonfurt
+2012,980,L1,Fritsch e.G.,100,45000.00000,VL-9200-26068, H ,Guben
+2021,981,L3,Seip Pölitz GbR,2,12527.40000,PW-0740-18127,1,Felgueiras
+2017,982,L2,"Campbell, Martinez and Brown",78,27223.40000,XE-7732-78531,med,Jeffreychester
+2023,983,L1,Rogner Hölzenbecher e.G.,119,4885.70000,FL-4809-14505,heavy,Mangualde
+2021,984,L2,Sá Valente Lda.,104,11247.40000,UE-7218-74599,1,Felgueiras
+2022,985,L2,Mans Schmidtke GmbH,18,7620.40000,VD-9880-46826,L,Portimão
+2020,986,L4,Williams-Nicholson,63,15730.60000,YD-6340-20582,3,Thompsonfurt
+2022,987,L1,Seip Pölitz GbR,8,8436.40000,JL-4141-76932,light,Kemnath
+2015,988,L4,Weinhage Martin GmbH & Co. KGaA,99,31593.00000,ZF-3237-32917,3,Hollandborough
+2023,989,L6,Reis Lda.,34,3502.80000,KY-2554-20006,L,Seelow
+2021,990,L1,Ferreira e Filhos,82,10616.40000,CI-0514-60444,med,Lake Philipville
+2024,991,L3,Rogner Hölzenbecher e.G.,5,2086.40000,GX-8174-54292, light ,Santa Comba Dão
+2023,992,L1,Barros Faria Lda.,100,6272.10000,OB-1202-58859,med,Lewisfurt
+2021,993,L2,Pinheiro Lda.,23,10957.50000,EQ-9915-47528,normal,Hofgeismar
+2022,994,L4,Eberhardt GmbH & Co. KG,25,8318.40000,QP-2922-50534,1,Euskirchen
+2022,995,L5,Weinhage Davids GbR,48,9768.00000,CA-9279-10814,3,São Salvador de Lordelo
+2021,996,L6,Rocha,71,10687.70000,PG-8421-69315,heavy,Jeffreychester
+2023,997,L2,Sá Figueiredo Lda.,36,4330.00000,WY-4312-51716,light,Vila Nova de Foz Côa
+2023,998,L2,Weinhage Martin GmbH & Co. KGaA,35,6598.10000,XW-8799-62560,3,Queluz
+2018,999,L2,Weinhage Martin GmbH & Co. KGaA,117,21695.10000,UN-9513-19361,heavy,Jessen
+2023,1000,L5,Nguyen Ltd,17,5681.80000,UC-5106-51353,med,Barreiro
+2024,1001,L2,Gnatz Hermann AG,36,3437.80000,BX-5662-40599,light,Schongau
+2022,1002,L1,"Fields, Castillo and Gibson",103,8926.10000,ZI-2756-91107,heavy,São Salvador de Lordelo
+2020,1003,L4,Rogner Hölzenbecher e.G.,8,15545.80000,RL-5448-67921,1,Jeffreychester
+2020,1004,L6,Sá Valente Lda.,20,14230.30000,UP-9370-19328,heavy,Lake Michael
+2021,1005,L1,Carson and Sons,56,12361.70000,VZ-0800-06230,med,Jessen
+2019,1006,L4,Gnatz Hermann AG,3,17749.60000,GV-9311-24354,light,Weißenfels
+2021,1007,L1,Stumpf GbR,75,12455.30000,KP-2781-47025,N,Weißenfels
+2023,1008,L5,Sá Valente Lda.,96,6130.40000,CC-8164-54327,L,Lewisfurt
+2020,1009,L3,Monteiro,106,14596.20000,DJ-7561-34736,H,Lake Shanemouth
+2022,1010,L6,Wende Schulz AG,37,8196.40000,YH-4307-37099,light,Lake Michael
+2022,1011,L4,Stumpf GbR,34,10107.20000,FU-9609-61075,1,Weißenfels
+2017,1012,L2,Reis Lda.,76,25822.80000,NL-9363-77246,N,Mangualde
+2023,1013,L4,Weinhage Davids GbR,65,5432.50000,GI-5593-17039,med,Hollandborough
+2023,1014,L3,"Campbell, Martinez and Brown",105,3673.90000,JE-8580-33189,3,North Theresaborough
+2019,1015,L1,Fritsch e.G.,30,19017.70000,CO-7634-87470, 1 ,Seelow
+2017,1016,L6,Williams-Nicholson,76,26479.40000,NH-5600-04073,N,São Salvador de Lordelo
+2018,1017,L3,Hoffmann,85,23740.20000,PZ-3335-46348,3,Jeffreychester
+2020,1018,L3,Reis Lda.,42,14955.60000,KH-6144-90337,N,Kemnath
+2020,1019,L6,Fritsch e.G.,43,16942.30000,QY-6028-32182,med,Lake Jesus
+2021,1020,L6,Eberhardt GmbH & Co. KG,41,13913.00000,VK-7827-55976,2,Serpa
+2017,1021,L4,Wende Schulz AG,69,26700.60000,FE-3340-59312,med,Barreiro
+2023,1022,L6,Santos,36,5756.90000,EK-5513-60485,med,Euskirchen
+2012,1023,L2,Seip Pölitz GbR,15,45000.00000,PX-2518-40943, L ,Wanzleben
+2020,1024,L4,Holzapfel,19,16951.70000,NV-1358-95541, L ,Mühlhausen
+2021,1025,L2,Ferreira e Filhos,98,11370.90000,AA-4869-10386,H,Gloriaberg
+2021,1026,L1,Brooks-Lopez,45,13499.50000,NC-9460-95855,N,Ludwigsburg
+2023,1027,L5,Reis Lda.,5,6026.60000,EI-5420-30649, L ,Mariafort
+2020,1028,L4,Williams-Nicholson,91,15681.10000,ZJ-2834-79085,H,Vila Nova de Foz Côa
+2019,1029,L3,Williams-Nicholson,65,19059.20000,ME-5254-70952,N,Gloriaberg
+2021,1030,L6,Weinhage Davids GbR,114,10741.20000,AL-5874-56879, heavy ,Euskirchen
+2023,1031,L2,Santos,59,6171.30000,JH-3673-80049,normal,Monicabury
+2017,1032,L2,Borges Mendes S/A,35,26916.10000,MM-1011-35385,L,Mangualde
+2022,1033,L5,Ferreira e Filhos,83,9059.20000,IG-4942-87398,3,Lamego
+2020,1034,L4,Brooks-Lopez,77,15631.50000,HR-3877-78798,med,Lake Michael
+2022,1035,L4,Sá Valente Lda.,105,7075.30000,TL-4495-98508,heavy,Queluz
+2022,1036,L2,Long-Washington,71,10434.80000,WY-4200-31690,2,West Erinmouth
+2022,1037,L6,Wende Schulz AG,100,7601.00000,YY-7854-01271,H,Lake Philipville
+2023,1038,L1,Williams-Nicholson,79,6174.90000,QA-4197-03368,L,East Shaneview
+2023,1039,L2,Reis Lda.,77,6431.80000,IB-9656-23704,2,Lake Shanemouth
+2023,1040,L1,Sá Figueiredo Lda.,45,5187.50000,SE-0658-16572,normal,Wernigerode
+2016,1041,L1,Ferreira e Filhos,100,28914.80000,LF-0064-48230,3,Ludwigsburg
+2016,1042,L4,Nguyen Ltd,31,28767.20000,SM-4969-55879,3,Felgueiras
+2019,1043,L3,Reis Lda.,106,18772.90000,WO-9804-97447,H,Silves
+2021,1044,L1,Monteiro,39,11385.20000,RV-9927-72904,1,Weißwasser
+2023,1045,L1,Long-Washington,23,6561.70000,PJ-1832-55900,1,Rio Tinto
+2023,1046,L1,Ferreira e Filhos,14,4388.20000,AU-7786-77279,N,Lake Philipville
+2023,1047,L1,Seip Pölitz GbR,73,5947.50000,LD-7215-30368,normal,Weißwasser
+2020,1048,L5,Monteiro,25,15385.30000,PE-7926-38203,L,West Erinmouth
+2021,1049,L6,Sá Valente Lda.,103,12933.30000,TX-4907-01540,H,Póvoa de Santa Iria
+2018,1050,L4,Santos,16,21472.90000,UN-4174-60562, light ,Santa Comba Dão
+2023,1051,L6,Fritsch e.G.,13,5021.10000,XD-0950-98345,light,Paigemouth
+2019,1052,L2,Gnatz Hermann AG,32,19850.30000,PF-6928-22235,L,Lake Michael
+2022,1053,L6,Brooks-Lopez,64,7764.90000,RO-9894-95987,L,Santa Comba Dão
+2022,1054,L6,"Green, Nichols and Robbins",87,10485.50000,OR-4851-98356,heavy,North Theresaborough
+2022,1055,L5,Reis Lda.,80,8157.40000,QB-9695-15769,3,Fiães
+2023,1056,L4,"Green, Nichols and Robbins",44,6937.70000,WA-7939-22674,1,Monicabury
+2020,1057,L5,Atzler KG,5,16186.20000,FE-9724-59268,1,Schongau
+2020,1058,L6,Pinheiro Lda.,56,16720.90000,CV-5475-12134,med,Hofgeismar
+2019,1059,L1,Atzler KG,97,19797.70000,LW-3883-66096,heavy,Wanzleben
+2019,1060,L2,Borges Mendes S/A,40,19795.10000,XK-6347-07618, normal ,Lake Michael
+2022,1061,L2,Pinheiro Lda.,107,7423.60000,KR-5070-63170,heavy,Wanzleben
+2021,1062,L4,Schroeder PLC,3,,FI-6070-71130,light,Póvoa de Santa Iria
+2021,1063,L2,Nguyen Ltd,77,12330.40000,EV-2250-33741, med ,São Salvador de Lordelo
+2021,1064,L4,Seip Pölitz GbR,72,11964.80000,AN-5809-17869,normal,North Theresaborough
+2022,1065,L2,Trupp Eigenwillig Stiftung & Co. KG,30,10354.40000,ND-9733-95188,light,Wernigerode
+2017,1066,L3,Borges Mendes S/A,24,25080.80000,EZ-7944-34092,3,Eichstätt
+2014,1067,L5,"Green, Nichols and Robbins",55,35428.30000,KU-0321-03089,med,East Shaneview
+2019,1068,L4,Borges Mendes S/A,107,17884.70000,MT-0491-34115,H,Apolda
+2023,1069,L1,"Fields, Castillo and Gibson",93,6075.60000,XH-3483-60727,H,Freising
+2021,1070,L3,"Green, Nichols and Robbins",64,,QN-0732-64044,L,Vila Nova de Foz Côa
+2021,1071,L2,Schroeder PLC,57,11475.10000,NY-6442-45077,normal,West Erinmouth
+2019,1072,L5,Barros Faria Lda.,38,17517.10000,ZK-0795-30917,1,Portimão
+2019,1073,L4,Sá Figueiredo Lda.,94,20962.60000,PP-8391-98156, 3 ,Witzenhausen
+2023,1074,L1,"Fields, Castillo and Gibson",59,5286.30000,WA-4580-67714,med,Roberthaven
+2022,1075,L6,Martin Neureuther Stiftung & Co. KG,32,9275.80000,JA-3934-87580,light,Lamego
+2018,1076,L3,Weinhage Davids GbR,96,21522.60000,JT-4095-07976,light,Eddiemouth
+2021,1077,L3,Wende Schulz AG,113,10954.80000,JK-4024-31043,2,New Cathyville
+2019,1078,L3,Borges Mendes S/A,21,18757.60000,LR-0747-86373,L,Santa Comba Dão
+2020,1079,L5,Carson and Sons,60,14398.40000,KP-1559-13568,med,Apolda
+2018,1080,L1,Weinhage Martin GmbH & Co. KGaA,92,22780.70000,QB-8604-50411,1,Monicabury
+2023,1081,L6,Schroeder PLC,17,4548.10000,YV-2126-58566,1,Freising
+2021,1082,L1,Brooks-Lopez,38,11719.20000,CB-7661-44378,light,Felgueiras
+2016,1083,L6,Borges Mendes S/A,60,28354.80000,XD-1188-56986,med,Euskirchen
+2020,1084,L2,Gnatz Hermann AG,61,14215.10000,CL-9608-92196,N,Fürstenwalde
+2020,1085,L1,Sá Valente Lda.,85,16208.20000,RD-5741-79696,light,Roberthaven
+2023,1086,L1,Fritsch e.G.,60,5958.00000,OG-6252-82042,N,Freising
+2022,1087,L2,Wende Schulz AG,32,8168.40000,IT-5109-98097,N,Luckenwalde
+2018,1088,L3,Long-Washington,104,22638.00000,RY-7213-41225,heavy,Schongau
+2022,1089,L1,Santos,102,8665.10000,FB-5675-57169,med,Fürstenwalde
+2023,1090,L6,Gnatz Hermann AG,31,6567.60000,GV-4221-57049,1,Jamesberg
+2023,1091,L1,Barros Faria Lda.,31,6908.70000,YG-9811-73854,light,Jamesberg
+2023,1092,L5,Santos,93,4149.40000,JA-8542-19247,3,Hollandborough
+2022,1093,L6,Nguyen Ltd,40,10252.10000,ZP-9951-39163,N,Eddiemouth
+2018,1094,L1,Eberhardt GmbH & Co. KG,77,23809.40000,PP-6384-23722,med,Kemnath
+2015,1095,L5,Mans Schmidtke GmbH,5,33262.90000,XI-8065-17466,1,Penafiel
+2015,1096,L2,Stumpf GbR,67,34262.00000,DV-9973-98624,med,Mangualde
+2022,1097,L4,Sá Valente Lda.,93,8311.50000,UT-3404-47281,heavy,Vila Nova de Foz Côa
+2019,1098,L3,Barros Faria Lda.,27,18018.50000,MX-0372-68101,L,Fürstenwalde
+2023,1099,L5,Monteiro,41,6175.40000,FQ-0568-71959,normal,Mariafort
+2022,1100,L5,Long-Washington,75,10226.20000,FC-9903-81248,L,Mariafort
+2019,1101,L5,Borges Mendes S/A,41,18610.40000,RK-7743-82918, 2 ,West Erinmouth
+2023,1102,L2,Williams-Nicholson,51,5591.60000,XL-7880-82953,N,Mariafort
+2018,1103,L6,Pinheiro Lda.,2,22001.10000,OL-8633-46847,1,West Erinmouth
+2017,1104,L6,Stumpf GbR,32,26038.70000,KA-7090-01712,1,Barreiro
+2019,1105,L4,Maia,23,18330.50000,IH-9573-20883,light,Queluz
+2021,1106,L4,Weinhage Martin GmbH & Co. KGaA,51,11900.50000,XO-4703-09895,N,Queluz
+2020,1107,L3,Martin Neureuther Stiftung & Co. KG,60,14573.80000,MV-4981-06770,N,Mariafort
+2019,1108,L6,Döring GbR,96,20796.20000,UL-5957-98399,normal,Hofgeismar
+2019,1109,L5,Carson and Sons,19,17983.60000,EQ-0973-60727,light,Lewisfurt
+2020,1110,L3,Fritsch e.G.,30,14609.40000,TR-1436-75245,light,Thompsonfurt
+2022,1111,L4,Carson and Sons,81,10472.90000,SU-1794-75296,3,Euskirchen
+2022,1112,L5,Hoffmann,73,10415.40000,EQ-3869-53309,light,Eddiemouth
+2021,1113,L3,Nguyen Ltd,69,12121.80000,WU-8865-45494,N,Jeffreychester
+2022,1114,L6,Holzapfel,24,7623.90000,PW-6599-89133,1,Eddiemouth
+2018,1115,L6,Reis Lda.,70,22617.20000,KC-4146-15193,normal,Ludwigsburg
+2012,1116,L2,Reising Trupp AG & Co. KGaA,11,45000.00000,GF-1770-75413,1,Rio Tinto
+2020,1117,L6,Moreira,65,14813.50000,JG-0087-38741,2,Queluz
+2017,1118,L1,Maia,36,25749.90000,WC-9320-95690,light,Jamesberg
+2022,1119,L5,Schroeder PLC,106,7156.80000,RX-0356-90086,3,Felgueiras
+2022,1120,L1,Reising Trupp AG & Co. KGaA,69,8781.20000,KQ-1234-47593,med,Weißwasser
+2020,1121,L1,Holzapfel,38,16538.00000,SJ-2186-39659,L,New Michelleborough
+2018,1122,L3,"Bennett, Wood and Bell",69,22503.10000,AT-7655-95521,med,Barreiro
+2021,1123,L1,Moreira,32,12867.10000,NF-7273-60552,1,Ludwigsburg
+2024,1124,L4,Reis Lda.,73,1899.40000,RK-1516-20438,med,Jamesberg
+2023,1125,L6,Rogner Hölzenbecher e.G.,77,6949.80000,IC-0433-36299,normal,Eddiemouth
+2021,1126,L3,Rogner Hölzenbecher e.G.,24,12935.50000,XH-9111-03251,1,Lake Michael
+2020,1127,L2,Stumpf GbR,16,14635.30000,GP-5252-87346,L,Lake Jesus
+2024,1128,L6,Reising Trupp AG & Co. KGaA,14,2780.50000,EE-7686-58152,H,Felgueiras
+2022,1129,L2,Holzapfel,79,8625.30000,PW-9810-99194,N,Weißwasser
+2022,1130,L1,Maia,89,,EN-7392-53053,light,Silves
+2024,1131,L2,Maia,112,,RI-5227-46383,2,Jamesberg
+2018,1132,L3,Barros Faria Lda.,75,21163.00000,RP-7649-71930,2,Barreiro
+2022,1133,L4,Williams-Nicholson,66,8120.50000,MA-2714-18032,2,Lamego
+2018,1134,L6,Long-Washington,97,24415.90000,NO-7396-37803,3,Euskirchen
+2020,1135,L1,Seip Pölitz GbR,118,16198.90000,PP-8753-35101, 3 ,Wernigerode
+2021,1136,L4,Trupp Eigenwillig Stiftung & Co. KG,41,12952.30000,DG-0136-20246, N ,Monicabury
+2019,1137,L2,Pinheiro Lda.,9,18918.90000,KP-3919-91644, 1 ,Lewisfurt
+2022,1138,L2,Borges Mendes S/A,19,7039.50000,EI-8559-96457,1,Weißenfels
+2021,1139,L6,"Green, Nichols and Robbins",106,13643.40000,CM-2087-58399,heavy,Silves
+2021,1140,L4,Long-Washington,29,11016.20000,VP-5432-29244,light,Lake Shanemouth
+2014,1141,L3,"Bennett, Wood and Bell",103,36227.40000,EN-3892-21875,3,Jeffreychester
+2023,1142,L1,Barros Faria Lda.,44,4924.90000,XJ-0606-32642,N,Lake Philipville
+2023,1143,L2,Gnatz Hermann AG,6,6359.50000,QZ-5326-23287,light,Lüdinghausen
+2014,1144,L5,Borges Mendes S/A,39,35380.30000,DB-8922-14086,1,Freising
+2016,1145,L2,Ferreira e Filhos,25,30908.40000,NC-0316-27270,L,Schongau
+2022,1146,L5,Gnatz Hermann AG,1,7184.80000,OR-6223-35977,N,Jessen
+2021,1147,L6,"Fields, Castillo and Gibson",7,11192.10000,FL-2178-88687,light,Eddiemouth
+2022,1148,L1,Monteiro,118,8908.60000,IG-5050-72979,H,Weißenfels
+2017,1149,L3,Stumpf GbR,112,26945.90000,TD-9241-36021,L,Seelow
+2021,1150,L4,Fritsch e.G.,22,11708.80000,KN-8210-34506,light,Eichstätt
+2022,1151,L5,Moreira,84,9463.10000,OD-9809-58137,L,Felgueiras
+2019,1152,L2,"Fields, Castillo and Gibson",60,19744.80000,AM-2455-63531,L,Rio Tinto
+2019,1153,L2,Fritsch e.G.,13,,FH-7682-20380,1,New Cathyville
+2018,1154,L5,Santos,65,22097.40000,GL-9372-90023,med,Paigemouth
+2023,1155,L2,Moreira,84,5375.50000,YP-5669-20287,normal,Lamego
+2022,1156,L5,"Fields, Castillo and Gibson",17,9246.20000,BS-8582-78757,heavy,Kemnath
+2021,1157,L5,Ferreira e Filhos,104,11504.10000,II-3313-18675,heavy,Jamesberg
+2022,1158,L4,"Campbell, Martinez and Brown",44,10028.80000,IK-5944-37940,N,Port Cherylview
+2023,1159,L4,Mans Schmidtke GmbH,52,6023.70000,AP-3936-50377,L,Lake Shanemouth
+2022,1160,L4,Rocha,76,7865.50000,AI-8405-84324, med ,Lewisfurt
+2023,1161,L6,Nguyen Ltd,8,6792.40000,WB-6358-33999,L,Lake Jesus
+2020,1162,L1,Nguyen Ltd,92,14404.30000,ZG-5807-66814,med,Barreiro
+2022,1163,L1,Borges Mendes S/A,30,7827.70000,ZW-5977-81282, 1 ,Lake Michael
+2022,1164,L6,"Fields, Castillo and Gibson",24,10380.80000,QB-6097-03064,H,Póvoa de Santa Iria
+2020,1165,L5,"Green, Nichols and Robbins",21,14579.80000,TI-0627-75688,L,Felgueiras
+2014,1166,L1,"Fields, Castillo and Gibson",95,35967.70000,VN-9610-50552, 3 ,Königs Wusterhausen
+2019,1167,L1,Sá Figueiredo Lda.,8,19067.10000,VE-3829-87810,L,East Shaneview
+2021,1168,L3,Reis Lda.,101,11220.30000,FG-8370-76396,H,Seelow
+2020,1169,L3,Williams-Nicholson,37,14393.00000,CV-7645-55350, L ,Queluz
+2022,1170,L1,Ferreira e Filhos,78,10212.50000,JI-9659-61977,N,Freising
+2021,1171,L3,Santos,109,11920.40000,NM-2812-01577,3,Luckenwalde
+2023,1172,L6,Ferreira e Filhos,54,4475.80000,PY-8127-65867,med,Seelow
+2022,1173,L5,Reis Lda.,118,9228.70000,UX-3553-85228,H,Santa Comba Dão
+2022,1174,L1,Hoffmann,64,8878.50000,JF-4737-13010,normal,Seelow
+2023,1175,L2,Reising Trupp AG & Co. KGaA,104,6005.50000,YI-9707-56203,1,Wanzleben
+2020,1176,L3,Hoffmann,15,14818.60000,DI-5563-74221,L,Gloriaberg
+2022,1177,L2,Maia,21,9571.80000,US-8092-61538,L,Euskirchen
+2021,1178,L3,Reising Trupp AG & Co. KGaA,9,13045.40000,RY-7105-37739,1,Euskirchen
+2021,1179,L5,Borges Mendes S/A,68,12282.00000,MX-9600-81352,N,Port Cherylview
+2019,1180,L2,Rocha,103,18595.70000,QT-5813-65856,H,Weißwasser
+2020,1181,L6,"Campbell, Martinez and Brown",15,14665.20000,DJ-8616-41996,1,Lake Shanemouth
+2018,1182,L4,Weinhage Martin GmbH & Co. KGaA,0,21148.20000,LJ-2278-99335,1,Kemnath
+2014,1183,L3,Gnatz Hermann AG,62,35904.90000,JW-9505-26511,normal,Jeffreychester
+2021,1184,L4,Sá Figueiredo Lda.,80,,SR-8865-86128,L,Felgueiras
+2021,1185,L5,Weinhage Martin GmbH & Co. KGaA,113,11268.00000,AP-0580-82964,H,Ludwigsburg
+2013,1186,L3,Döring GbR,79,41945.00000,JE-0150-27261,N,Luckenwalde
+2022,1187,L5,"Mcclure, Mullen and Bernard",55,10107.40000,JT-9757-10367,2,Santa Comba Dão
+2022,1188,L5,Barros Faria Lda.,41,9363.40000,MZ-1742-96310,L,Königs Wusterhausen
+2021,1189,L1,Sá Figueiredo Lda.,72,10824.50000,WP-4842-96109,med,Fiães
+2022,1190,L5,Barros Faria Lda.,57,10366.60000,FE-8239-84891,N,Hollandborough
+2021,1191,L2,Wende Schulz AG,38,13679.30000,SB-3411-37570,1,Wernigerode
+2019,1192,L5,Schroeder PLC,46,20670.60000,TI-2268-36017,light,Lake Michael
+2020,1193,L2,Eberhardt GmbH & Co. KG,69,16261.70000,XA-0760-05587,N,Roberthaven
+2021,1194,L5,Mans Schmidtke GmbH,102,13983.90000,YB-4186-33414,heavy,Jeffreychester
+2019,1195,L2,Sá Valente Lda.,57,18710.70000,HI-4122-00042,med,Wernigerode
+2022,1196,L5,Long-Washington,57,9257.90000,VM-2090-48658, normal ,Jessen
+2021,1197,L5,Eberhardt GmbH & Co. KG,112,13487.10000,RW-7391-62622,3,Lamego
+2022,1198,L5,Williams-Nicholson,67,8843.90000,KH-2104-61560,normal,Jamesberg
+2021,1199,L4,"Campbell, Martinez and Brown",61,13037.80000,FC-7256-05944,N,Serpa
+2015,1200,L4,Williams-Nicholson,52,33200.30000,JJ-5185-43372,N,Lüdinghausen
+2020,1201,L6,Gnatz Hermann AG,34,14681.90000,OV-6305-02013,L,Luckenwalde
+2023,1202,L5,Ferreira e Filhos,39,6995.40000,VS-5657-70425,light,Thompsonfurt
+2022,1203,L5,Wende Schulz AG,32,8225.70000,PB-9088-18271,1,Jessen
+2012,1204,L4,Stumpf GbR,59,44935.00000,TQ-8321-68598,med,Felgueiras
+2021,1205,L3,Pinheiro Lda.,35,12575.00000,RM-5953-12317,1,East Lisafurt
+2020,1206,L2,Wende Schulz AG,50,16368.20000,CW-6794-08690,normal,Witzenhausen
+2020,1207,L5,"Fields, Castillo and Gibson",116,15656.80000,JB-1106-60200,heavy,Kemnath
+2021,1208,L3,Gnatz Hermann AG,13,10826.70000,HS-2045-96037,L,Lewisfurt
+2016,1209,L2,Moreira,78,30298.00000,EP-8276-44824, 2 ,Barreiro
+2022,1210,L6,Monteiro,114,9615.40000,LT-4968-57820,N,Vila Nova de Foz Côa
+2022,1211,L2,Hoffmann,6,7275.40000,JE-4114-24442, H ,Rio Tinto
+2020,1212,L1,Maia,75,14750.80000,NG-7007-13170,N,Port Cherylview
+2012,1213,L5,"Mcclure, Mullen and Bernard",110,45000.00000,FG-6987-61256,H,Mühlhausen
+2017,1214,L6,Brooks-Lopez,49,27100.80000,BJ-7059-36508,normal,Guben
+2021,1215,L6,Nguyen Ltd,71,,SU-4151-89640,normal,Queluz
+2021,1216,L6,"Green, Nichols and Robbins",50,13698.50000,RE-6912-72504,med,Freising
+2023,1217,L5,Stumpf GbR,118,5744.60000,OA-0061-66840,3,Schongau
+2021,1218,L5,Trupp Eigenwillig Stiftung & Co. KG,99,11778.90000,YP-2464-47389,H,Lake Jesus
+2022,1219,L6,Reis Lda.,77,9147.30000,UZ-7629-49427,1,Jeffreychester
+2021,1220,L3,Rocha,68,12797.90000,DB-9119-47106,normal,São Salvador de Lordelo
+2023,1221,L6,Santos,21,4618.10000,EY-3531-51974,light,Weißwasser
+2021,1222,L4,Trupp Eigenwillig Stiftung & Co. KG,81,13609.70000,AE-0936-35022,H,Lamego
+2023,1223,L3,Wende Schulz AG,65,5682.90000,QV-8375-97653,normal,Barreiro
+2023,1224,L2,Sá Figueiredo Lda.,59,3587.70000,IO-1510-97325,light,New Michelleborough
+2022,1225,L1,Reising Trupp AG & Co. KGaA,22,7780.30000,YH-5238-19753,light,Barreiro
+2022,1226,L2,Barros Faria Lda.,21,7648.70000,RO-4613-29149,2,Königs Wusterhausen
+2019,1227,L5,Sá Valente Lda.,6,20688.40000,MF-3061-59007,3,Wernigerode
+2018,1228,L5,Weinhage Martin GmbH & Co. KGaA,108,24047.10000,YB-5125-64496, heavy ,Seelow
+2022,1229,L3,Rogner Hölzenbecher e.G.,56,9614.60000,JN-2851-46584,2,Felgueiras
+2020,1230,L2,Fritsch e.G.,65,15264.80000,GV-2301-24117,normal,Gloriaberg
+2020,1231,L6,Ferreira e Filhos,74,15547.40000,TO-1400-74795,med,Felgueiras
+2022,1232,L4,Schroeder PLC,6,7492.20000,LO-4287-12416,light,Felgueiras
+2023,1233,L3,Seip Pölitz GbR,59,6820.70000,JA-1290-16871,med,Freising
+2020,1234,L5,Borges Mendes S/A,104,16556.00000,ZU-9536-51389,3,Schongau
+2022,1235,L3,Hoffmann,40,8456.80000,EE-1936-03230,N,East Shaneview
+2022,1236,L1,Santos,118,9409.10000,ZY-1533-36633,H,Schongau
+2017,1237,L2,Schroeder PLC,96,25052.30000,ZD-7027-79735,H,Silves
+2018,1238,L4,Stumpf GbR,81,23260.60000,AU-5292-36031,heavy,New Cathyville
+2023,1239,L4,Long-Washington,49,4286.50000,KS-9507-78867,2,Roberthaven
+2022,1240,L4,Ferreira e Filhos,15,8471.60000,BM-0517-56743,1,Lake Philipville
+2023,1241,L2,Seip Pölitz GbR,85,4625.00000,QV-8526-73308,3,Rio Tinto
+2023,1242,L2,"Bennett, Wood and Bell",56,3654.40000,JY-7162-11210,med,Jeffreychester
+2021,1243,L1,"Bennett, Wood and Bell",110,12342.90000,JQ-9081-58411,3,Mangualde
+2020,1244,L5,Borges Mendes S/A,96,14620.50000,RX-4330-68147, H ,Hollandborough
+2022,1245,L2,Eberhardt GmbH & Co. KG,62,8549.00000,EN-2186-64904,1,Rio Tinto
+2020,1246,L1,Monteiro,81,16817.20000,LD-8196-23465,heavy,Penafiel
+2022,1247,L3,Hoffmann,51,8514.50000,RC-0909-84715,med,Gloriaberg
+2022,1248,L4,Hoffmann,33,7247.90000,JW-3118-55301,heavy,Eddiemouth
+2020,1249,L5,Carson and Sons,10,15549.60000,VC-9508-62495,light,Felgueiras
+2021,1250,L1,Holzapfel,33,12261.70000,TE-4487-86643,3,Säckingen
+2019,1251,L6,"Fields, Castillo and Gibson",63,20527.80000,RG-8808-00736,normal,Mangualde
+2022,1252,L1,Long-Washington,66,7080.70000,XK-3722-18495,heavy,Thompsonfurt
+2021,1253,L4,Döring GbR,49,11691.30000,GS-3745-29252,L,Ludwigsburg
+2022,1254,L3,"Campbell, Martinez and Brown",65,7793.50000,ST-9695-97651,normal,Euskirchen
+2016,1255,L1,Schroeder PLC,89,29442.10000,JS-4941-69061,light,Hollandborough
+2022,1256,L4,Maia,14,9164.30000,AE-5900-13894,light,Eddiemouth
+2023,1257,L4,Rocha,5,4939.50000,OD-8380-91506,2,Jessen
+2023,1258,L2,Fritsch e.G.,10,6714.00000,AT-9161-63531,1,Penafiel
+2022,1259,L4,Moreira,119,7368.10000,WH-4101-75332,1,Euskirchen
+2021,1260,L6,"Fields, Castillo and Gibson",14,10565.20000,ZQ-6691-78742,L,Felgueiras
+2023,1261,L6,Martin Neureuther Stiftung & Co. KG,12,5698.80000,NO-4711-78595,light,Port Cherylview
+2018,1262,L2,Sá Figueiredo Lda.,13,21742.50000,XN-4800-07947,light,Roberthaven
+2018,1263,L1,Atzler KG,26,21317.50000,JA-6051-75245,L,West Erinmouth
+2018,1264,L1,Martin Neureuther Stiftung & Co. KG,52,,UX-9335-27340,normal,Gloriaberg
+2021,1265,L3,Gnatz Hermann AG,88,11315.00000,UT-0306-06726,heavy,Mühlhausen
+2017,1266,L4,Holzapfel,57,25301.00000,RP-4071-35108,normal,Jessen
+2017,1267,L3,Long-Washington,50,27210.50000,HL-3969-64654,2,Kemnath
+2021,1268,L5,"Bennett, Wood and Bell",103,11621.00000,CN-5186-19180,3,Paigemouth
+2021,1269,L2,Rogner Hölzenbecher e.G.,1,10602.90000,LX-7988-12816, light ,Fiães
+2021,1270,L3,Eberhardt GmbH & Co. KG,13,10894.00000,DW-5246-32658,1,Witzenhausen
+2022,1271,L3,Long-Washington,89,7014.50000,RT-7500-52116,heavy,Wanzleben
+2020,1272,L6,Ferreira e Filhos,50,16809.70000,FM-6227-67458,N,Lüdinghausen
+2019,1273,L4,Long-Washington,51,17539.40000,KV-9045-49557,N,Fürstenwalde
+2021,1274,L1,Wende Schulz AG,66,13326.30000,KP-6606-81401,H,New Michelleborough
+2021,1275,L2,Weinhage Davids GbR,8,10601.00000,JW-6796-38936,L,Königs Wusterhausen
+2022,1276,L5,Reising Trupp AG & Co. KGaA,20,9736.70000,XB-1820-16605,L,Roberthaven
+2014,1277,L5,Nguyen Ltd,38,36634.90000,JD-0595-59642,light,Póvoa de Santa Iria
+2023,1278,L6,Reising Trupp AG & Co. KGaA,12,6840.90000,IW-2578-66863,1,São Salvador de Lordelo
+2023,1279,L5,Atzler KG,63,6814.80000,GC-6164-51871,normal,Weißwasser
+2023,1280,L1,"Mcclure, Mullen and Bernard",24,6984.80000,XZ-8433-78185,1,Ludwigsburg
+2022,1281,L1,Long-Washington,89,8379.00000,PV-2103-33301,1,Witzenhausen
+2023,1282,L1,Borges Mendes S/A,62,4792.80000,SG-8070-00049,2,Königs Wusterhausen
+2022,1283,L2,Pinheiro Lda.,40,9338.60000,VK-3972-67774,2,Weißenfels
+2023,1284,L2,Sá Valente Lda.,4,6904.50000,EV-3163-75190,light,Wernigerode
+2023,1285,L2,Sá Valente Lda.,54,6159.10000,NH-4222-97276,med,Euskirchen
+2020,1286,L3,Moreira,48,15579.40000,CF-3006-56060,med,Gloriaberg
+2023,1287,L1,Schroeder PLC,16,4863.80000,CW-2677-50769,light,East Shaneview
+2022,1288,L3,Atzler KG,32,10171.80000,NC-1315-45644,light,Mariafort
+2017,1289,L5,Mans Schmidtke GmbH,84,27463.70000,CX-0193-55369,heavy,Fiães
+2021,1290,L6,Reis Lda.,21,12017.10000,KV-6450-24372,3,Roberthaven
+2022,1291,L4,Brooks-Lopez,7,7257.50000,TT-7687-50608, L ,Póvoa de Santa Iria
+2021,1292,L4,Gnatz Hermann AG,100,11300.50000,SI-9200-04423,light,São Salvador de Lordelo
+2022,1293,L5,"Bennett, Wood and Bell",37,9218.90000,EW-7402-46089,1,Lake Philipville
+2020,1294,L3,Santos,20,14984.10000,NY-2805-99150,1,Roberthaven
+2022,1295,L5,"Campbell, Martinez and Brown",63,10138.10000,ZV-4407-80605, normal ,Hollandborough
+2021,1296,L6,Fritsch e.G.,96,12413.70000,ZM-2069-53086,H,East Lisafurt
+2017,1297,L1,Carson and Sons,83,26020.70000,SQ-7222-62105,heavy,Silves
+2019,1298,L2,Weinhage Davids GbR,15,17587.80000,GJ-7636-71753,1,Hollandborough
+2017,1299,L4,Stumpf GbR,106,,YJ-2477-85972, 2 ,Lewisfurt
+2022,1300,L6,Nguyen Ltd,113,,BH-7808-77108, 2 ,Mühlhausen
+2012,1301,L5,Reising Trupp AG & Co. KGaA,33,44205.60000,WN-3520-85547,light,Hofgeismar
+2022,1302,L4,Trupp Eigenwillig Stiftung & Co. KG,115,7987.80000,PT-5823-30533,heavy,Apolda
+2021,1303,L5,Atzler KG,79,13257.90000,XR-4050-62764,med,Santa Comba Dão
+2020,1304,L3,Seip Pölitz GbR,92,16061.30000,AS-9914-91651,L,Seelow
+2017,1305,L1,"Bennett, Wood and Bell",49,26705.60000,RX-7865-48344,med,Mariafort
+2019,1306,L6,"Green, Nichols and Robbins",13,17773.90000,NP-6973-90441,heavy,West Erinmouth
+2019,1307,L3,Barros Faria Lda.,85,19554.90000,XJ-4395-46757,light,Jamesberg
+2021,1308,L3,Santos,42,10802.70000,KF-7331-56955,normal,Eddiemouth
+2019,1309,L5,Eberhardt GmbH & Co. KG,71,19752.70000,XI-2575-28685,med,Lake Shanemouth
+2021,1310,L1,"Green, Nichols and Robbins",117,12408.80000,EQ-5804-38017,1,Hollandborough
+2019,1311,L3,Reis Lda.,10,,GV-2523-23846,normal,Queluz
+2022,1312,L6,Nguyen Ltd,8,9217.20000,LN-8109-75752,L,Jessen
+2016,1313,L2,Reis Lda.,36,28307.40000,XM-5586-26326,1,Serpa
+2021,1314,L4,Wende Schulz AG,95,13547.40000,MC-8495-23914, heavy ,Rio Tinto
+2022,1315,L6,Maia,63,10087.80000,BC-3255-34300, N ,Witzenhausen
+2021,1316,L2,Borges Mendes S/A,7,13146.20000,SX-2280-19684, L ,Eichstätt
+2018,1317,L3,Martin Neureuther Stiftung & Co. KG,61,22738.50000,VW-5736-05716,N,Serpa
+2021,1318,L5,Borges Mendes S/A,49,,NS-2095-91230,heavy,Felgueiras
+2022,1319,L3,Martin Neureuther Stiftung & Co. KG,67,9020.00000,AP-3696-84017, 2 ,Freising
+2023,1320,L1,Barros Faria Lda.,11,6718.00000,DU-9362-96699,L,Port Cherylview
+2020,1321,L1,Brooks-Lopez,10,17028.90000,LH-0572-56018,heavy,Mühlhausen
+2022,1322,L4,"Campbell, Martinez and Brown",7,10305.20000,IG-8472-93606,L,Queluz
+2022,1323,L6,Ferreira e Filhos,10,8090.70000,GL-1413-90317,light,Eichstätt
+2017,1324,L1,Stumpf GbR,85,26083.60000,AJ-7166-57768,H,Serpa
+2023,1325,L1,Rogner Hölzenbecher e.G.,24,5239.40000,MQ-9806-60478,light,Hollandborough
+2022,1326,L3,Wende Schulz AG,3,9088.70000,TJ-6947-15118,L,Hofgeismar
+2023,1327,L2,Holzapfel,72,6370.70000,US-1266-48565,med,East Shaneview
+2023,1328,L5,Carson and Sons,48,6926.70000,IL-2025-88653,normal,Monicabury
+2019,1329,L1,Long-Washington,58,17503.60000,MK-1737-40551,med,Jamesberg
+2020,1330,L5,Holzapfel,90,15372.10000,FR-2985-21493,H,Silves
+2023,1331,L6,Eberhardt GmbH & Co. KG,59,4969.50000,WS-2051-91095, 2 ,São Salvador de Lordelo
+2023,1332,L5,Hoffmann,1,6210.70000,ER-2298-34498, 1 ,Wernigerode
+2022,1333,L2,Weinhage Martin GmbH & Co. KGaA,39,10443.80000,UX-4106-05451,L,Königs Wusterhausen
+2018,1334,L2,Gnatz Hermann AG,90,24010.60000,XR-0500-51139,heavy,Lake Philipville
+2022,1335,L4,Wende Schulz AG,77,9498.60000,JU-0322-91653,N,Luckenwalde
+2017,1336,L4,Martin Neureuther Stiftung & Co. KG,23,27652.40000,VC-9897-36386,2,Hofgeismar
+2020,1337,L3,Long-Washington,82,14634.10000,GY-4397-53844,H,North Theresaborough
+2019,1338,L1,Santos,83,20633.20000,CR-2745-37468,H,Roberthaven
+2020,1339,L6,Barros Faria Lda.,5,15071.10000,BE-8902-49375,1,Fürstenwalde
+2022,1340,L3,"Green, Nichols and Robbins",69,8752.40000,RS-7188-98914,N,Weißwasser
+2022,1341,L1,Pinheiro Lda.,113,8666.60000,DG-1764-38126,H,Euskirchen
+2022,1342,L6,Gnatz Hermann AG,76,10047.50000,RJ-6117-24908,med,Jamesberg
+2022,1343,L2,Weinhage Martin GmbH & Co. KGaA,15,10069.60000,PW-3745-68901,1,Barreiro
+2024,1344,L1,Atzler KG,63,3366.00000,BC-7296-84763,2,Luckenwalde
+2020,1345,L3,Sá Valente Lda.,82,16469.50000,UH-1208-97610,heavy,Mühlhausen
+2017,1346,L1,Eberhardt GmbH & Co. KG,33,24770.50000,GI-3028-65324,1,Mariafort
+2023,1347,L4,Mans Schmidtke GmbH,53,6921.00000,VK-1471-26260,H,Witzenhausen
+2021,1348,L3,"Bennett, Wood and Bell",95,11961.80000,MZ-4404-39591,3,Felgueiras
+2021,1349,L3,"Bennett, Wood and Bell",66,11103.60000,XA-6507-42333,N,Rio Tinto
+2019,1350,L1,Mans Schmidtke GmbH,27,19580.90000,WH-6929-88390,L,Eddiemouth
+2024,1351,L3,Weinhage Martin GmbH & Co. KGaA,102,3167.10000,KD-1660-47457,H,Fiães
+2021,1352,L2,Reising Trupp AG & Co. KGaA,82,11929.20000,IA-1870-26844,heavy,Kemnath
+2023,1353,L3,Barros Faria Lda.,89,5217.70000,GJ-7524-63367,H,Serpa
+2024,1354,L1,Atzler KG,62,3434.60000,UB-7501-61689,1,Wanzleben
+2020,1355,L2,Döring GbR,60,16595.50000,UN-4190-08068,2,Witzenhausen
+2024,1356,L1,Maia,68,1795.00000,AV-3539-62395,med,Santa Comba Dão
+2018,1357,L1,Carson and Sons,29,24199.40000,KM-8964-17624,med,Lake Shanemouth
+2021,1358,L5,Pinheiro Lda.,33,11279.20000,BP-1062-99804,L,Fürstenwalde
+2021,1359,L5,Sá Figueiredo Lda.,40,11981.10000,WX-0961-92679,N,Silves
+2013,1360,L1,Santos,85,41863.00000,RI-5513-07964,1,Mariafort
+2021,1361,L4,Rogner Hölzenbecher e.G.,66,12459.90000,PE-1552-50418,normal,Santa Comba Dão
+2023,1362,L6,"Fields, Castillo and Gibson",10,6928.70000,BH-3430-14154,light,Jeffreychester
+2018,1363,L6,Brooks-Lopez,15,21341.50000,ZH-7482-97780,L,Guben
+2018,1364,L6,Fritsch e.G.,54,21756.70000,FT-0799-65142,2,Wernigerode
+2020,1365,L3,Borges Mendes S/A,68,,XQ-3744-63319,med,Hollandborough
+2022,1366,L4,Monteiro,65,10010.90000,UR-9242-76544,1,Gloriaberg
+2022,1367,L5,Schroeder PLC,5,10142.80000,AU-4621-86643,light,East Lisafurt
+2022,1368,L6,Borges Mendes S/A,64,9974.60000,TS-8734-09607,N,Lüdinghausen
+2022,1369,L2,Weinhage Martin GmbH & Co. KGaA,99,8337.30000,SP-4497-64658,heavy,Euskirchen
+2023,1370,L6,Hoffmann,41,5327.40000,NO-2649-32318, 2 ,Vila Nova de Foz Côa
+2019,1371,L3,Long-Washington,74,18926.30000,SC-1833-47002,2,Lake Shanemouth
+2016,1372,L4,Atzler KG,56,28907.00000,ZT-2556-56272,N,Vila Nova de Foz Côa
+2019,1373,L5,Weinhage Davids GbR,52,19781.50000,QH-4851-69790,N,Lewisfurt
+2022,1374,L3,Reising Trupp AG & Co. KGaA,74,10064.70000,OA-6777-74329,normal,Seelow
+2021,1375,L6,Schroeder PLC,103,13690.40000,ZP-4667-55798,H,Euskirchen
+2022,1376,L5,Eberhardt GmbH & Co. KG,112,9464.90000,XN-9506-32805,3,Mangualde
+2021,1377,L4,Pinheiro Lda.,93,12022.80000,ML-7330-49504,1,Weißwasser
+2020,1378,L5,Brooks-Lopez,32,17456.20000,GA-8390-97539,1,Felgueiras
+2018,1379,L4,Stumpf GbR,108,21340.70000,NQ-3611-88787,heavy,Jamesberg
+2021,1380,L3,Wende Schulz AG,24,,NB-3474-05091,L,Mariafort
+2024,1381,L2,Mans Schmidtke GmbH,18,3474.90000,HU-7141-29487,light,Ludwigsburg
+2013,1382,L6,Williams-Nicholson,101,39994.80000,NX-0602-36373,L,Vila Nova de Foz Côa
+2020,1383,L2,Gnatz Hermann AG,23,15100.50000,MO-9005-31209,L,Lake Shanemouth
+2024,1384,L2,"Fields, Castillo and Gibson",35,2582.90000,JM-5747-46205,light,West Erinmouth
+2018,1385,L6,Ferreira e Filhos,68,22792.90000,XP-2923-98328, N ,New Michelleborough
+2020,1386,L2,"Mcclure, Mullen and Bernard",97,14417.20000,SL-4875-95982,N,Wernigerode
+2018,1387,L6,Williams-Nicholson,67,21355.90000,BJ-0468-36669,N,Felgueiras
+2021,1388,L3,Gnatz Hermann AG,41,13112.10000,DS-2480-38868,med,Monicabury
+2017,1389,L5,"Bennett, Wood and Bell",72,25774.60000,MW-9838-32158,N,West Erinmouth
+2020,1390,L5,Eberhardt GmbH & Co. KG,34,14158.10000,YJ-0782-20884,L,Euskirchen
+2012,1391,L4,Fritsch e.G.,86,45000.00000,QI-5866-39559,H,Eddiemouth
+2021,1392,L6,Barros Faria Lda.,43,11319.40000,CC-1338-28158,L,Säckingen
+2020,1393,L6,Schroeder PLC,45,14511.50000,PP-0882-80802,normal,East Shaneview
+2023,1394,L1,"Mcclure, Mullen and Bernard",88,6263.00000,XY-1124-61652,H,North Theresaborough
+2021,1395,L3,Williams-Nicholson,21,13830.00000,JB-9656-24865, L ,Santa Comba Dão
+2022,1396,L4,Fritsch e.G.,20,9668.20000,MS-4385-78502,L,Lewisfurt
+2022,1397,L3,Ferreira e Filhos,60,8455.70000,ON-4178-23867,2,Felgueiras
+2023,1398,L2,Barros Faria Lda.,8,5011.30000,QR-1237-88842,light,Roberthaven
+2022,1399,L1,"Campbell, Martinez and Brown",68,,AY-3536-56330,normal,Guben
+2019,1400,L2,Schroeder PLC,32,19033.20000,DO-2712-70429,1,Fiães
+2021,1401,L5,Reis Lda.,42,13711.80000,JW-9884-27978, N ,Portimão
+2022,1402,L1,Borges Mendes S/A,8,7447.80000,UO-9942-52642,L,Paigemouth
+2018,1403,L1,Wende Schulz AG,40,24472.50000,CV-7494-55594,normal,Mangualde
+2017,1404,L3,Trupp Eigenwillig Stiftung & Co. KG,16,25769.00000,LQ-1865-17829,H,Eichstätt
+2021,1405,L6,Barros Faria Lda.,33,11038.80000,JW-6078-14030,1,Eddiemouth
+2021,1406,L4,Rocha,94,12667.40000,CB-7028-66418,heavy,Weißwasser
+2022,1407,L3,Reis Lda.,48,7335.80000,UR-3844-75703,N,Luckenwalde
+2015,1408,L5,Atzler KG,93,31610.00000,QW-3346-35667,3,Roberthaven
+2019,1409,L4,Reising Trupp AG & Co. KGaA,68,20535.00000,UC-5182-66341,normal,Lüdinghausen
+2018,1410,L2,Sá Valente Lda.,89,22835.50000,RH-4477-91436,heavy,Felgueiras
+2020,1411,L1,Trupp Eigenwillig Stiftung & Co. KG,97,15150.00000,IJ-3582-32048,H,Fiães
+2022,1412,L1,"Campbell, Martinez and Brown",67,8416.50000,WY-2928-58895,normal,Felgueiras
+2023,1413,L3,Carson and Sons,79,4627.90000,IH-0152-63353,N,Säckingen
+2022,1414,L4,Mans Schmidtke GmbH,20,7749.90000,LO-6937-50494,3,North Theresaborough
+2020,1415,L3,Weinhage Davids GbR,79,15439.10000,GJ-0521-56055,2,Gloriaberg
+2021,1416,L5,Hoffmann,65,11544.20000,VM-5721-89206,normal,Hofgeismar
+2017,1417,L1,Martin Neureuther Stiftung & Co. KG,79,24735.90000,MA-2920-37891,2,Eichstätt
+2022,1418,L5,Long-Washington,88,9730.50000,IO-6259-21698,3,Vila Nova de Foz Côa
+2012,1419,L2,Williams-Nicholson,106,45000.00000,FW-6733-62839,heavy,Hollandborough
+2018,1420,L4,Fritsch e.G.,29,22052.70000,OF-5703-01302,L,Lake Philipville
+2023,1421,L5,Schroeder PLC,62,6905.80000,JZ-3085-32965,N,New Cathyville
+2022,1422,L3,Weinhage Martin GmbH & Co. KGaA,33,8114.00000,EF-5814-67597,L,Lake Jesus
+2023,1423,L3,Weinhage Davids GbR,59,6882.80000,QP-6722-22517,med,Queluz
+2021,1424,L2,Mans Schmidtke GmbH,111,12304.10000,HL-7933-77021,L,Felgueiras
+2023,1425,L6,Döring GbR,17,4825.00000,HI-7805-84142,1,Schongau
+2012,1426,L4,Trupp Eigenwillig Stiftung & Co. KG,97,45000.00000,CO-2847-95178,H,Lake Philipville
+2022,1427,L3,Stumpf GbR,90,7659.00000,NN-9023-94512,H,Fiães
+2021,1428,L4,Eberhardt GmbH & Co. KG,44,10562.40000,LV-0856-38047,light,East Lisafurt
+2018,1429,L6,Seip Pölitz GbR,27,23865.10000,IV-1616-90893,1,Hollandborough
+2023,1430,L3,Barros Faria Lda.,21,6679.60000,OR-4681-67708, L ,East Lisafurt
+2023,1431,L6,Eberhardt GmbH & Co. KG,118,3532.30000,ZS-3546-17420,heavy,Queluz
+2022,1432,L4,Long-Washington,23,8722.20000,BI-8760-72800,H,Fiães
+2021,1433,L6,Maia,55,12834.60000,JZ-9519-07832,med,Serpa
+2021,1434,L5,Martin Neureuther Stiftung & Co. KG,88,10574.80000,XG-1822-69515,H,Paigemouth
+2022,1435,L1,Barros Faria Lda.,76,7133.40000,QK-6927-66449,normal,Jamesberg
+2019,1436,L1,Döring GbR,101,19412.30000,TZ-9516-87884,heavy,São Salvador de Lordelo
+2020,1437,L4,Borges Mendes S/A,17,14807.40000,JI-5484-89848,light,Silves
+2021,1438,L5,"Fields, Castillo and Gibson",12,10873.80000,ZL-6327-04847, 1 ,Seelow
+2019,1439,L4,Williams-Nicholson,10,,ZG-9316-24640, L ,Königs Wusterhausen
+2021,1440,L6,Rocha,6,11852.40000,DE-4634-55997,3,Ludwigsburg
+2021,1441,L4,Reising Trupp AG & Co. KGaA,19,13647.60000,CZ-0296-29948,1,Jessen
+2019,1442,L4,"Bennett, Wood and Bell",40,19655.50000,OM-2527-04570,2,Lewisfurt
+2023,1443,L5,Rocha,84,6779.50000,YC-5295-46587,3,Monicabury
+2021,1444,L1,Maia,26,11130.00000,UE-9076-45315,3,Penafiel
+2023,1445,L6,Fritsch e.G.,66,4399.90000,RJ-3204-11519,2,Rio Tinto
+2022,1446,L6,Williams-Nicholson,20,8758.70000,VH-8176-84840,1,Säckingen
+2021,1447,L6,Weinhage Davids GbR,47,12223.20000,PI-6187-07635,normal,Lüdinghausen
+2021,1448,L2,Wende Schulz AG,5,13262.20000,JG-9785-40908,L,Gloriaberg
+2017,1449,L5,Reis Lda.,32,25601.80000,GU-3272-56303, light ,Eichstätt
+2020,1450,L3,"Fields, Castillo and Gibson",13,14293.60000,AK-4354-93400,1,Hollandborough
+2023,1451,L5,Borges Mendes S/A,115,6855.90000,MV-7075-67944,N,Roberthaven
+2022,1452,L1,Nguyen Ltd,27,9631.00000,PP-4287-48457,L,Luckenwalde
+2022,1453,L6,Williams-Nicholson,81,8084.80000,RS-1314-05686,heavy,West Erinmouth
+2020,1454,L1,"Campbell, Martinez and Brown",34,16429.10000,FB-5991-84466, L ,Lake Michael
+2020,1455,L3,Reis Lda.,5,15928.10000,XA-8862-85859,L,Gloriaberg
+2023,1456,L4,Monteiro,46,4805.80000,TN-8683-19977, normal ,Paigemouth
+2018,1457,L2,Rogner Hölzenbecher e.G.,92,21769.30000,OB-8801-07891,L,New Cathyville
+2021,1458,L3,Schroeder PLC,112,13421.40000,PK-6523-26815,3,East Lisafurt
+2021,1459,L6,Rocha,25,13038.80000,WC-7803-03807,1,Paigemouth
+2019,1460,L6,Long-Washington,41,20090.80000,VW-0613-28501,med,Jeffreychester
+2021,1461,L3,"Fields, Castillo and Gibson",57,13663.70000,XV-4827-61891, N ,Rio Tinto
+2018,1462,L4,Moreira,61,22752.70000,JM-8571-34451,2,Lake Philipville
+2022,1463,L6,Schroeder PLC,24,7619.70000,IR-4408-06565,light,Wernigerode
+2023,1464,L4,Fritsch e.G.,55,5465.00000,LL-4684-97332,med,Wanzleben
+2022,1465,L3,Mans Schmidtke GmbH,43,,MU-7369-13711,med,Rio Tinto
+2021,1466,L5,Maia,51,11120.60000,GU-1743-13949,normal,Euskirchen
+2021,1467,L1,Atzler KG,1,12779.50000,AQ-0403-61493,L,Apolda
+2021,1468,L3,Wende Schulz AG,9,,TF-3774-06990,1,East Shaneview
+2018,1469,L4,Long-Washington,96,23684.90000,AR-5157-54690,H,Lake Michael
+2021,1470,L5,Maia,108,10737.90000,MF-1121-78056, 3 ,Lake Michael
+2023,1471,L4,Reising Trupp AG & Co. KGaA,48,5568.70000,DX-7492-05702,med,Paigemouth
+2021,1472,L1,Monteiro,116,12272.60000,CP-9874-27912,H,Jamesberg
+2020,1473,L4,"Campbell, Martinez and Brown",87,16458.30000,OD-3293-59568,light,Paigemouth
+2022,1474,L6,"Mcclure, Mullen and Bernard",83,9648.20000,SL-6032-81329,H,Lake Philipville
+2023,1475,L6,Schroeder PLC,39,5307.60000,OP-1559-98910,1,Roberthaven
+2023,1476,L5,Gnatz Hermann AG,116,5889.00000,WV-1575-49025,N,Guben
+2022,1477,L4,Seip Pölitz GbR,11,8377.80000,DS-8999-04617,med,Lewisfurt
+2022,1478,L1,Atzler KG,100,8785.60000,AE-2289-64672,med,East Lisafurt
+2023,1479,L4,Seip Pölitz GbR,34,6471.20000,DU-8173-25989,normal,Königs Wusterhausen
+2023,1480,L2,Long-Washington,106,6782.90000,RZ-2544-04242,3,Lewisfurt
+2016,1481,L1,Martin Neureuther Stiftung & Co. KG,59,28033.20000,UN-2912-75354,N,Jamesberg
+2020,1482,L3,Rogner Hölzenbecher e.G.,24,15697.40000,QF-4736-97879,H,Lake Jesus
+2023,1483,L2,Reis Lda.,119,3570.70000,IW-1449-39729,H,Lüdinghausen
+2021,1484,L6,Borges Mendes S/A,18,13252.70000,PF-2785-71737,light,Jessen
+2021,1485,L4,Weinhage Davids GbR,0,12426.10000,WU-9903-23351,1,New Cathyville
+2015,1486,L6,Reising Trupp AG & Co. KGaA,114,31634.30000,BJ-0537-46204,1,Mangualde
+2021,1487,L6,Holzapfel,18,11320.80000,CF-3928-03783,light,Weißwasser
+2023,1488,L5,Rocha,56,5324.90000,ZK-0806-63002,med,Felgueiras
+2017,1489,L6,Reis Lda.,45,25039.10000,FJ-9973-68422,med,Roberthaven
+2022,1490,L1,Mans Schmidtke GmbH,95,9828.40000,RJ-7676-28076,2,Lake Philipville
+2023,1491,L4,Ferreira e Filhos,70,6642.10000,WC-5752-23710,heavy,Lake Jesus
+2019,1492,L6,Sá Figueiredo Lda.,75,20639.70000,TP-2687-39833,1,Barreiro
+2020,1493,L6,Reis Lda.,34,16638.80000,PA-3185-52951, L ,São Salvador de Lordelo
+2018,1494,L6,Martin Neureuther Stiftung & Co. KG,90,23915.60000,XX-5584-84462,3,Wanzleben
+2018,1495,L3,"Campbell, Martinez and Brown",31,22157.50000,KL-1128-59566,light,Lewisfurt
+2022,1496,L4,Reising Trupp AG & Co. KGaA,64,9146.00000,VT-3836-58644,N,Königs Wusterhausen
+2023,1497,L4,Holzapfel,52,4571.00000,SU-4063-75637,med,Kemnath
+2014,1498,L2,Atzler KG,59,37441.20000,KH-3737-91350, med ,Witzenhausen
+2023,1499,L6,"Fields, Castillo and Gibson",55,5291.80000,RE-4847-20470,L,New Michelleborough
+2015,1500,L3,Ferreira e Filhos,53,34024.20000,SH-7501-75227,2,Weißenfels
+2015,1501,L6,Seip Pölitz GbR,51,34393.10000,KC-6921-03184, 2 ,Ludwigsburg
+2022,1502,L2,Seip Pölitz GbR,33,9188.30000,MC-9597-14620,heavy,Königs Wusterhausen
+2017,1503,L2,Stumpf GbR,78,25307.90000,EW-1992-28063,med,Ludwigsburg
+2020,1504,L5,Rogner Hölzenbecher e.G.,17,15659.50000,SF-4084-68795,1,Guben
+2023,1505,L1,Trupp Eigenwillig Stiftung & Co. KG,35,4241.70000,CR-1250-73468,light,Witzenhausen
+2022,1506,L1,"Campbell, Martinez and Brown",65,8581.40000,VJ-4691-03313,heavy,Mühlhausen
+2023,1507,L1,Atzler KG,10,5618.30000,LM-0486-86177,L,São Salvador de Lordelo
+2022,1508,L6,Santos,28,9214.80000,OJ-0068-59595,light,Mariafort
+2019,1509,L4,Ferreira e Filhos,11,18368.20000,GP-7889-24681,light,East Lisafurt
+2020,1510,L1,Borges Mendes S/A,82,15961.80000,GJ-0634-34799,3,Jeffreychester
+2019,1511,L2,Eberhardt GmbH & Co. KG,31,18692.20000,KX-6858-26109,light,Roberthaven
+2019,1512,L4,Borges Mendes S/A,31,,RP-7908-64418,L,West Erinmouth
+2021,1513,L4,Trupp Eigenwillig Stiftung & Co. KG,47,11236.30000,YK-6441-74079,med,Säckingen
+2020,1514,L5,Monteiro,11,16600.50000,DC-1690-48947,1,Queluz
+2019,1515,L1,Mans Schmidtke GmbH,14,18188.00000,FU-7932-17052,light,Eddiemouth
+2024,1516,L2,Döring GbR,27,3096.40000,KF-2427-67668,1,Lamego
+2020,1517,L2,Monteiro,116,,AX-0936-55556,heavy,Felgueiras
+2015,1518,L2,Eberhardt GmbH & Co. KG,30,32666.50000,AW-9882-26472,L,Barreiro
+2022,1519,L5,Seip Pölitz GbR,32,9015.00000,YU-4281-11731,light,West Erinmouth
+2022,1520,L6,Seip Pölitz GbR,67,9285.20000,QH-6091-20965,1,Guben
+2022,1521,L5,Mans Schmidtke GmbH,75,9893.70000,FY-3853-15195,med,Weißenfels
+2020,1522,L6,Trupp Eigenwillig Stiftung & Co. KG,79,16850.20000,VS-2034-47940,L,Mariafort
+2021,1523,L6,Brooks-Lopez,107,11077.40000,RI-6148-39738,L,Wanzleben
+2018,1524,L6,Santos,12,21724.20000,JT-5386-98485,L,Serpa
+2020,1525,L1,Maia,81,14442.80000,YU-2023-43950,3,São Salvador de Lordelo
+2020,1526,L6,Martin Neureuther Stiftung & Co. KG,102,14827.40000,BO-2281-40425,3,Penafiel
+2021,1527,L6,"Bennett, Wood and Bell",5,12950.90000,UJ-3884-15327,L,Guben
+2023,1528,L1,Monteiro,87,3996.20000,FR-2168-99517,H,Kemnath
+2021,1529,L3,Trupp Eigenwillig Stiftung & Co. KG,88,12851.60000,CO-9259-30820,H,Lake Philipville
+2021,1530,L5,Rogner Hölzenbecher e.G.,100,11669.00000,ZB-7585-36570,H,Lake Shanemouth
+2022,1531,L6,Ferreira e Filhos,80,8003.70000,VD-2451-63790,heavy,East Shaneview
+2021,1532,L3,Nguyen Ltd,61,10939.80000,EH-2622-01719,N,Felgueiras
+2021,1533,L4,Brooks-Lopez,40,11072.00000,AR-5180-65743,med,Lake Philipville
+2019,1534,L3,Brooks-Lopez,27,20992.60000,QC-7042-48175,light,Fürstenwalde
+2022,1535,L5,Seip Pölitz GbR,21,8684.40000,VF-6031-02122,med,Port Cherylview
+2017,1536,L2,Reising Trupp AG & Co. KGaA,40,24603.90000,CK-4342-32286,med,Eddiemouth
+2023,1537,L4,Atzler KG,64,5223.20000,HP-1530-84206,N,Roberthaven
+2023,1538,L3,Trupp Eigenwillig Stiftung & Co. KG,19,6851.90000,FR-4396-93128,light,Kemnath
+2023,1539,L5,Reising Trupp AG & Co. KGaA,20,5563.90000,BG-2480-01871,H,Kemnath
+2015,1540,L6,Sá Figueiredo Lda.,70,32779.40000,SB-0432-03091,normal,Póvoa de Santa Iria
+2019,1541,L5,"Bennett, Wood and Bell",100,20268.40000,NM-5854-37620,3,Schongau
+2022,1542,L2,Sá Figueiredo Lda.,88,8802.00000,UC-8976-94325,3,East Shaneview
+2021,1543,L6,Reis Lda.,9,12170.20000,KY-7717-54295,1,Mühlhausen
+2021,1544,L5,Eberhardt GmbH & Co. KG,93,12539.00000,NS-8344-84944,L,Penafiel
+2018,1545,L2,Sá Figueiredo Lda.,69,22371.80000,DB-4129-70699,L,East Lisafurt
+2023,1546,L2,Monteiro,49,4723.50000,ES-0334-12765,med,Lake Philipville
+2022,1547,L6,Gnatz Hermann AG,85,8377.20000,PA-1003-93207,3,Ludwigsburg
+2022,1548,L4,Fritsch e.G.,35,8237.90000,BJ-9593-77947,1,Ludwigsburg
+2021,1549,L5,Sá Figueiredo Lda.,0,12083.40000,DH-9621-80720,L,West Erinmouth
+2022,1550,L1,Rocha,39,8494.40000,PQ-0587-00809,light,Gloriaberg
+2020,1551,L6,Gnatz Hermann AG,71,16948.40000,NM-6268-14047,med,Serpa
+2023,1552,L2,"Green, Nichols and Robbins",41,4485.30000,NI-6030-65291,N,Queluz
+2023,1553,L1,Rocha,77,4061.90000,QB-0341-88714,med,Rio Tinto
+2021,1554,L6,Rocha,76,12441.20000,WR-2217-99507,normal,Jessen
+2016,1555,L2,Santos,7,,MA-4165-31658,1,Hollandborough
+2020,1556,L5,Martin Neureuther Stiftung & Co. KG,6,,XO-2923-31612,light,Fiães
+2023,1557,L1,Schroeder PLC,20,5407.00000,RP-4553-00372,1,Schongau
+2018,1558,L3,Gnatz Hermann AG,70,22415.20000,WE-3594-19373,2,Mangualde
+2022,1559,L2,Reising Trupp AG & Co. KGaA,82,7986.20000,RT-9804-13414,L,Schongau
+2020,1560,L3,Brooks-Lopez,62,15822.60000,CS-9119-66454,heavy,Thompsonfurt
+2022,1561,L1,Holzapfel,5,7832.00000,CM-9350-09324,L,Wanzleben
+2022,1562,L2,Long-Washington,13,9075.30000,AG-5464-88744,light,Silves
+2022,1563,L1,Maia,94,7615.70000,CU-8624-18732,heavy,Wanzleben
+2019,1564,L6,Ferreira e Filhos,41,19576.80000,MV-5069-12167,med,Gloriaberg
+2021,1565,L3,Santos,4,10709.80000,PH-2554-08354,N,Luckenwalde
+2021,1566,L3,Long-Washington,2,,OK-9360-27470,heavy,Jamesberg
+2019,1567,L6,Ferreira e Filhos,98,19169.10000,RR-2436-39694,heavy,Monicabury
+2023,1568,L3,Santos,55,6453.00000,GE-4117-21783,2,Fürstenwalde
+2024,1569,L1,Ferreira e Filhos,21,2692.40000,QI-3167-45104,L,Seelow
+2022,1570,L4,Reis Lda.,57,7313.20000,XL-5506-79442,med,Barreiro
+2023,1571,L3,Holzapfel,83,6859.70000,II-3580-67324,normal,Säckingen
+2020,1572,L5,Maia,13,15062.00000,KX-9078-16020, light ,Lake Shanemouth
+2021,1573,L4,Trupp Eigenwillig Stiftung & Co. KG,117,13878.70000,YS-5707-12533,H,Póvoa de Santa Iria
+2021,1574,L2,Santos,31,12138.50000,XQ-2934-45497,light,Hollandborough
+2017,1575,L1,"Campbell, Martinez and Brown",6,27269.30000,CR-4836-46371,light,Mariafort
+2023,1576,L5,Rogner Hölzenbecher e.G.,3,6926.80000,MC-9900-85276,L,Felgueiras
+2021,1577,L1,Reising Trupp AG & Co. KGaA,53,13206.20000,DT-4177-03437,heavy,Fürstenwalde
+2022,1578,L3,Long-Washington,21,8981.50000,SV-2381-35373,heavy,Lake Jesus
+2021,1579,L4,"Green, Nichols and Robbins",33,13020.40000,GU-0758-33599, light ,Jamesberg
+2022,1580,L3,"Fields, Castillo and Gibson",91,9097.90000,KS-8976-75067,normal,Luckenwalde
+2022,1581,L3,"Fields, Castillo and Gibson",15,9453.40000,AX-4324-16772,1,Monicabury
+2020,1582,L5,Carson and Sons,66,16492.10000,MT-9759-17336, light ,Thompsonfurt
+2021,1583,L3,Williams-Nicholson,36,12784.00000,YS-9447-05766,light,Säckingen
+2022,1584,L2,Barros Faria Lda.,68,8881.70000,IN-5479-95159,2,Fürstenwalde
+2022,1585,L3,Döring GbR,87,9069.20000,EY-5159-28023,3,Lüdinghausen
+2023,1586,L3,Monteiro,70,6533.60000,DS-6057-37031,normal,Säckingen
+2022,1587,L5,"Fields, Castillo and Gibson",76,7159.90000,CQ-2833-92031,light,Penafiel
+2020,1588,L6,"Green, Nichols and Robbins",88,14791.00000,GB-7407-34543,heavy,Paigemouth
+2022,1589,L5,Reising Trupp AG & Co. KGaA,90,9561.40000,VV-9164-67285, heavy ,Serpa
+2021,1590,L5,Döring GbR,76,,NY-6714-24487,1,Rio Tinto
+2021,1591,L1,"Bennett, Wood and Bell",13,12540.90000,YJ-0606-01187,L,Jeffreychester
+2021,1592,L2,Weinhage Martin GmbH & Co. KGaA,20,12976.00000,BQ-9917-86088,light,Serpa
+2022,1593,L1,Weinhage Davids GbR,36,8443.10000,YX-0003-85193,1,Gloriaberg
+2020,1594,L3,Williams-Nicholson,52,14018.60000,MF-1308-63562,med,Säckingen
+2023,1595,L6,"Mcclure, Mullen and Bernard",61,5046.10000,DO-6191-69437,2,Santa Comba Dão
+2021,1596,L3,Martin Neureuther Stiftung & Co. KG,21,11236.70000,PS-9493-69876,L,Port Cherylview
+2021,1597,L4,Weinhage Davids GbR,66,12863.00000,HF-0952-65857,N,Mangualde
+2021,1598,L5,Weinhage Davids GbR,25,10770.60000,PC-4843-04468,L,Wernigerode
+2020,1599,L3,Eberhardt GmbH & Co. KG,34,14874.30000,FN-4002-69285,normal,Thompsonfurt
+2023,1600,L1,Brooks-Lopez,65,,KN-3989-25081,1,Mühlhausen
+2018,1601,L4,Stumpf GbR,94,21237.20000,WJ-2349-73978,H,Monicabury
+2022,1602,L2,Seip Pölitz GbR,88,7171.10000,NT-3043-67059,heavy,Apolda
+2023,1603,L6,Carson and Sons,22,,OQ-3070-12211,L,Felgueiras
+2022,1604,L4,"Campbell, Martinez and Brown",93,,KL-9791-34040, heavy ,Seelow
+2019,1605,L1,Maia,97,18698.10000,MM-9810-34924,heavy,Queluz
+2021,1606,L2,"Mcclure, Mullen and Bernard",47,11768.60000,DT-5891-28910,H,West Erinmouth
+2022,1607,L3,Hoffmann,17,8257.60000,YY-3363-53032,L,Wanzleben
+2021,1608,L1,Eberhardt GmbH & Co. KG,51,11463.60000,XH-9616-18871,med,Fürstenwalde
+2021,1609,L2,Maia,77,10719.20000,FW-8194-13885,med,Schongau
+2022,1610,L5,"Green, Nichols and Robbins",40,8743.90000,YW-2303-68205,normal,Port Cherylview
+2017,1611,L6,Moreira,43,26797.60000,KP-9451-46935,2,East Lisafurt
+2023,1612,L4,Stumpf GbR,22,5325.30000,MO-1999-91360,L,Hollandborough
+2015,1613,L4,Döring GbR,43,34226.10000,RB-9036-01809,normal,Fiães
+2019,1614,L1,Maia,109,18172.00000,NW-0160-35826, L ,East Lisafurt
+2022,1615,L1,Santos,37,9155.80000,UU-8308-18977,1,Säckingen
+2018,1616,L6,Wende Schulz AG,66,,BQ-3679-49289,2,Jeffreychester
+2021,1617,L3,"Green, Nichols and Robbins",51,12649.20000,MK-3536-01198,normal,Säckingen
+2020,1618,L3,Weinhage Martin GmbH & Co. KGaA,81,15747.70000,UB-5854-32970,med,East Shaneview
+2023,1619,L1,Ferreira e Filhos,61,4607.30000,NW-4022-57723,2,Hollandborough
+2019,1620,L2,Trupp Eigenwillig Stiftung & Co. KG,42,20085.30000,GR-5840-92025,normal,Luckenwalde
+2021,1621,L1,Maia,46,10561.10000,OV-1632-63190,N,Hofgeismar
+2020,1622,L4,Ferreira e Filhos,25,16395.00000,NG-8212-55499,1,North Theresaborough
+2023,1623,L6,"Campbell, Martinez and Brown",17,5416.90000,FQ-3752-50191,1,Wernigerode
+2022,1624,L6,Eberhardt GmbH & Co. KG,99,7954.60000,UN-5776-12609,H,Wernigerode
+2022,1625,L5,Brooks-Lopez,89,9963.00000,FS-1293-34088,light,New Michelleborough
+2023,1626,L2,Rocha,63,5248.90000,PY-9676-56083,2,Weißenfels
+2021,1627,L1,Rogner Hölzenbecher e.G.,21,13851.90000,NM-7906-52829,light,Lüdinghausen
+2020,1628,L5,"Fields, Castillo and Gibson",84,14702.60000,KK-7469-62957,H,Felgueiras
+2012,1629,L4,Hoffmann,18,45000.00000,IY-5138-67638, 1 ,Mühlhausen
+2018,1630,L1,Moreira,50,21793.10000,GJ-0921-21283,med,Lewisfurt
+2022,1631,L2,Long-Washington,37,10414.90000,JU-9446-84480,light,Weißenfels
+2020,1632,L4,Sá Figueiredo Lda.,35,15681.00000,LU-5140-61580,1,Paigemouth
+2023,1633,L4,"Green, Nichols and Robbins",0,6340.50000,WB-1272-16911,light,Barreiro
+2024,1634,L2,Seip Pölitz GbR,31,3323.80000,RX-9827-89071,1,Vila Nova de Foz Côa
+2022,1635,L2,Weinhage Martin GmbH & Co. KGaA,36,9834.90000,YY-7537-28218, light ,Wanzleben
+2022,1636,L1,Williams-Nicholson,10,7853.70000,GW-3244-74527,1,Barreiro
+2021,1637,L6,Rocha,108,10842.20000,PL-2408-87474,3,Felgueiras
+2023,1638,L5,Carson and Sons,110,3844.40000,RE-6603-49417,H,Thompsonfurt
+2023,1639,L4,Hoffmann,49,6927.70000,OG-8056-20282,H,Lewisfurt
+2023,1640,L6,Trupp Eigenwillig Stiftung & Co. KG,21,4583.40000,SG-4723-40072, 1 ,Póvoa de Santa Iria
+2012,1641,L1,Long-Washington,20,42645.80000,NF-6923-38264, light ,Luckenwalde
+2018,1642,L2,"Green, Nichols and Robbins",6,23677.70000,DP-9063-20789,med,Schongau
+2023,1643,L2,Carson and Sons,31,4580.10000,XO-1001-67728,3,Penafiel
+2020,1644,L1,Martin Neureuther Stiftung & Co. KG,64,17082.50000,TZ-9025-64753, N ,Jamesberg
+2022,1645,L6,Brooks-Lopez,90,8921.60000,TQ-2723-88847, L ,Lake Shanemouth
+2023,1646,L3,Williams-Nicholson,2,6068.60000,GJ-8559-74577, L ,Wanzleben
+2017,1647,L3,"Mcclure, Mullen and Bernard",26,25281.20000,MB-2613-99636,light,Fiães
+2023,1648,L1,"Green, Nichols and Robbins",16,4480.10000,VY-8525-32651, med ,Wernigerode
+2020,1649,L4,Borges Mendes S/A,30,14132.10000,HC-6881-92162,L,New Michelleborough
+2022,1650,L3,Fritsch e.G.,57,8940.30000,TR-7507-73613,light,Säckingen
+2019,1651,L6,Döring GbR,72,19160.60000,UX-6404-24339,N,Lake Shanemouth
+2018,1652,L6,Martin Neureuther Stiftung & Co. KG,50,,SP-5800-04012,N,Schongau
+2021,1653,L2,Williams-Nicholson,96,11333.40000,HJ-1541-60624,2,Jamesberg
+2017,1654,L1,Fritsch e.G.,8,27361.90000,CC-5798-77223,1,Lake Jesus
+2022,1655,L3,Rocha,109,8923.60000,GO-7953-68955,N,East Shaneview
+2020,1656,L1,Ferreira e Filhos,9,16349.20000,YO-5741-36683,1,Fürstenwalde
+2022,1657,L3,Hoffmann,116,9584.40000,FZ-0918-60647, 2 ,Rio Tinto
+2023,1658,L4,Rogner Hölzenbecher e.G.,51,5293.30000,AK-5096-93664,H,Kemnath
+2015,1659,L1,Trupp Eigenwillig Stiftung & Co. KG,64,32637.60000,DI-5598-56459,2,Mühlhausen
+2022,1660,L6,Gnatz Hermann AG,106,8789.90000,XE-2635-18784,heavy,Portimão
+2023,1661,L4,Hoffmann,85,5258.60000,QV-0826-82097,3,Wanzleben
+2019,1662,L6,"Bennett, Wood and Bell",14,18829.00000,RC-9633-78926,normal,Hofgeismar
+2022,1663,L4,Fritsch e.G.,105,8491.50000,FA-2374-33487,3,Witzenhausen
+2022,1664,L2,Trupp Eigenwillig Stiftung & Co. KG,92,10498.90000,SM-2314-41927,H,Seelow
+2020,1665,L2,Hoffmann,77,14883.60000,XU-4845-32758,med,Lamego
+2021,1666,L5,Williams-Nicholson,108,10778.00000,AV-4019-70881,heavy,Jamesberg
+2023,1667,L6,Trupp Eigenwillig Stiftung & Co. KG,103,6374.90000,CU-6569-33622,3,Mariafort
+2023,1668,L1,"Campbell, Martinez and Brown",100,5876.80000,BC-5265-16317,heavy,Lüdinghausen
+2023,1669,L2,Long-Washington,7,4009.40000,RL-4606-98159,1,Santa Comba Dão
+2022,1670,L1,Döring GbR,7,9416.50000,II-1372-57588, N ,Silves
+2021,1671,L6,Sá Figueiredo Lda.,30,12222.90000,RI-4388-14564,light,Wernigerode
+2023,1672,L5,Holzapfel,85,4340.50000,NC-8116-65436,1,Lake Jesus
+2023,1673,L4,Trupp Eigenwillig Stiftung & Co. KG,76,5509.00000,RV-3648-87860,med,West Erinmouth
+2020,1674,L2,Ferreira e Filhos,68,14146.40000,JS-0582-96389,2,Hofgeismar
+2021,1675,L1,Seip Pölitz GbR,31,10924.20000,FY-7790-10642,heavy,Königs Wusterhausen
+2021,1676,L5,Holzapfel,84,11433.60000,DW-6180-58838,3,Königs Wusterhausen
+2023,1677,L1,Williams-Nicholson,41,5590.50000,WB-1448-06426,2,Guben
+2022,1678,L3,Borges Mendes S/A,64,10447.70000,QD-7926-10124,med,Queluz
+2022,1679,L1,Pinheiro Lda.,67,8575.20000,YB-1129-48881,2,Port Cherylview
+2023,1680,L6,Sá Valente Lda.,98,5018.70000,HR-9955-63147,H,Jamesberg
+2023,1681,L4,Nguyen Ltd,60,6298.60000,ZC-7826-51501,N,Hollandborough
+2023,1682,L1,Carson and Sons,75,5462.80000,DR-1419-73475,med,Penafiel
+2021,1683,L1,Monteiro,92,12120.50000,ZI-3737-42216,3,East Shaneview
+2020,1684,L6,Eberhardt GmbH & Co. KG,115,17024.70000,PA-0973-05154,H,Felgueiras
+2019,1685,L1,Atzler KG,36,20988.80000,YU-8082-87444,light,Seelow
+2022,1686,L6,Ferreira e Filhos,38,7070.80000,LS-7909-74651,H,Mühlhausen
+2022,1687,L4,Carson and Sons,35,7009.50000,VD-9074-20690,light,Apolda
+2020,1688,L1,Carson and Sons,58,15153.10000,SQ-5290-47412,normal,Serpa
+2019,1689,L1,Williams-Nicholson,18,19381.30000,XF-1864-16359,1,North Theresaborough
+2019,1690,L6,Martin Neureuther Stiftung & Co. KG,58,18355.00000,TA-5873-28182,L,Guben
+2020,1691,L2,"Campbell, Martinez and Brown",100,14670.20000,DN-9023-26764, H ,Königs Wusterhausen
+2012,1692,L4,Williams-Nicholson,70,45000.00000,XC-2904-89475,1,Felgueiras
+2022,1693,L4,Atzler KG,28,7006.40000,NX-3906-35481,med,Penafiel
+2020,1694,L6,Borges Mendes S/A,77,16827.10000,LL-0715-71704,med,Hofgeismar
+2020,1695,L3,Trupp Eigenwillig Stiftung & Co. KG,54,15394.50000,BC-4283-08709,3,Eddiemouth
+2023,1696,L4,Schroeder PLC,27,5974.80000,UQ-6622-91894,normal,Mariafort
+2020,1697,L3,Eberhardt GmbH & Co. KG,25,14898.30000,XO-0417-24547,1,Silves
+2023,1698,L6,Hoffmann,44,5465.30000,LI-4765-03406,N,Santa Comba Dão
+2021,1699,L3,Eberhardt GmbH & Co. KG,15,,ZO-6210-61651,L,West Erinmouth
+2022,1700,L3,Borges Mendes S/A,99,7817.00000,IV-1690-39447,H,Freising
+2017,1701,L6,Holzapfel,109,25465.50000,ED-6350-17440,3,Hofgeismar
+2020,1702,L5,Stumpf GbR,95,,LJ-1549-93194,3,Kemnath
+2021,1703,L1,Santos,88,11991.90000,SK-2336-20649,3,Lake Shanemouth
+2022,1704,L4,"Fields, Castillo and Gibson",68,8101.00000,EB-0271-61574,normal,Lake Michael
+2021,1705,L4,Seip Pölitz GbR,104,10595.10000,BS-1643-24002,H,Jessen
+2023,1706,L3,Mans Schmidtke GmbH,36,6190.50000,KE-7406-37783,normal,Rio Tinto
+2022,1707,L6,Eberhardt GmbH & Co. KG,22,10101.90000,ZV-0229-31406,light,Euskirchen
+2022,1708,L1,Pinheiro Lda.,89,9508.80000,KR-0601-76540,heavy,Lüdinghausen
+2021,1709,L1,Trupp Eigenwillig Stiftung & Co. KG,52,12517.50000,JS-8003-56927, heavy ,Mangualde
+2014,1710,L2,Maia,49,36207.60000,MQ-7300-31857,med,Lake Michael
+2023,1711,L4,Long-Washington,33,4517.00000,LL-6931-22543,L,Roberthaven
+2018,1712,L3,Gnatz Hermann AG,88,21067.00000,HS-2662-06575,2,Lake Michael
+2023,1713,L3,Stumpf GbR,68,,OY-6420-44864,light,Port Cherylview
+2019,1714,L2,Reis Lda.,7,19907.10000,EA-6485-57580,L,Fiães
+2019,1715,L3,Eberhardt GmbH & Co. KG,12,18793.30000,TJ-5932-35208, 1 ,Seelow
+2021,1716,L1,Weinhage Martin GmbH & Co. KGaA,113,13603.10000,PO-7690-09823,H,Vila Nova de Foz Côa
+2019,1717,L5,Long-Washington,20,19534.10000,YJ-7325-27167,heavy,Guben
+2022,1718,L1,"Mcclure, Mullen and Bernard",75,7172.70000,MC-3091-82263,N,East Shaneview
+2015,1719,L4,Pinheiro Lda.,8,33714.10000,BY-9326-97475,1,Eddiemouth
+2021,1720,L3,Döring GbR,52,12025.00000,SE-8256-27427,N,Weißwasser
+2019,1721,L6,Stumpf GbR,22,,OZ-7347-25438,L,Vila Nova de Foz Côa
+2022,1722,L4,Fritsch e.G.,79,7432.70000,WN-4838-27261,med,Guben
+2016,1723,L1,"Fields, Castillo and Gibson",17,30261.50000,UD-0370-38244,light,Weißwasser
+2018,1724,L3,Fritsch e.G.,47,22851.90000,OD-6451-99478,med,Freising
+2021,1725,L2,Monteiro,53,12096.00000,OP-3420-83005,2,Barreiro
+2023,1726,L2,Eberhardt GmbH & Co. KG,80,5919.30000,XY-7382-73225,heavy,Hollandborough
+2019,1727,L6,Sá Valente Lda.,67,18807.30000,IW-6182-07467,N,Lake Philipville
+2022,1728,L2,Atzler KG,113,9724.80000,AZ-6004-24954,3,New Michelleborough
+2023,1729,L1,"Fields, Castillo and Gibson",75,6517.20000,OH-7589-21696,2,Serpa
+2020,1730,L2,Santos,4,14506.30000,EU-9733-37414,1,Hollandborough
+2020,1731,L4,Borges Mendes S/A,62,16423.00000,JF-0185-57969,med,Gloriaberg
+2021,1732,L4,"Green, Nichols and Robbins",21,13642.50000,MI-4113-48092,L,West Erinmouth
+2020,1733,L3,Carson and Sons,56,16816.20000,NR-3614-69648,med,Portimão
+2023,1734,L1,Schroeder PLC,57,6320.70000,EQ-3406-76481, N ,New Cathyville
+2023,1735,L2,Reising Trupp AG & Co. KGaA,40,4821.00000,XA-7162-50016,N,Eddiemouth
+2022,1736,L2,Moreira,51,10262.70000,MC-4591-72714,2,Portimão
+2020,1737,L4,Sá Figueiredo Lda.,9,15647.20000,YL-3759-10936,1,Schongau
+2023,1738,L6,Weinhage Martin GmbH & Co. KGaA,69,6212.20000,GX-3137-86007,normal,Portimão
+2023,1739,L4,Stumpf GbR,18,5684.80000,UJ-4809-02707,light,Weißenfels
+2021,1740,L1,Pinheiro Lda.,40,11888.40000,OA-1759-32224,L,Serpa
+2023,1741,L6,Ferreira e Filhos,113,6852.80000,KC-3239-76164,H,Kemnath
+2023,1742,L1,Eberhardt GmbH & Co. KG,17,6506.90000,TQ-6023-60483,1,Lake Shanemouth
+2020,1743,L3,Rocha,32,15188.80000,QD-5297-60046,1,East Shaneview
+2021,1744,L1,Hoffmann,25,13617.00000,FH-8012-82736,light,Ludwigsburg
+2018,1745,L2,Döring GbR,105,21611.10000,NR-3361-17818,med,Lewisfurt
+2023,1746,L4,Fritsch e.G.,32,4498.60000,DX-6675-59370,light,Guben
+2020,1747,L6,Nguyen Ltd,69,14129.10000,UC-7753-69585, H ,Eddiemouth
+2015,1748,L2,"Mcclure, Mullen and Bernard",117,32799.60000,YC-9064-33180,heavy,Lewisfurt
+2018,1749,L1,Ferreira e Filhos,112,23403.60000,DL-5963-79079,light,Wanzleben
+2021,1750,L3,"Green, Nichols and Robbins",75,13037.60000,FO-3763-39408,N,Fürstenwalde
+2022,1751,L2,Gnatz Hermann AG,45,8757.60000,SK-9845-84317,2,Eddiemouth
+2023,1752,L4,Brooks-Lopez,35,6243.20000,IT-2502-98373, 1 ,Silves
+2023,1753,L6,Pinheiro Lda.,90,3825.20000,OJ-5637-28407,1,Seelow
+2019,1754,L5,"Mcclure, Mullen and Bernard",56,20052.30000,BB-0552-97943,2,Weißwasser
+2022,1755,L3,Atzler KG,113,9586.00000,MN-2623-04549,heavy,Königs Wusterhausen
+2021,1756,L6,Rocha,5,12707.00000,RD-5489-10915, L ,Lewisfurt
+2022,1757,L3,Weinhage Martin GmbH & Co. KGaA,104,10191.50000,NJ-5404-80855, heavy ,Ludwigsburg
+2022,1758,L6,Nguyen Ltd,65,7360.50000,LM-0003-19838,heavy,East Lisafurt
+2023,1759,L3,"Green, Nichols and Robbins",88,4593.30000,DN-4971-30679,3,New Cathyville
+2023,1760,L1,Santos,3,5719.40000,VI-1973-15020,light,Mariafort
+2021,1761,L6,Nguyen Ltd,60,11736.90000,WV-0833-80345, normal ,Seelow
+2019,1762,L2,Seip Pölitz GbR,68,17737.10000,OR-5429-22125,med,Witzenhausen
+2021,1763,L5,Maia,71,12379.10000,WT-8533-94278,2,Fürstenwalde
+2023,1764,L4,Carson and Sons,38,5285.70000,QG-6262-64452,heavy,Euskirchen
+2023,1765,L2,Eberhardt GmbH & Co. KG,34,4953.60000,JK-9508-91169,H,Lake Shanemouth
+2022,1766,L2,Maia,38,7905.30000,MJ-3693-59305,1,Weißenfels
+2021,1767,L4,Barros Faria Lda.,4,,MH-7931-63987,L,Mühlhausen
+2022,1768,L6,Wende Schulz AG,1,10038.30000,AO-8573-15234,1,Monicabury
+2022,1769,L2,Pinheiro Lda.,68,9007.50000,YV-9476-18068,2,Felgueiras
+2020,1770,L3,"Bennett, Wood and Bell",33,14974.70000,LJ-4901-07314,L,Thompsonfurt
+2022,1771,L5,Pinheiro Lda.,54,7561.80000,SB-6849-30193, 1 ,Eichstätt
+2022,1772,L6,Moreira,54,7154.80000,OO-3075-21359,2,Vila Nova de Foz Côa
+2021,1773,L5,Reis Lda.,102,10510.10000,QP-2844-93339,heavy,Rio Tinto
+2021,1774,L5,Hoffmann,84,12898.60000,OT-2025-53005, 1 ,Luckenwalde
+2022,1775,L2,Weinhage Davids GbR,15,10060.00000,HJ-7372-00191,1,Lamego
+2020,1776,L2,Reising Trupp AG & Co. KGaA,93,16019.00000,DZ-9503-42592,H,Lamego
+2022,1777,L4,Reising Trupp AG & Co. KGaA,93,7011.00000,HO-5327-68502,1,Weißwasser
+2021,1778,L4,Holzapfel,116,12243.80000,LM-9046-42804,light,Fürstenwalde
+2019,1779,L6,Williams-Nicholson,102,18200.50000,NX-9997-73343,heavy,Luckenwalde
+2019,1780,L1,Martin Neureuther Stiftung & Co. KG,96,17540.80000,XL-7753-09902, H ,Hollandborough
+2022,1781,L2,Weinhage Davids GbR,42,8656.80000,VQ-3775-53457,N,Felgueiras
+2020,1782,L5,Sá Valente Lda.,81,17070.90000,ZS-5052-71774,L,Jamesberg
+2016,1783,L6,Barros Faria Lda.,8,29183.50000,VL-5687-24690,1,Jeffreychester
+2018,1784,L4,"Mcclure, Mullen and Bernard",31,21849.00000,LF-2695-10501,L,Penafiel
+2023,1785,L3,Schroeder PLC,117,5249.70000,GN-1132-41396,H,Seelow
+2017,1786,L3,"Bennett, Wood and Bell",18,25183.20000,PO-3187-70803,light,Jessen
+2023,1787,L5,Hoffmann,39,6178.60000,JW-8764-80891,1,Wernigerode
+2016,1788,L3,Santos,4,28244.70000,FS-6010-03918, light ,Säckingen
+2021,1789,L4,Wende Schulz AG,39,11740.50000,SJ-7042-59553,1,Monicabury
+2016,1790,L5,Williams-Nicholson,107,30189.70000,OX-4396-92390,2,Jessen
+2018,1791,L3,Monteiro,52,23533.10000,PO-1541-80007,2,New Cathyville
+2023,1792,L5,"Mcclure, Mullen and Bernard",29,4962.50000,WK-4598-58958,1,Jeffreychester
+2014,1793,L5,Barros Faria Lda.,71,35261.80000,DC-0726-19405,normal,Guben
+2021,1794,L2,Eberhardt GmbH & Co. KG,51,12035.10000,SP-1094-71358,2,Felgueiras
+2021,1795,L6,Ferreira e Filhos,73,11187.20000,HP-2874-44039,2,Wanzleben
+2023,1796,L2,Döring GbR,28,6236.70000,MJ-8346-92940,med,Penafiel
+2023,1797,L1,Seip Pölitz GbR,3,4993.00000,CN-5202-85770,1,Queluz
+2024,1798,L5,Moreira,35,3163.10000,JT-8922-84339,light,Port Cherylview
+2021,1799,L2,Rocha,28,13233.90000,SA-5774-68690,1,Vila Nova de Foz Côa
+2020,1800,L5,Maia,9,15552.40000,WP-2609-55250,1,Roberthaven
+2021,1801,L6,Martin Neureuther Stiftung & Co. KG,95,10828.80000,AK-7220-73331,normal,Jeffreychester
+2018,1802,L5,"Green, Nichols and Robbins",18,23100.30000,CM-2025-81172,light,Penafiel
+2021,1803,L6,Pinheiro Lda.,71,13920.90000,KG-0587-55342,N,Paigemouth
+2022,1804,L2,Borges Mendes S/A,102,10246.50000,KI-0373-68005,H,Kemnath
+2022,1805,L5,Schroeder PLC,55,8604.20000,KS-7226-88218, H ,Mühlhausen
+2022,1806,L1,"Fields, Castillo and Gibson",33,10226.00000,EM-6922-75345,H,Seelow
+2021,1807,L2,Williams-Nicholson,2,13659.90000,AP-0674-34120,H,Euskirchen
+2019,1808,L6,Carson and Sons,102,18149.20000,HT-9637-02067,3,Roberthaven
+2018,1809,L2,Sá Valente Lda.,28,21233.00000,CE-8766-20964,1,Lake Jesus
+2022,1810,L1,Fritsch e.G.,33,7815.20000,KB-8382-15928,1,Mühlhausen
+2023,1811,L4,Ferreira e Filhos,115,6130.10000,HL-4181-56300,med,Lamego
+2023,1812,L3,Long-Washington,15,,JA-2641-06014,L,East Lisafurt
+2023,1813,L6,Santos,88,,VA-4058-57835,L,West Erinmouth
+2021,1814,L3,Hoffmann,54,12260.90000,KZ-3697-37403,med,Freising
+2019,1815,L4,Ferreira e Filhos,103,19170.60000,TY-2927-56673,H,Paigemouth
+2022,1816,L4,Stumpf GbR,26,8479.90000,TR-2237-82960,light,Lamego
+2022,1817,L2,Maia,4,9598.00000,XU-1590-33405,1,Wernigerode
+2016,1818,L3,Seip Pölitz GbR,62,30481.90000,OX-7888-44349,N,Gloriaberg
+2021,1819,L5,Pinheiro Lda.,58,13677.70000,NG-6841-50853,med,Wanzleben
+2022,1820,L2,"Campbell, Martinez and Brown",73,,TV-3747-41424,3,Mühlhausen
+2021,1821,L4,Monteiro,12,13809.80000,GV-5828-18017,light,Wernigerode
+2021,1822,L4,Weinhage Davids GbR,20,10691.20000,JL-7867-61101, light ,Fiães
+2023,1823,L5,Weinhage Davids GbR,69,5756.80000,RI-7135-31055,1,Queluz
+2020,1824,L6,Monteiro,22,14133.50000,DF-4671-16275,L,Witzenhausen
+2017,1825,L3,Rocha,41,,EZ-0081-39234,2,Thompsonfurt
+2021,1826,L6,Weinhage Davids GbR,21,12828.20000,MD-5397-47280,L,West Erinmouth
+2021,1827,L5,Barros Faria Lda.,7,11410.60000,QA-0636-30350,light,Lamego
+2023,1828,L3,"Mcclure, Mullen and Bernard",39,6461.80000,HN-1837-11573,L,Penafiel
+2022,1829,L3,Martin Neureuther Stiftung & Co. KG,26,8094.70000,KB-2446-91077,1,Apolda
+2020,1830,L2,Barros Faria Lda.,0,14874.00000,LR-1386-02599,L,Luckenwalde
+2023,1831,L4,Carson and Sons,93,5978.50000,XH-1936-32446,1,Lake Jesus
+2020,1832,L3,Maia,97,14823.20000,WW-1417-63510,3,Säckingen
+2015,1833,L4,Borges Mendes S/A,119,32777.70000,PR-2862-08683,heavy,Felgueiras
+2021,1834,L6,Seip Pölitz GbR,74,10614.00000,BM-7172-26855,normal,Queluz
+2023,1835,L1,Trupp Eigenwillig Stiftung & Co. KG,95,6310.10000,CQ-6118-14242,heavy,Hollandborough
+2016,1836,L1,Sá Valente Lda.,106,29855.10000,UK-9279-51656,3,Lake Michael
+2018,1837,L6,Schroeder PLC,55,22050.00000,DV-4129-51578,med,Hollandborough
+2022,1838,L3,Fritsch e.G.,43,7489.80000,AY-5778-65134,N,Rio Tinto
+2023,1839,L5,Eberhardt GmbH & Co. KG,54,4936.40000,MM-1062-22037,1,Monicabury
+2019,1840,L5,Stumpf GbR,17,18246.70000,CR-8927-59122, light ,Guben
+2023,1841,L5,Sá Figueiredo Lda.,109,3644.00000,WP-4387-38782,2,East Shaneview
+2022,1842,L2,Rocha,38,7731.70000,ZG-6354-89620,L,East Lisafurt
+2022,1843,L4,Pinheiro Lda.,115,9723.70000,ZX-8418-24019,3,Serpa
+2021,1844,L1,Mans Schmidtke GmbH,44,10786.30000,PZ-0761-39778,N,Jamesberg
+2021,1845,L2,Maia,23,11936.10000,IH-6295-22083, light ,Vila Nova de Foz Côa
+2014,1846,L4,Sá Figueiredo Lda.,95,38460.80000,RE-0116-39392,light,Säckingen
+2019,1847,L6,Eberhardt GmbH & Co. KG,1,,AX-1296-13975,1,Mühlhausen
+2020,1848,L2,Eberhardt GmbH & Co. KG,64,17312.70000,OH-9077-41706,N,Lake Philipville
+2021,1849,L2,Williams-Nicholson,86,13007.10000,UG-3848-97103,heavy,Wanzleben
+2022,1850,L3,Döring GbR,2,7667.70000,QU-2138-88728,light,Lamego
+2019,1851,L6,"Campbell, Martinez and Brown",70,19282.30000,NQ-4958-51414,med,Portimão
+2022,1852,L2,Maia,69,,GH-8422-39657,N,Hofgeismar
+2022,1853,L5,Seip Pölitz GbR,119,7527.90000,IK-6156-47268,heavy,Mariafort
+2023,1854,L2,Monteiro,39,5619.90000,PJ-2807-16257,med,Eichstätt
+2012,1855,L4,Martin Neureuther Stiftung & Co. KG,47,45000.00000,QC-8811-26455,normal,Felgueiras
+2016,1856,L2,"Fields, Castillo and Gibson",27,28477.50000,PP-1224-74808,med,Jessen
+2018,1857,L1,Pinheiro Lda.,85,23581.20000,OP-8988-17157,3,Hofgeismar
+2022,1858,L4,Döring GbR,7,7145.30000,YC-8474-25632,L,Guben
+2022,1859,L6,Seip Pölitz GbR,31,7323.10000,PI-6857-60201, light ,Fürstenwalde
+2021,1860,L6,Sá Figueiredo Lda.,62,11220.60000,ZT-7369-70432,2,Mühlhausen
+2023,1861,L3,Martin Neureuther Stiftung & Co. KG,101,4347.60000,VN-2051-66080, heavy ,Mühlhausen
+2022,1862,L5,"Campbell, Martinez and Brown",35,10277.20000,VA-9176-93247,1,Seelow
+2023,1863,L5,Moreira,115,5674.50000,IF-1533-87930,3,Schongau
+2020,1864,L3,Nguyen Ltd,83,14237.70000,IO-1350-08938,med,Paigemouth
+2022,1865,L6,Brooks-Lopez,100,9952.40000,KY-5921-64819,3,Santa Comba Dão
+2018,1866,L3,Eberhardt GmbH & Co. KG,25,22597.70000,TZ-7703-11715, 1 ,North Theresaborough
+2022,1867,L3,Pinheiro Lda.,95,7458.20000,VE-0796-82535,3,Felgueiras
+2022,1868,L6,Nguyen Ltd,13,7345.50000,XB-8732-81591,light,Lamego
+2020,1869,L2,Borges Mendes S/A,37,14791.80000,ED-1754-00016,light,Kemnath
+2023,1870,L4,Rogner Hölzenbecher e.G.,36,3951.20000,XV-1481-86216,3,Gloriaberg
+2022,1871,L4,Weinhage Martin GmbH & Co. KGaA,88,8158.10000,GV-8024-99108,heavy,Penafiel
+2023,1872,L6,Long-Washington,11,6813.20000,EB-0873-21800,L,Seelow
+2017,1873,L3,Sá Valente Lda.,27,25441.40000,WS-7244-15746,light,Hofgeismar
+2022,1874,L4,Long-Washington,112,,KH-9154-46685,H,North Theresaborough
+2022,1875,L2,Sá Valente Lda.,27,8207.30000,TH-6147-90651,1,Ludwigsburg
+2020,1876,L2,Williams-Nicholson,71,14297.70000,LM-4101-59301, 2 ,Kemnath
+2022,1877,L2,Pinheiro Lda.,102,,VT-0330-34086, 3 ,East Shaneview
+2022,1878,L5,Mans Schmidtke GmbH,33,8562.70000,LR-1254-03843,L,Lüdinghausen
+2023,1879,L3,"Fields, Castillo and Gibson",4,5412.00000,WF-9780-96246,L,Witzenhausen
+2023,1880,L2,Weinhage Martin GmbH & Co. KGaA,6,5782.60000,GJ-5578-51845,2,Eddiemouth
+2022,1881,L1,Weinhage Davids GbR,12,7289.80000,WT-1935-71166,light,Weißenfels
+2019,1882,L6,Fritsch e.G.,62,17767.70000,YV-8662-88693,N,Eichstätt
+2021,1883,L1,Weinhage Davids GbR,27,11377.40000,LJ-2093-08500, 1 ,Schongau
+2021,1884,L6,Holzapfel,19,,KF-6685-79783,L,Felgueiras
+2021,1885,L4,Fritsch e.G.,118,12741.10000,UG-8769-43293,N,Weißwasser
+2020,1886,L6,Rogner Hölzenbecher e.G.,20,14369.10000,EE-5982-23256,light,Seelow
+2023,1887,L5,"Bennett, Wood and Bell",67,6081.00000,XS-3404-81013,normal,Euskirchen
+2020,1888,L5,Monteiro,52,14261.90000,MI-7291-88628,2,Silves
+2023,1889,L1,Rogner Hölzenbecher e.G.,93,4353.60000,HI-2480-77007,H,Paigemouth
+2021,1890,L4,Sá Figueiredo Lda.,17,12763.40000,MJ-0062-90497,L,New Cathyville
+2023,1891,L1,Döring GbR,4,,ID-2001-49636,L,Weißenfels
+2024,1892,L2,Martin Neureuther Stiftung & Co. KG,69,2872.30000,OF-3921-60485,heavy,Weißwasser
+2014,1893,L1,Ferreira e Filhos,107,35135.30000,FW-3665-36245,H,New Michelleborough
+2019,1894,L1,Brooks-Lopez,88,18085.20000,YN-3656-89609,H,Apolda
+2017,1895,L4,"Mcclure, Mullen and Bernard",0,25157.40000,UW-5501-34934,1,East Lisafurt
+2019,1896,L5,Long-Washington,46,18920.20000,PW-8363-48079,2,Mühlhausen
+2022,1897,L2,Carson and Sons,77,8862.40000,LZ-5602-65290, med ,Weißwasser
+2023,1898,L2,Monteiro,36,6371.70000,AS-2134-24684,1,Seelow
+2021,1899,L1,Stumpf GbR,61,13570.20000,AB-3420-56163,normal,Lamego
+2022,1900,L2,Barros Faria Lda.,110,8213.50000,AQ-9000-81305,2,Portimão
+2023,1901,L6,Santos,24,5833.00000,VL-0047-41481,1,Schongau
+2022,1902,L6,Gnatz Hermann AG,38,9537.60000,TB-5713-85205,light,Witzenhausen
+2023,1903,L2,Eberhardt GmbH & Co. KG,62,6689.80000,LV-8809-17557,N,New Michelleborough
+2022,1904,L3,Stumpf GbR,38,10110.30000,YF-1537-13103,1,Lamego
+2020,1905,L4,Carson and Sons,30,14907.30000,UB-7613-07344,N,Felgueiras
+2023,1906,L2,"Green, Nichols and Robbins",98,5031.80000,QZ-7207-00453,L,Jamesberg
+2020,1907,L3,Wende Schulz AG,117,17026.40000,FP-4414-64596,3,Monicabury
+2022,1908,L4,Ferreira e Filhos,48,9975.30000,AV-1409-12724,med,Mühlhausen
+2022,1909,L6,Moreira,40,8037.60000,DK-5844-27750,2,Ludwigsburg
+2022,1910,L5,Carson and Sons,27,9175.10000,MI-1534-66595,L,Felgueiras
+2022,1911,L4,Hoffmann,83,7011.60000,PU-7379-67046,H,Euskirchen
+2023,1912,L4,Rocha,61,6691.10000,PK-5229-03326,med,Jeffreychester
+2024,1913,L4,Weinhage Martin GmbH & Co. KGaA,58,,QO-6461-13869,N,Mangualde
+2023,1914,L3,Martin Neureuther Stiftung & Co. KG,98,5515.20000,GX-7990-95591, L ,Lüdinghausen
+2022,1915,L1,"Green, Nichols and Robbins",49,8211.70000,ZU-9860-47884,2,Säckingen
+2022,1916,L6,Rogner Hölzenbecher e.G.,25,9751.80000,CV-8723-75478, light ,Weißenfels
+2023,1917,L4,"Mcclure, Mullen and Bernard",68,5116.70000,GZ-4896-80671,normal,São Salvador de Lordelo
+2021,1918,L5,Reising Trupp AG & Co. KGaA,87,12220.10000,GQ-2496-92213,N,Guben
+2023,1919,L6,Fritsch e.G.,9,4941.20000,ER-3081-51375,L,Rio Tinto
+2019,1920,L6,Monteiro,98,18566.40000,KR-4931-85082,med,Vila Nova de Foz Côa
+2021,1921,L5,"Campbell, Martinez and Brown",76,11009.60000,KI-2148-81230,2,Apolda
+2018,1922,L4,Weinhage Davids GbR,108,22849.10000,LW-9533-28163,heavy,Seelow
+2023,1923,L4,Long-Washington,3,6815.00000,EY-8012-98069,light,Königs Wusterhausen
+2022,1924,L6,Hoffmann,17,10338.50000,YH-4281-14015,1,Apolda
+2018,1925,L4,Sá Figueiredo Lda.,107,,HQ-9969-40816,H,Lake Jesus
+2023,1926,L1,Rocha,41,5998.70000,ZP-5534-21688,med,Königs Wusterhausen
+2021,1927,L3,Mans Schmidtke GmbH,35,13122.50000,PW-0596-71302,L,Mangualde
+2020,1928,L2,Santos,40,16809.30000,EL-9856-67703,2,Gloriaberg
+2017,1929,L6,Borges Mendes S/A,6,24848.30000,GQ-6866-16971,1,Ludwigsburg
+2021,1930,L5,Döring GbR,66,11793.40000,SY-0011-16180,2,Port Cherylview
+2019,1931,L2,Holzapfel,113,,AQ-2075-79122,heavy,New Michelleborough
+2021,1932,L5,Pinheiro Lda.,104,13664.90000,TX-3076-73725,H,Felgueiras
+2022,1933,L4,Sá Figueiredo Lda.,3,9882.60000,CG-0949-04719,L,Mariafort
+2020,1934,L5,Barros Faria Lda.,17,14829.60000,VX-9763-97761,light,Jeffreychester
+2022,1935,L6,Monteiro,11,9976.90000,HQ-6539-04496,1,East Lisafurt
+2022,1936,L4,Borges Mendes S/A,62,9823.10000,IB-8830-43538,med,Penafiel
+2020,1937,L4,Moreira,56,16713.70000,DW-5151-51056,normal,East Lisafurt
+2022,1938,L2,Reising Trupp AG & Co. KGaA,65,9574.00000,BD-9100-27803, N ,Weißwasser
+2020,1939,L1,Long-Washington,68,16200.60000,IF-0544-00278,N,Seelow
+2022,1940,L3,Stumpf GbR,41,7715.70000,SO-1014-57878, 2 ,Silves
+2023,1941,L6,Schroeder PLC,35,5426.60000,XT-1000-30225,L,Barreiro
+2023,1942,L2,Sá Figueiredo Lda.,39,6120.70000,VF-3712-82681,light,Seelow
+2023,1943,L3,Fritsch e.G.,52,6164.80000,LL-1594-75614,normal,Serpa
+2023,1944,L1,Hoffmann,56,4026.40000,RW-9475-36478, med ,Mühlhausen
+2021,1945,L1,Moreira,30,10503.70000,HK-3405-71141,1,Paigemouth
+2021,1946,L6,Reis Lda.,28,10689.10000,CW-5742-14374,L,Mariafort
+2021,1947,L5,Long-Washington,107,11039.20000,LE-0085-77423,heavy,Póvoa de Santa Iria
+2023,1948,L2,Williams-Nicholson,42,6783.00000,IR-7348-16002,med,Hollandborough
+2023,1949,L1,Wende Schulz AG,112,5253.30000,ZD-4324-22211,light,Schongau
+2021,1950,L6,Weinhage Martin GmbH & Co. KGaA,75,12285.50000,UT-6857-85433,normal,Jamesberg
+2021,1951,L4,Schroeder PLC,8,13417.70000,GI-3486-47686,1,Santa Comba Dão
+2014,1952,L3,Pinheiro Lda.,46,37327.40000,PB-5149-75765,heavy,Serpa
+2020,1953,L4,Maia,27,15513.30000,GA-4212-56086,L,Eddiemouth
+2023,1954,L1,Carson and Sons,90,3605.70000,MA-0589-94851,3,Rio Tinto
+2020,1955,L5,Carson and Sons,82,14404.30000,SM-6189-56137,3,São Salvador de Lordelo
+2024,1956,L3,Schroeder PLC,118,2744.00000,HJ-8314-05910,1,Lake Michael
+2023,1957,L2,"Campbell, Martinez and Brown",31,6396.00000,VZ-5525-94282,1,Säckingen
+2023,1958,L1,Carson and Sons,62,6139.60000,DI-9669-41278,med,Weißenfels
+2020,1959,L3,Santos,1,14734.40000,FA-7283-06580,L,New Michelleborough
+2023,1960,L1,Ferreira e Filhos,47,,WU-4261-13924,med,Barreiro
+2017,1961,L3,Döring GbR,62,,LT-6922-18073,N,Königs Wusterhausen
+2021,1962,L5,Seip Pölitz GbR,16,12628.20000,XS-7019-13608,3,East Lisafurt
+2020,1963,L1,Long-Washington,41,14779.80000,VG-6254-74123,med,East Lisafurt
+2022,1964,L5,Maia,45,8255.00000,WJ-5616-30221,med,East Lisafurt
+2023,1965,L2,Wende Schulz AG,14,4830.90000,KY-2463-27726,med,Freising
+2019,1966,L5,Barros Faria Lda.,62,20793.70000,JN-8849-68758,normal,Rio Tinto
+2012,1967,L6,Rogner Hölzenbecher e.G.,44,45000.00000,DV-0539-85386,normal,Ludwigsburg
+2021,1968,L6,Döring GbR,9,13439.30000,ST-2909-55216,L,Felgueiras
+2023,1969,L2,Williams-Nicholson,119,,BW-0843-12731,3,Apolda
+2014,1970,L6,Sá Figueiredo Lda.,41,35240.60000,KX-9968-44168,med,Vila Nova de Foz Côa
+2020,1971,L3,Trupp Eigenwillig Stiftung & Co. KG,48,14082.70000,QE-0275-52741,N,Jessen
+2020,1972,L5,Santos,99,16179.50000,VU-0878-84846,light,Seelow
+2013,1973,L6,Trupp Eigenwillig Stiftung & Co. KG,54,40496.70000,DB-5018-81172,med,West Erinmouth
+2019,1974,L2,Monteiro,15,20695.90000,OK-7655-37227,1,Lake Jesus
+2021,1975,L1,"Bennett, Wood and Bell",117,11041.50000,WK-4703-10886,N,Königs Wusterhausen
+2012,1976,L4,Rocha,15,45000.00000,PD-7240-82249,1,Lake Philipville
+2019,1977,L3,Seip Pölitz GbR,77,19208.10000,TJ-7570-58141,normal,Paigemouth
+2012,1978,L3,Reis Lda.,9,45000.00000,FL-1172-28702,L,Hofgeismar
+2017,1979,L6,"Green, Nichols and Robbins",43,26913.50000,AY-1772-03067, N ,Kemnath
+2021,1980,L6,Williams-Nicholson,50,11193.70000,NO-2767-72263,med,Luckenwalde
+2023,1981,L1,Williams-Nicholson,33,6083.10000,SH-0905-77198,3,São Salvador de Lordelo
+2018,1982,L2,"Fields, Castillo and Gibson",12,21919.60000,VX-2203-80730,L,Jessen
+2023,1983,L1,Maia,35,6846.50000,JL-7612-55025,light,Mariafort
+2021,1984,L3,"Mcclure, Mullen and Bernard",46,13462.60000,NJ-9218-48614,2,Apolda
+2020,1985,L4,Weinhage Martin GmbH & Co. KGaA,101,14817.00000,NF-2996-99755,H,Seelow
+2023,1986,L2,Ferreira e Filhos,89,6738.40000,EX-4891-97276,L,Lake Jesus
+2022,1987,L5,Borges Mendes S/A,4,9213.10000,ST-8636-33089,light,New Michelleborough
+2023,1988,L1,Pinheiro Lda.,27,,WK-2045-47943,L,Port Cherylview
+2021,1989,L6,Nguyen Ltd,49,12460.60000,QL-7960-07433,1,Mariafort
+2021,1990,L6,Trupp Eigenwillig Stiftung & Co. KG,35,11900.10000,HY-1098-49705, L ,Serpa
+2021,1991,L4,Monteiro,108,,OH-0714-55687,3,São Salvador de Lordelo
+2024,1992,L2,Gnatz Hermann AG,59,3152.20000,NY-2095-85835, 2 ,Witzenhausen
+2012,1993,L3,Fritsch e.G.,13,43831.80000,XN-8312-55249,L,Eichstätt
+2017,1994,L6,"Campbell, Martinez and Brown",50,24564.10000,XU-6182-81054, normal ,Felgueiras
+2023,1995,L3,Pinheiro Lda.,31,5632.70000,OE-3198-91340,1,Luckenwalde
+2012,1996,L1,Santos,9,44900.30000,SJ-9160-66218,1,Jessen
+2018,1997,L3,Schroeder PLC,79,22870.50000,PJ-3706-98009,normal,Lüdinghausen
+2022,1998,L4,Williams-Nicholson,67,10171.60000,PX-7411-99635,normal,Eddiemouth
+2022,1999,L3,Williams-Nicholson,88,7554.10000,UU-4169-09541, heavy ,East Shaneview
+2022,2000,L5,Rogner Hölzenbecher e.G.,47,10020.90000,VC-3086-68024,L,Mühlhausen
